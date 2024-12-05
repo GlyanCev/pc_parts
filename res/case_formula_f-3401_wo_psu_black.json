@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Formula F-3401 w/o PSU Black",
+    "price": 187.75,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/1/3749681/icfd842ff2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/ibddf6bb62.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/i8f7ebdb85.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/i3378fb202.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/i4ea296bd9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/ia5a7b4b4e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/i0b7ae2512.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/if365c26c7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/i459af502e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/3749681/i5f8446401.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_gpu_length": 320,
+        "liquid_cooling_support": true
+    }
+}

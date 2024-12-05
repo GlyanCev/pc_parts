@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-226-XT Black",
+    "price": 139.76,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/e/4694809/i2f6e5939c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/e/4694809/i668c4d284.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/e/4694809/i5b7510beb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/e/4694809/ie19553ea8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/e/4694809/i2c413e5a3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/e/4694809/iae2fa14e7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/e/4694809/i601691919.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, LGA 2011, LGA 2011-3, AM5",
+        "liquid_cooling": false,
+        "tdp": 250
+    }
+}

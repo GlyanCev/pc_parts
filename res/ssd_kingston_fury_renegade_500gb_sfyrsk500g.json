@@ -1,0 +1,17 @@
+{
+    "type": "ssd",
+    "title": "Kingston Fury Renegade 500GB SFYRSK/500G",
+    "price": 269.41,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/0/4694273/ieb4e70eb6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/0/4694273/i421d5b59f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/0/4694273/i3305a3d13.jpg"
+    ],
+    "data": {
+        "form_factor": "M.2",
+        "capacity": 500,
+        "write_speed": 3900,
+        "read_speed": 7300,
+        "pci_e_type": "PCI-E 4.0 x4"
+    }
+}

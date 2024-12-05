@@ -1,0 +1,40 @@
+{
+    "type": "case",
+    "title": "DeepCool Matrexx 50 Mesh 4FS DP-ATX-MATREXX50-MESH-4FS",
+    "price": 233.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/2/4514948/i9369cebe2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i6acee41f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i058320434.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i953211067.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/iaacfab1a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i324bfe7ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i4ef398260.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/iff090b196.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/ic44ec4d2f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/ibe8193576.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/ib11ec3ff2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/ib39daab22.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i32f917cb7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i3cacebbfb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i2ff166ee2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/ieddeda019.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i4bdda24cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i6a43df0dd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i95bc0713e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/i87ca4c711.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4514948/ifb3170483.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 370,
+        "max_psu_length": 170,
+        "liquid_cooling_support": true
+    }
+}

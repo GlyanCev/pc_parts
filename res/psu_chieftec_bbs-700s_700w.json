@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "Chieftec BBS-700S 700W",
+    "price": 283.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/d/3757069/ib4a94ea86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/3757069/i3cbb48565.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/3757069/i9656265e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/3757069/ic54aebe2c.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 87,
+        "depth": 140,
+        "weight": "1.72 Í„"
+    }
+}

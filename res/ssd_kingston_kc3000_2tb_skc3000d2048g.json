@@ -1,0 +1,19 @@
+{
+    "type": "ssd",
+    "title": "Kingston KC3000 2TB SKC3000D/2048G",
+    "price": 575.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/e/4550357/i31d84a81b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4550357/ie3032ce7a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4550357/i2185abb81.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4550357/i535f8e8d4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4550357/i858fb2d72.jpg"
+    ],
+    "data": {
+        "form_factor": "M.2",
+        "capacity": 2000,
+        "write_speed": 7000,
+        "read_speed": 7000,
+        "pci_e_type": "PCI-E 4.0 x4"
+    }
+}

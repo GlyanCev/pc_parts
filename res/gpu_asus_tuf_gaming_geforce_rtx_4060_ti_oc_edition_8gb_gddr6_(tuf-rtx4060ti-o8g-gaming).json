@@ -1,0 +1,40 @@
+{
+    "type": "gpu",
+    "title": "ASUS TUF Gaming GeForce RTX 4060 Ti OC Edition 8GB GDDR6 (TUF-RTX4060TI-O8G-GAMING)",
+    "price": 1932.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/5/4751311/ie5a28d4d4.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/if8c2be750.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/ic478ebcea.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i0f429f706.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i4ad433cd1.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/icf81eacd5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i2bde9a2da.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i4abdeacf1.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i7f69141a6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/id737cd8f8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/ifc6d3e318.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i3191bfbba.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i28b5229d2.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i51488430d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i6f4caf7e2.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i819609c8c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i2ce3273a9.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4751311/i529b39021.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 311.4
+    }
+}

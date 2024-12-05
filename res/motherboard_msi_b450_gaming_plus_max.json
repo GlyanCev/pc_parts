@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "MSI B450 GAMING PLUS MAX",
+    "price": 353.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/c/3928663/i4ca74e2dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3928663/i1d32d08bd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3928663/iea8f87f76.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3928663/ida31fddf5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3928663/ie8269ba45.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 4,
+        "max_memory_frequency": 4133,
+        "dual_channel": true,
+        "chipset_name": "AMD B450",
+        "sata_slots": 6,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

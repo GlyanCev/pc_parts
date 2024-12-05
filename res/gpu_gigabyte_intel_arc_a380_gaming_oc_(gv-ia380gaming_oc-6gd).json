@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Intel Arc A380 Gaming OC (GV-IA380GAMING OC-6GD)",
+    "price": 669.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/6/4690163/i8ce408849.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4690163/i94f631f42.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4690163/ib5f41eca4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4690163/i0e6586ef6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4690163/iec22d3715.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4690163/i56e313a4c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4690163/i4ecf370ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4690163/if3e06fb57.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "Intel",
+        "video_processor": "DG2-128",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 15500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "6 pin",
+        "recommended_psu": 350,
+        "width": 280
+    }
+}

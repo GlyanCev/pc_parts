@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 5 5600G",
+    "price": 455.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/f/4539338/i6bdeaa318.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2021,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 7,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Vega 7",
+        "integrated_graphics_freq": 1900,
+        "processor_clock": 3900,
+        "l2_cache_size": 3,
+        "l3_cache_size": 16,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

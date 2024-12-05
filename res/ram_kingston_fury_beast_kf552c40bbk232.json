@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast KF552C40BBK2/32",
+    "price": 473.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/3/4581215/i3a7dad305.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/3/4581215/ifc13206cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/3/4581215/i0e51bfef8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/3/4581215/i227633399.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/3/4581215/i4df3ec6fe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/3/4581215/if6d1766b9.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 5200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

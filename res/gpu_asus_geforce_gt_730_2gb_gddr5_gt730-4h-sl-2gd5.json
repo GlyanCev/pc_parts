@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "ASUS GeForce GT 730 2GB GDDR5 GT730-4H-SL-2GD5",
+    "price": 345.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/5/4539766/i91082e51c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/5/4539766/ibdca4ed61.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/5/4539766/i3894dd114.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/5/4539766/i2c8e16997.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/5/4539766/i0ed433f11.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR5",
+        "memory_size": 2048,
+        "memory_frequency": 5010,
+        "ray_tracing": false,
+        "directx_version": 11.2,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 148
+    }
+}

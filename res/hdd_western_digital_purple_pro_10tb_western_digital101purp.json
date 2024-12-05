@@ -1,0 +1,14 @@
+{
+    "type": "hdd",
+    "title": "Western Digital Purple Pro 10TB Western Digital101PURP",
+    "price": 1091.39,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/3/4517088/i30d62ec44.jpg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 10000,
+        "rpm": 7200,
+        "read_speed": 265
+    }
+}

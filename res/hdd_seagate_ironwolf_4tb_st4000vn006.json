@@ -1,0 +1,13 @@
+{
+    "type": "hdd",
+    "title": "Seagate Ironwolf 4TB ST4000VN006",
+    "price": 440.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/c/4659466/i62ce3b39d.jpeg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 4000,
+        "rpm": 5400
+    }
+}

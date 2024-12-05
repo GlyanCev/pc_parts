@@ -1,0 +1,22 @@
+{
+    "type": "motherboard",
+    "title": "MSI H510TI-S09",
+    "price": 378.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/f/4941762/ib8f4537d4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/f/4941762/ib72599ec9.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "memory_type": "DDR4 SO-DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "dual_channel": true,
+        "chipset_name": "Intel H510",
+        "sata_slots": 2,
+        "m2_slots": 1,
+        "usb_ports_total": 7,
+        "form_factor": "mini-ITX"
+    }
+}

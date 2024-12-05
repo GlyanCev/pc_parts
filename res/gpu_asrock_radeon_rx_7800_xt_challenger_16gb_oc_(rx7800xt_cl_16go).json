@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX 7800 XT Challenger 16GB OC (RX7800XT CL 16GO)",
+    "price": 2252.86,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/4/4816992/i120450a11.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4816992/i51b892561.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 267
+    }
+}

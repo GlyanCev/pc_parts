@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B650 PG Lightning",
+    "price": 531.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/3/4683899/i2cd7c74c3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/4683899/i0264a5bfa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/4683899/i81e101cf3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/4683899/i57737d6e6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/4683899/i3e80ffab3.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6400,
+        "dual_channel": true,
+        "chipset_name": "AMD B650",
+        "uefi_support": true,
+        "m2_slots": 3,
+        "usb_ports_total": 15,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

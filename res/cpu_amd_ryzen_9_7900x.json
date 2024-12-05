@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 9 7900X",
+    "price": 1497.45,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/5/4674318/ib459d1f9b.jpeg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "release_year": 2022,
+        "core_count": 12,
+        "thread_count": 24,
+        "process_technology": 5,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Radeon Graphics",
+        "integrated_graphics_freq": 2200,
+        "processor_clock": 4700,
+        "l2_cache_size": 12,
+        "l3_cache_size": 64,
+        "tdp": 170,
+        "memory_type": "DDR5"
+    }
+}

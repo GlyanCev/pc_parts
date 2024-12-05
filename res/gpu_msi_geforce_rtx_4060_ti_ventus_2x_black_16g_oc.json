@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4060 Ti Ventus 2X Black 16G OC",
+    "price": 2078.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/5/4765128/ic0e0bbfe9.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4765128/i9b5ee6025.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4765128/ife43d2622.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4765128/i0f2a83f73.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4765128/i04f130b8d.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 199
+    }
+}

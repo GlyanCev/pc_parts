@@ -1,0 +1,16 @@
+{
+    "type": "ssd",
+    "title": "Kingston SA400S37/480G",
+    "price": 138.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/1/2855641/ibbb9d8718.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/2855641/i2e4294f24.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/2855641/ie4f7a4751.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 480,
+        "write_speed": 450,
+        "read_speed": 500
+    }
+}

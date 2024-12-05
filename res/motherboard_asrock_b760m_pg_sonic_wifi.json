@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B760M PG Sonic WiFi",
+    "price": 644.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/0/4817032/i45c846201.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4817032/i437382fc2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4817032/i05a26de23.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4817032/i4d4996afd.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4817032/id3b8c2785.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4817032/i346f12b3c.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 7200,
+        "dual_channel": true,
+        "chipset_name": "Intel B760",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 3,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

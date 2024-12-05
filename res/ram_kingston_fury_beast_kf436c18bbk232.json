@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston Fury Beast KF436C18BBK2/32",
+    "price": 338.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/f/4547518/i18596c43e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4547518/icbbd77250.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4547518/ic49d231e6.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

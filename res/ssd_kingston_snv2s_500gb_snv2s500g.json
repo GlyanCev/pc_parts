@@ -1,0 +1,17 @@
+{
+    "type": "ssd",
+    "title": "Kingston SNV2S 500GB SNV2S/500G",
+    "price": 152.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/3/4662045/i4bb7efdba.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/3/4662045/ie6fa0a238.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/3/4662045/iaf09f1f19.jpg"
+    ],
+    "data": {
+        "form_factor": "M.2",
+        "capacity": 500,
+        "write_speed": 2100,
+        "read_speed": 3500,
+        "pci_e_type": "PCI-E 4.0 x4"
+    }
+}

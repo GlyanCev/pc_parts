@@ -1,0 +1,19 @@
+{
+    "type": "ssd",
+    "title": "Samsung 980 1000 GB MZ-V8V1T0BW",
+    "price": 313.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/8/4440223/i7cccf4a98.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4440223/i974b005bc.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4440223/idadb633f2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4440223/i5688e695d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4440223/i40abebe84.png"
+    ],
+    "data": {
+        "form_factor": "M.2",
+        "capacity": 1000,
+        "write_speed": 3000,
+        "read_speed": 3500,
+        "pci_e_type": "PCI-E 3.0 x4"
+    }
+}

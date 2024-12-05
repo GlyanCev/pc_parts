@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PSD432G32002",
+    "price": 239.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/d/4182641/if0c1f22ec.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

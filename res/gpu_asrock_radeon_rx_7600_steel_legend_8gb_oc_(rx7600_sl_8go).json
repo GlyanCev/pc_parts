@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX 7600 Steel Legend 8GB OC (RX7600 SL 8GO)",
+    "price": 1283.73,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/3/4751251/i7e444981e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4751251/i2e172ba7a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4751251/id3d0286ff.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4751251/i20c6a01ba.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4751251/i6221b9ec4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4751251/if400f11ca.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 33",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 600,
+        "width": 305
+    }
+}

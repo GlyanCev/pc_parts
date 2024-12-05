@@ -1,0 +1,31 @@
+{
+    "type": "case",
+    "title": "AeroCool Hive FRGB Black",
+    "price": 127.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/f/4249711/i0f15c47f6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i289f3926c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i2be18a091.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i7efa2b9dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/ib3935e43e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i9b567440c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i1e7788376.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i75169368b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i4d9f79760.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/ibe60d5a1a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/ide4171d7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4249711/i4f22f39af.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 157,
+        "max_gpu_length": 317,
+        "max_psu_length": 192,
+        "liquid_cooling_support": true
+    }
+}

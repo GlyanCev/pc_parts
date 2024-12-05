@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "GIGABYTE B760M AORUS ELITE AX (rev. 1.0)",
+    "price": 698.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/4699787/ibdbdf3db6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4699787/ic170576b8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4699787/ie1edeedc7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4699787/i2f0904c3b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4699787/ief5f9d0e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4699787/i046c032da.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 7600,
+        "dual_channel": true,
+        "chipset_name": "Intel B760",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 16,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "mATX"
+    }
+}

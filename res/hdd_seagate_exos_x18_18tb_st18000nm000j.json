@@ -1,0 +1,15 @@
+{
+    "type": "hdd",
+    "title": "Seagate Exos X18 18TB ST18000NM000J",
+    "price": 1353.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/d/4439164/i44476b1cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4439164/ia4a4e47ca.jpg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 18000,
+        "rpm": 7200,
+        "read_speed": 270
+    }
+}

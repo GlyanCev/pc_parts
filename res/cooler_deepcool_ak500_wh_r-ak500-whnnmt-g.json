@@ -1,0 +1,22 @@
+{
+    "type": "cooler",
+    "title": "DeepCool AK500 WH R-AK500-WHNNMT-G",
+    "price": 152.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4816603/i0dcaf8664.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/if25b95330.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/i96df35f75.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/i82fd0ff75.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/i10bd0c209.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/i7ce854a7d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/i1c2e98d99.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/id3ba42f5d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/id7ae6327b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4816603/i681a47ef0.png"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 2066, LGA 1155, LGA 1151, LGA 1200, LGA 1700, LGA 2011, LGA 2011-3, AM5",
+        "liquid_cooling": false,
+        "tdp": 240
+    }
+}

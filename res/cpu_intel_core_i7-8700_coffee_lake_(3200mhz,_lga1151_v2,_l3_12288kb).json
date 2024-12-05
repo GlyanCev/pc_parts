@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i7-8700 Coffee Lake (3200MHz, LGA1151 v2, L3 12288Kb)",
+    "price": 1533.23,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/4/3048085/ic6dcbaf95.jpg"
+    ],
+    "data": {
+        "socket": "LGA1151 v2",
+        "release_year": 2017,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 14,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "HD Graphics 630",
+        "integrated_graphics_freq": 1200,
+        "processor_clock": 3200,
+        "l2_cache_size": 1.5,
+        "l3_cache_size": 12,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

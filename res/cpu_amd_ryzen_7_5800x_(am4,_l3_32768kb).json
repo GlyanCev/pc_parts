@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 5800X (AM4, L3 32768Kb)",
+    "price": 691.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/4/4262539/i67cfcc560.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2020,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3800,
+        "l2_cache_size": 4,
+        "l3_cache_size": 32,
+        "tdp": 105,
+        "memory_type": "DDR4"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "Zalman S5",
+    "price": 208.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/6/4499832/i9c711c1cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/i04c6e95b1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/i1ca8a5a20.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/ieab8821ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/i3eb30effb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/i7da1609b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/i70152fd7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/i4b153baff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/4499832/i1b7e210d4.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 340,
+        "max_psu_length": 190,
+        "liquid_cooling_support": true
+    }
+}

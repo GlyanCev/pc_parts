@@ -1,0 +1,14 @@
+{
+    "type": "hdd",
+    "title": "Western Digital Purple 2TB Western Digital23PURZ",
+    "price": 276.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/9/4779844/ie29a6cb6d.jpg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 2000,
+        "rpm": 5400,
+        "read_speed": 180
+    }
+}

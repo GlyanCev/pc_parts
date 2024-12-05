@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "be quiet! System Power 10 550W BN327",
+    "price": 236.23,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/b/4674588/ia0f7e477f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4674588/i7e50d8fbd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4674588/if3a8454e2.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 550,
+        "width": 140,
+        "height": 86,
+        "depth": 150,
+        "weight": "1.83 Í„"
+    }
+}

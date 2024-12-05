@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "GIGABYTE GeForce RTX 3060 GAMING OC 12G (GV-N3060GAMING OC-12GD) (rev. 2.0)",
+    "price": 1288.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/8/4511387/i90181f5a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4511387/iad1f8edfe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4511387/i9a3a56569.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4511387/i2203d597b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4511387/i73af6efa7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4511387/icc86437e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4511387/i8b89a6871.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4511387/icf5da65b4.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 15000,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 282
+    }
+}

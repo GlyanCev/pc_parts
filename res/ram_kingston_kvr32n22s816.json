@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Kingston KVR32N22S8/16",
+    "price": 123.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/0/4502864/iaceb5511c.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

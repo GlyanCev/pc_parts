@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "Zalman Z10 Plus",
+    "price": 382.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/e/4690318/i847717c91.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/i33870a849.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/i25c657218.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/if113e1add.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/i31f05c191.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/i5c071c10e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/ie9b27f6f3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/i8023bf381.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4690318/i9eb117d9b.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 173,
+        "max_gpu_length": 395,
+        "max_psu_length": 200,
+        "liquid_cooling_support": true
+    }
+}

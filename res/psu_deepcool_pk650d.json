@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "DeepCool PK650D",
+    "price": 233.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/4/4641158/i931b2b8e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4641158/i97be6438a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4641158/id85b76f84.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4641158/i02035fd46.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4641158/ica9538b2c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4641158/i3e0b36ddb.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 650,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

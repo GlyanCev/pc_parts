@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 9 7950X3D",
+    "price": 2493.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/3/4732757/i3c18d2976.jpeg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "release_year": 2022,
+        "core_count": 16,
+        "thread_count": 32,
+        "process_technology": 5,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Radeon Graphics",
+        "integrated_graphics_freq": 2200,
+        "processor_clock": 4200,
+        "l2_cache_size": 16,
+        "l3_cache_size": 128,
+        "tdp": 120,
+        "memory_type": "DDR5"
+    }
+}
