@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "MSI MPG B560I GAMING EDGE WIFI",
+    "price": 564.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/9/4690139/idf8baa5a6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4690139/i95a901a42.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4690139/i0c4752104.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4690139/i7afecd000.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4690139/ibd25ded4b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4690139/i718861794.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 5200,
+        "dual_channel": true,
+        "chipset_name": "Intel B560",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 11,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mini-ITX"
+    }
+}

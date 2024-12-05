@@ -1,0 +1,21 @@
+{
+    "type": "motherboard",
+    "title": "AFOX AFB250-BTC12EX",
+    "price": 112.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/8/4684315/i69112462f.jpg"
+    ],
+    "data": {
+        "socket": "LGA1151",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 32,
+        "memory_slots": 2,
+        "max_memory_frequency": 2666,
+        "dual_channel": true,
+        "chipset_name": "Intel B250",
+        "sata_slots": 4,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "ATX"
+    }
+}

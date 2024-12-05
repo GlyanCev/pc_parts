@@ -1,0 +1,25 @@
+{
+    "type": "motherboard",
+    "title": "AFOX IH110D4-MA5-V2",
+    "price": 200.87,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/c/4899963/i189a5970a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4899963/ib96771cab.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4899963/ib6a141483.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4899963/i6f43d7091.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4899963/i2e8be796f.png"
+    ],
+    "data": {
+        "socket": "LGA1151",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 32,
+        "memory_slots": 2,
+        "max_memory_frequency": 2133,
+        "chipset_name": "Intel H110",
+        "uefi_support": true,
+        "sata_slots": 3,
+        "m2_slots": 1,
+        "usb_ports_total": 8,
+        "form_factor": "mATX"
+    }
+}

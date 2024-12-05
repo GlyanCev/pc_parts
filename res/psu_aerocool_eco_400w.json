@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "AeroCool Eco 400W",
+    "price": 84.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/0/3204979/ia1d451fbd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/0/3204979/id9df68746.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 400,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

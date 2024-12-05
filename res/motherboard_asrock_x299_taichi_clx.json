@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock X299 TAICHI CLX",
+    "price": 1609.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/f/4199039/i0d0ee4eda.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4199039/i77074623b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4199039/ia1547c191.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/f/4199039/ief2b73582.jpg"
+    ],
+    "data": {
+        "socket": "LGA2066",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 256,
+        "memory_slots": 8,
+        "max_memory_frequency": 4200,
+        "dual_channel": false,
+        "chipset_name": "Intel X299",
+        "uefi_support": true,
+        "sata_slots": 10,
+        "m2_slots": 3,
+        "usb_ports_total": 13,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

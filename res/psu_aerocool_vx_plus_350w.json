@@ -1,0 +1,17 @@
+{
+    "type": "psu",
+    "title": "AeroCool VX Plus 350W",
+    "price": 77.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/6/3306561/ia1bb6d5b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3306561/ic47e4aad9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3306561/ibd29ea853.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3306561/ia8b24a10f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3306561/i7fd5fba98.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3306561/i516b56335.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 350
+    }
+}
