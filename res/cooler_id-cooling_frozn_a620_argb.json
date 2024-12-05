@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING Frozn A620 ARGB",
+    "price": 201.63,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/0/4877355/i229365460.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/0/4877355/iadb4bc171.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/0/4877355/i6b4f7b47b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/0/4877355/i4d0255230.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/0/4877355/i5d3741d55.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/0/4877355/i436d114f3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/0/4877355/i77174e552.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5, LGA 1851",
+        "liquid_cooling": false,
+        "tdp": 270
+    }
+}

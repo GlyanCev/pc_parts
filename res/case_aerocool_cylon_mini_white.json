@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "AeroCool Cylon Mini White",
+    "price": 162.69,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/9/3972889/ie73edf93f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/iffb3e9eb1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/i8442195fb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/ia644d6541.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/i3087729b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/i18278168a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/i9101da090.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/iae5bbbca6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/ice612828b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/3972889/i8935c6396.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 147,
+        "max_gpu_length": 300,
+        "liquid_cooling_support": false
+    }
+}

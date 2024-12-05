@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "Ginzzu D380",
+    "price": 92.38,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/9/4249975/ie82f088ba.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4249975/ie7d646f16.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4249975/i7fc0372a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4249975/iec606ee67.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4249975/i61c19fc1f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4249975/i2a1cb1696.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4249975/ia618cae8c.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 148,
+        "max_gpu_length": 320,
+        "liquid_cooling_support": false
+    }
+}

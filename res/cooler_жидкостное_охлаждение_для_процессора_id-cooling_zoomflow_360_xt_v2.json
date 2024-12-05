@@ -1,0 +1,21 @@
+{
+    "type": "cooler",
+    "title": "Жидкостное охлаждение для процессора ID-COOLING ZoomFlow 360 XT V2",
+    "price": 324.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/6/4911093/ibfbb0bfbc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/ic5d8d565d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/icb44d7d47.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/i1fdf966e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/if62bd1492.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/ib20b7ef0b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/i2e78726a9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/i1d20ad4d3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4911093/i00158e958.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": true,
+        "tdp": 350
+    }
+}

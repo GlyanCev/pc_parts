@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "AFOX GeForce GTX 1050 Ti 4GB GDDR5 (AF1050TI-4096D5H7-V6)",
+    "price": 611.85,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/a/5029000/i0fe4165f7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/a/5029000/i81064ca39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/a/5029000/i27e17dd7e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/a/5029000/i07a1fa976.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GP107",
+        "memory_type": "GDDR5",
+        "memory_size": 4096,
+        "memory_frequency": 7000,
+        "ray_tracing": false,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": false,
+        "width": 215
+    }
+}

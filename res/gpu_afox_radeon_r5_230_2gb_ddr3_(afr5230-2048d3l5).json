@@ -1,0 +1,20 @@
+{
+    "type": "gpu",
+    "title": "AFOX Radeon R5 230 2GB DDR3 (AFR5230-2048D3L5)",
+    "price": 146.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/e/4526663/i2a97f952d.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/e/4526663/i9f2b81dfe.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR3",
+        "memory_size": 2048,
+        "memory_frequency": 667,
+        "directx_version": 11.2,
+        "additional_power_required": false,
+        "recommended_psu": 400,
+        "width": 190
+    }
+}
