@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASUS EX-A320M-GAMING",
+    "price": 329.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/9/3122799/i410dcdd07.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/3122799/ia5ea576d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/3122799/ia533a69a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/3122799/i585513fb8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/3122799/id4a20726f.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 4,
+        "max_memory_frequency": 2666,
+        "dual_channel": true,
+        "chipset_name": "AMD A320",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

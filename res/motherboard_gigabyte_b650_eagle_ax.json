@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "GigaByte B650 Eagle AX",
+    "price": 666.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/b/4964548/i63e225c2c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4964548/i38fa3bd7e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4964548/ie9e36f01a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4964548/i831fff4d4.png"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 7600,
+        "dual_channel": false,
+        "chipset_name": "AMD B650",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 3,
+        "usb_ports_total": 13,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "ATX"
+    }
+}

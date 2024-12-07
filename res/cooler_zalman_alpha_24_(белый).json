@@ -1,0 +1,13 @@
+{
+    "type": "cooler",
+    "title": "Zalman Alpha 24 (белый)",
+    "price": 246.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/8/4817006/i08d415e4d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/8/4817006/i40bf5d099.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, AM3, LGA 1151, LGA 1200, LGA 1700, LGA 2011, LGA 2011-3, AM5",
+        "liquid_cooling": true
+    }
+}

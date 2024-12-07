@@ -1,0 +1,30 @@
+{
+    "type": "motherboard",
+    "title": "ASUS TUF GAMING B550M-PLUS WI-FI II",
+    "price": 583.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/b/4683966/if7a6202c1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4683966/i8b99456a8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4683966/i108a7f402.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4683966/i5812bf7dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4683966/i52bdd9b4c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4683966/i10682b7d1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4683966/i8ba1daa9a.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4866,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 14,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B550 PG VELOCITA",
+    "price": 664.17,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/7/4199043/id591ecba7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/4199043/ie6865a70e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/4199043/i5fde0b76d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/4199043/ia07a5ae70.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4733,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 2,
+        "usb_ports_total": 15,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "ATX"
+    }
+}

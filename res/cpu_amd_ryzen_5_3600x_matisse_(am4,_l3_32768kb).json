@@ -1,0 +1,22 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 5 3600X Matisse (AM4, L3 32768Kb)",
+    "price": 277.01,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/3767391/iff721f5d7.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2019,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "integrated_graphics_name": "R5",
+        "processor_clock": 3800,
+        "l2_cache_size": 3,
+        "l3_cache_size": 32,
+        "tdp": 95,
+        "memory_type": "DDR4"
+    }
+}

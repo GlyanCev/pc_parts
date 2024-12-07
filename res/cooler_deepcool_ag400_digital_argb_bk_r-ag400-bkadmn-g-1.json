@@ -1,0 +1,18 @@
+{
+    "type": "cooler",
+    "title": "DeepCool AG400 Digital ARGB BK R-AG400-BKADMN-G-1",
+    "price": 114.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/1/4877330/i94b20ffb7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/4877330/ie1ad28eaf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/4877330/i424caa74f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/4877330/i4ff8f4b8f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/4877330/ic991b03bf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/4877330/i9d10725f8.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 220
+    }
+}

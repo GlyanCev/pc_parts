@@ -1,0 +1,21 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING IS-47-XT",
+    "price": 59.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/1/4828250/ic2a257922.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/ie69ed5390.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/i72c6dcff0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/ib5caa7667.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/id4bbac358.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/i3dff409ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/i2d2bd8273.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/ie52ea154f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/1/4828250/ic6bc20c28.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 95
+    }
+}

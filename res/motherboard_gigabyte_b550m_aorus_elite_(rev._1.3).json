@@ -1,0 +1,26 @@
+{
+    "type": "motherboard",
+    "title": "GIGABYTE B550M AORUS ELITE (rev. 1.3)",
+    "price": 486.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/9/4745508/i3cfda6369.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4745508/ie16c2eb05.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4745508/ic5b6e04ff.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4400,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 10,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

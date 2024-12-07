@@ -1,0 +1,32 @@
+{
+    "type": "cooler",
+    "title": "Jonsbo CR-1000E (черный)",
+    "price": 52.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/8/5021803/i560286c8a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i5368e8c6e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i6c4eea830.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/ia888c4167.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i16973dd34.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/ie5ee15871.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/ib5a4f692a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i05b7ab48a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/ie32b05af8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i19f49ec13.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i538e74ca9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i1fd6d1c82.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/ie0d374da3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i578afeab1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i707c609dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i537e0c76e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i0a3d0cb03.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/ifec73b474.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/i8c129d92d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/8/5021803/ib84fc3f74.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700",
+        "liquid_cooling": false,
+        "tdp": 210
+    }
+}

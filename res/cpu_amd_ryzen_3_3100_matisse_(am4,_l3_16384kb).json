@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 3 3100 Matisse (AM4, L3 16384Kb)",
+    "price": 194.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/8/4185975/i9bd5d99ea.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2020,
+        "core_count": 4,
+        "thread_count": 8,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3600,
+        "l2_cache_size": 2,
+        "l3_cache_size": 16,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

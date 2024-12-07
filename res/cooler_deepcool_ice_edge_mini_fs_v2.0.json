@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "Deepcool ICE EDGE MINI FS V2.0",
+    "price": 27.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/c/1448443/ie0796c92a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/1448443/idac5203f8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/1448443/i7be19baa8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/1448443/ib0f7f3ee8.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, 939, 940, 754, AM2, AM2+, FM1, AM4, AM3+, FM2, LGA 1156, LGA 1150, LGA 1155, FM2+, AM3",
+        "liquid_cooling": false,
+        "tdp": 100
+    }
+}

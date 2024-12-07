@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B650M Pro RS",
+    "price": 597.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/b/4761190/i461f8c193.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4761190/i28fa1b340.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4761190/ia1618831d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4761190/i15acac0df.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/4761190/ic12203e51.png"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 6000,
+        "dual_channel": true,
+        "chipset_name": "AMD B650",
+        "uefi_support": true,
+        "m2_slots": 3,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "mATX"
+    }
+}

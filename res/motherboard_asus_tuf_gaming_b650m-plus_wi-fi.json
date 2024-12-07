@@ -1,0 +1,30 @@
+{
+    "type": "motherboard",
+    "title": "ASUS TUF GAMING B650M-PLUS WI-FI",
+    "price": 739.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/1/4684041/icd91bb796.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4684041/i66b17feec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4684041/i559259d09.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4684041/i25d78af60.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4684041/ie4d1c8ac7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4684041/i4a199e0b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4684041/i7693692c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4684041/i5a439908e.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6400,
+        "dual_channel": true,
+        "chipset_name": "AMD B650",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "mATX"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "cooler",
+    "title": "AeroCool Cylon 4F WH ARGB PWM 4P",
+    "price": 104.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/6/4816525/ie7e64f87c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/i68ce696ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/iedf5d2ba3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/i50f613a8d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/i98584d2ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/i20991d822.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/i05edbfbfe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/i4986cb03c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/i3830167f6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4816525/ia46b02239.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, FM1, AM4, AM3+, FM2, LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, AM3, LGA 1151, LGA 2011, AM5",
+        "liquid_cooling": false,
+        "tdp": 145
+    }
+}

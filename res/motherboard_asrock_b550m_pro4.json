@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B550M Pro4",
+    "price": 381.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/7/4211365/ief00a85f9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/4211365/iee2af3720.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/4211365/i6e49012cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/4211365/i50282ece0.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4533,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 2,
+        "usb_ports_total": 16,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

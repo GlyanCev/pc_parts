@@ -1,0 +1,21 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-903-XT Basic",
+    "price": 52.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/a/4987686/if0fded9f7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/iddf77cb14.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/ibfb4025fb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/ie1550044d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/i9411e5627.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/ife09d701c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/i99d875e1f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/id858e0db5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4987686/i763a4e8a4.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151, LGA 1200, LGA 1700, AM5, LGA 1851",
+        "liquid_cooling": false,
+        "tdp": 130
+    }
+}

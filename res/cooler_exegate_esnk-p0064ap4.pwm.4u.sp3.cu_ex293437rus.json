@@ -1,0 +1,20 @@
+{
+    "type": "cooler",
+    "title": "ExeGate ESNK-P0064AP4.PWM.4U.SP3.Cu EX293437RUS",
+    "price": 215.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/e/4911081/i6f31702ad.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4911081/icddc87ade.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4911081/ifde7b15f9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4911081/if3ac190e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4911081/idf68b6391.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4911081/i288aaccce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4911081/ib0faa5237.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4911081/ied4d63397.jpg"
+    ],
+    "data": {
+        "supported_sockets": "SP3",
+        "liquid_cooling": false,
+        "tdp": 280
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING DK-01T",
+    "price": 11.89,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/a/2696507/i87ee0fd6b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/a/2696507/iea4eb19c5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/a/2696507/i4e9b2933f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/a/2696507/i03017cbc1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/a/2696507/icd16845c8.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, FM1, AM4, AM3+, FM2, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, FM2+, AM3, LGA 1151, LGA 1200",
+        "liquid_cooling": false,
+        "tdp": 95
+    }
+}

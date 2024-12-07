@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 9 5950X (AM4, L3 65536Kb)",
+    "price": 1436.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/4261895/i0be8cfb30.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2020,
+        "core_count": 16,
+        "thread_count": 32,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3400,
+        "l2_cache_size": 8,
+        "l3_cache_size": 64,
+        "tdp": 105,
+        "memory_type": "DDR4"
+    }
+}

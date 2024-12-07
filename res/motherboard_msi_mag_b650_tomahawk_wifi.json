@@ -1,0 +1,26 @@
+{
+    "type": "motherboard",
+    "title": "MSI MAG B650 TOMAHAWK WIFI",
+    "price": 910.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/8/4699752/i7328741b0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4699752/i9a83de6c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4699752/if8b4f74d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/8/4699752/ifac33dc3e.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6600,
+        "dual_channel": true,
+        "chipset_name": "AMD B650",
+        "uefi_support": true,
+        "m2_slots": 3,
+        "usb_ports_total": 17,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

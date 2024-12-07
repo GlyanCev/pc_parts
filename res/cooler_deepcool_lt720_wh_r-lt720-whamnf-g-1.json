@@ -1,0 +1,17 @@
+{
+    "type": "cooler",
+    "title": "DeepCool LT720 WH R-LT720-WHAMNF-G-1",
+    "price": 478.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/a/4816695/i10db6dece.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4816695/i1a040d6e4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4816695/i7cebfa35c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4816695/ieff2a7307.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4816695/i11e028686.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4816695/i55042db3c.png"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 2066, LGA 1155, LGA 1151, sTR4, LGA 1200, sTRX4, LGA 1700, LGA 2011, LGA 2011-3, AM5",
+        "liquid_cooling": true
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 3 4100",
+    "price": 204.03,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/e/4632064/iea2d0bebb.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2022,
+        "core_count": 4,
+        "thread_count": 8,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3800,
+        "l2_cache_size": 2,
+        "l3_cache_size": 4,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

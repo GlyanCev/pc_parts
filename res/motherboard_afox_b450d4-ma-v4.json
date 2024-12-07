@@ -1,0 +1,24 @@
+{
+    "type": "motherboard",
+    "title": "AFOX B450D4-MA-V4",
+    "price": 273.96,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/6/4887800/i132e4e696.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4887800/idc902f83d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4887800/i7d534e84a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4887800/i89833f822.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "chipset_name": "AMD B450",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 10,
+        "form_factor": "mATX"
+    }
+}

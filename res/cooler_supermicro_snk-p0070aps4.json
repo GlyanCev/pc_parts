@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "Supermicro SNK-P0070APS4",
+    "price": 288.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/c/3663863/if9257f55b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/3663863/ice6eab856.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/3663863/i020db67d1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/3663863/i76732c109.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 3647",
+        "liquid_cooling": false,
+        "tdp": 205
+    }
+}

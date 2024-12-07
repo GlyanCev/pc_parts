@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B650M PG Riptide",
+    "price": 659.27,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/f/4684230/ia1b48d72e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4684230/i36e304bf3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4684230/i2ae6c42fb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4684230/i5d195d3ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4684230/ibef73b6f8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4684230/i60983984e.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6200,
+        "dual_channel": true,
+        "chipset_name": "AMD B650",
+        "uefi_support": true,
+        "m2_slots": 2,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "mATX"
+    }
+}

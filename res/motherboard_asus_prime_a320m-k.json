@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME A320M-K",
+    "price": 204.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/5/2920005/if4477c8e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/2920005/ia9a8cad67.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/2920005/ia7c064cde.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/2920005/ic7dd4039d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/2920005/icbe0e09e1.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 32,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "dual_channel": true,
+        "chipset_name": "AMD A320",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "mATX"
+    }
+}

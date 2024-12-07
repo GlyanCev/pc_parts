@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 7700X",
+    "price": 1071.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/f/4667707/ia92dfb464.jpeg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "release_year": 2022,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 5,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Radeon Graphics",
+        "integrated_graphics_freq": 2200,
+        "processor_clock": 4500,
+        "l2_cache_size": 8,
+        "l3_cache_size": 32,
+        "tdp": 105,
+        "memory_type": "DDR5"
+    }
+}

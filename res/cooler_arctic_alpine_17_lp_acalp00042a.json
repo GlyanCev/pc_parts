@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "Arctic Alpine 17 LP ACALP00042A",
+    "price": 31.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/9/4816404/if6e126c7d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4816404/i87f7bc347.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4816404/i49b8da54e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4816404/i90f1266f9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4816404/ia6a0cc80c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4816404/i18faea66f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4816404/ie1286fc39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4816404/ib1ba175fc.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1700",
+        "liquid_cooling": false
+    }
+}

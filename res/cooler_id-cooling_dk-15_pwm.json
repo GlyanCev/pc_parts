@@ -1,0 +1,13 @@
+{
+    "type": "cooler",
+    "title": "ID-Cooling DK-15 PWM",
+    "price": 15.04,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/f/4523386/id2d27afe3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4523386/i4a364b615.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1150, LGA 1155, LGA 1151, LGA 1200",
+        "tdp": 65
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "AeroCool Mirage 5",
+    "price": 142.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/6/4500378/i187515386.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4500378/i642d6544e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4500378/i51a1a63f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4500378/i59df6c0f8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4500378/iba2109457.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, FM1, AM4, AM3+, FM2, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, AM3, LGA 1151, LGA 1200, LGA 2011, LGA 2011-3",
+        "tdp": 150
+    }
+}

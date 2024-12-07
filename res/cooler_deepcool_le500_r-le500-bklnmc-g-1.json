@@ -1,0 +1,20 @@
+{
+    "type": "cooler",
+    "title": "DeepCool LE500 R-LE500-BKLNMC-G-1",
+    "price": 283.08,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/a/4816646/i726d15089.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/a/4816646/i58b83a22a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/a/4816646/i8914dd0ed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/a/4816646/ic43183a5b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/a/4816646/ifc1e6969e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/a/4816646/if64fb381e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/a/4816646/i818a9fa7f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/a/4816646/iaa20b927d.jpeg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": true,
+        "tdp": 220
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME B450M-A II",
+    "price": 319.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/1/4280567/i4b4051d99.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/1/4280567/i0a0816032.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/1/4280567/iac7ddb5e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/1/4280567/i3039622c9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/1/4280567/i092841ff6.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4400,
+        "dual_channel": true,
+        "chipset_name": "AMD B450",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

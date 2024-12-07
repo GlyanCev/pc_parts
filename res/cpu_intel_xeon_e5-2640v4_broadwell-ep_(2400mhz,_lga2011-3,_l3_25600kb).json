@@ -1,0 +1,19 @@
+{
+    "type": "cpu",
+    "title": "Intel Xeon E5-2640V4 Broadwell-EP (2400MHz, LGA2011-3, L3 25600Kb)",
+    "price": 764.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/2/2548191/i74798f16f.jpg"
+    ],
+    "data": {
+        "socket": "LGA2011-3, LGA2011-3 Square ILM, LGA2011-3 Narrow ILM",
+        "core_count": 10,
+        "process_technology": 14,
+        "integrated_graphics": false,
+        "processor_clock": 2400,
+        "l2_cache_size": 2.5,
+        "l3_cache_size": 25,
+        "tdp": 90,
+        "memory_type": "DDR4"
+    }
+}

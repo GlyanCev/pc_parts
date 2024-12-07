@@ -1,0 +1,12 @@
+{
+    "type": "cooler",
+    "title": "Ablecom ACL-S41130",
+    "price": 270.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/1/4911228/ib280ea018.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151",
+        "liquid_cooling": false
+    }
+}

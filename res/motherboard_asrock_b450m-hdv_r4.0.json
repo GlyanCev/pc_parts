@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B450M-HDV R4.0",
+    "price": 191.29,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/a/3471975/i7d0bf4f9a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/3471975/i1a627c16b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/3471975/i7d4cebf6f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/3471975/i5a713663b.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 32,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "dual_channel": true,
+        "chipset_name": "AMD B450",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "mATX"
+    }
+}

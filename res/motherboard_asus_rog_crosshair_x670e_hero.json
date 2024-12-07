@@ -1,0 +1,31 @@
+{
+    "type": "motherboard",
+    "title": "ASUS ROG Crosshair X670E HERO",
+    "price": 2623.78,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/3/4684048/i81cf7c25d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4684048/i3ae7552e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4684048/i240ff527e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4684048/i1a2f85035.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4684048/i2d30e8c75.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4684048/i66b5b2820.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4684048/i29bdb1ff1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4684048/ie8e5966bb.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6400,
+        "dual_channel": true,
+        "chipset_name": "AMD X670E",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 5,
+        "usb_ports_total": 18,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

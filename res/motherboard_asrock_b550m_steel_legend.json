@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B550M STEEL LEGEND",
+    "price": 510.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4197593/i4cdf7e45c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4197593/ie1f7a30e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4197593/i2ade8a610.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4197593/ic68483bb8.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4533,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 2,
+        "usb_ports_total": 16,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "mATX"
+    }
+}

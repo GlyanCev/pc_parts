@@ -1,0 +1,18 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-206-XT",
+    "price": 114.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/5/4828340/ie1f94ef45.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4828340/i9b65e5ba5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4828340/i032779f9e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4828340/i6b2134591.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4828340/i8e1edb788.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4828340/iee8a12c2b.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 250
+    }
+}

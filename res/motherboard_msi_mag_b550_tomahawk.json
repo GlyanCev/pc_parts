@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "MSI MAG B550 TOMAHAWK",
+    "price": 583.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/4/4199071/iddc09a3b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4199071/if349e07fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4199071/icc489b8ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4199071/i8bfc0b1a6.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4866,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 2,
+        "usb_ports_total": 13,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

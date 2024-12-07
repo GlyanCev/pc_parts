@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-234-ARGB V2",
+    "price": 137.34,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/a/4828350/i6414db426.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4828350/i84846699a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4828350/ic4539f951.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4828350/i117832d01.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4828350/ic0c86e853.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4828350/i5c5df4517.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4828350/i7f8b15188.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151, LGA 1200, LGA 1700, LGA 2011, AM5",
+        "liquid_cooling": false,
+        "tdp": 200
+    }
+}

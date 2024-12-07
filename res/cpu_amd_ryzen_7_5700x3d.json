@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 5700X3D",
+    "price": 642.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/b/4900924/i23027f17d.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2024,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3000,
+        "l2_cache_size": 4,
+        "l3_cache_size": 96,
+        "tdp": 105,
+        "memory_type": "DDR4"
+    }
+}

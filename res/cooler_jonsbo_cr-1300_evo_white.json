@@ -1,0 +1,32 @@
+{
+    "type": "cooler",
+    "title": "Jonsbo CR-1300 EVO White",
+    "price": 48.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/e/5002289/ic490b5bb1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i2dc1228fb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i315189ca5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i10d798d35.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/idf7db5fb5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/ic095319a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i475dbe740.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i850a79220.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i51c45d1c0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i0385a16db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/ibc9e256a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i125bf0cf8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/if4cf31ea4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i0ae850688.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i192d6bc73.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/i9f6eed608.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/ic3a10d910.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/ib1299170e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/ic559fe20c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/5002289/ibf0857a76.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 160
+    }
+}

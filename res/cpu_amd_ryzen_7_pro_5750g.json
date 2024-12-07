@@ -1,0 +1,26 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 Pro 5750G",
+    "price": 1641.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/a/4539348/idad04b73a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/4539348/i741e9e054.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/4539348/ie38a5ff03.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/4539348/ie0baa0304.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2021,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 7,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Vega 8",
+        "integrated_graphics_freq": 2000,
+        "processor_clock": 3800,
+        "l2_cache_size": 4,
+        "l3_cache_size": 16,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

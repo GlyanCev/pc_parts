@@ -1,0 +1,21 @@
+{
+    "type": "cooler",
+    "title": "Exegate ESNK-P0063AP4.PWM.2U.SP3.Cu EX293436RUS",
+    "price": 128.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/3/5002155/i0e1fae65d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/i9768c9d22.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/i3d9ce7a64.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/i046395f08.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/i26818ffbb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/iade9e8588.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/i3fca62015.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/ifddf8348c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/5002155/ibbe07e040.jpg"
+    ],
+    "data": {
+        "supported_sockets": "SP3",
+        "liquid_cooling": false,
+        "tdp": 240
+    }
+}
