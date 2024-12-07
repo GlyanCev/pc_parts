@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASUS Prime X299-A II",
+    "price": 895.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/7/4199045/i82eaa0521.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4199045/i775a949cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4199045/i5648d1d3e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4199045/i774db92a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4199045/i4410dcf9f.jpg"
+    ],
+    "data": {
+        "socket": "LGA2066",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 256,
+        "memory_slots": 8,
+        "max_memory_frequency": 4266,
+        "dual_channel": true,
+        "chipset_name": "Intel X299",
+        "uefi_support": true,
+        "sata_slots": 8,
+        "m2_slots": 2,
+        "usb_ports_total": 17,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}
