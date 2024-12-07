@@ -1,0 +1,23 @@
+{
+    "type": "gpu",
+    "title": "INNO3D GeForce GTX 1650 Twin X2 OC V3 (N16502-04D6X-171330N)",
+    "price": 721.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/2/4894300/ib7d8d58d2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4894300/i5d3339023.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4894300/i09881d45e.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "TU117",
+        "memory_type": "GDDR6",
+        "memory_size": 4096,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "6 pin",
+        "recommended_psu": 300,
+        "width": 220
+    }
+}

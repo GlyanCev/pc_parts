@@ -1,0 +1,23 @@
+{
+    "type": "gpu",
+    "title": "AFOX Radeon R7 350 2GB (AFR7350-2048D5H4-V3)",
+    "price": 211.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/8/4699860/if21c12fc1.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4699860/ic77ae6ab7.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4699860/ie10e33a69.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4699860/i7939935bf.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR5",
+        "memory_size": 2048,
+        "memory_frequency": 1600,
+        "ray_tracing": false,
+        "directx_version": 12,
+        "additional_power_required": false,
+        "recommended_psu": 350,
+        "width": 190
+    }
+}

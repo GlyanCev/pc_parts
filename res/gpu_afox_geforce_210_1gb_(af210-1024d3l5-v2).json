@@ -1,0 +1,22 @@
+{
+    "type": "gpu",
+    "title": "AFOX GeForce 210 1GB (AF210-1024D3L5-V2)",
+    "price": 100.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/a/4420363/i9b90aa102.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/a/4420363/ia684ffec0.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR3",
+        "memory_size": 1024,
+        "memory_frequency": 1000,
+        "ray_tracing": false,
+        "directx_version": 10.1,
+        "opengl_version": 3.3,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 168
+    }
+}

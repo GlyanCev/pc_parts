@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce GTX 1660 SUPER GP 6GB (NE6166S018J9-1160A-1)",
+    "price": 843.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/d/4446254/ibeb2b0165.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/i7f3b0b4dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/i2a3e2ef83.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/i5972ba95e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/ie383055e8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/i3a67b3238.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/ia6a3720bd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/i1ff72e8ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4446254/i8fe45a11b.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 14000,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 450,
+        "width": 235
+    }
+}

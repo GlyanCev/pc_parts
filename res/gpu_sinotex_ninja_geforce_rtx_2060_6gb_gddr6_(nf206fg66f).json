@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "Sinotex Ninja GeForce RTX 2060 6GB GDDR6 (NF206FG66F)",
+    "price": 883.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/1/4719221/i7940db3a3.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4719221/i7e1b900ce.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4719221/i2358ef17a.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4719221/i8693d62ea.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4719221/ieefd307e9.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "TU116",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 12000,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 500,
+        "width": 220
+    }
+}

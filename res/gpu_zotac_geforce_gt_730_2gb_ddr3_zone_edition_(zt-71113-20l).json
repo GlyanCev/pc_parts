@@ -1,0 +1,19 @@
+{
+    "type": "gpu",
+    "title": "ZOTAC GeForce GT 730 2GB DDR3 Zone Edition (ZT-71113-20L)",
+    "price": 324.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/4/4526630/i1f29d710d.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4526630/if0beea244.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR3",
+        "memory_size": 2048,
+        "directx_version": 12,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 146
+    }
+}

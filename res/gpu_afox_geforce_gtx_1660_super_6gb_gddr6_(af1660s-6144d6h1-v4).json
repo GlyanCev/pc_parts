@@ -1,0 +1,21 @@
+{
+    "type": "gpu",
+    "title": "AFOX GEFORCE GTX 1660 Super 6GB GDDR6 (AF1660S-6144D6H1-V4)",
+    "price": 725.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/7/5002109/iab4ae3b88.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/7/5002109/i876dde1cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/7/5002109/iab8b477fd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/7/5002109/ibb802e1cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/7/5002109/i2d4e680cf.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "TU116",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 14000,
+        "directx_version": 12
+    }
+}

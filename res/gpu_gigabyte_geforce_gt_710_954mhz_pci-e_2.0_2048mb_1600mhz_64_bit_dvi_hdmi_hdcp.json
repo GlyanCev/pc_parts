@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "GIGABYTE GeForce GT 710 954Mhz PCI-E 2.0 2048Mb 1600Mhz 64 bit DVI HDMI HDCP",
+    "price": 315.01,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/a/2530661/i29fbcf639.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/2530661/i01e535563.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/2530661/i579c3b085.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/2530661/i11d36c868.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/2530661/ieb5010f60.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x, PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR3",
+        "memory_size": 2048,
+        "memory_frequency": 1600,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 144
+    }
+}

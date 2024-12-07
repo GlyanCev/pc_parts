@@ -1,0 +1,23 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX550 Low Profile 4GB RX550 LP 4G",
+    "price": 341.78,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/0/4980421/id5411e786.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4980421/ia1643c2c4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4980421/i4a792e4e8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4980421/idaa9e9cdb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4980421/i89fcf41e2.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR5",
+        "memory_size": 4096,
+        "memory_frequency": 6000,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": false,
+        "width": 169.58
+    }
+}

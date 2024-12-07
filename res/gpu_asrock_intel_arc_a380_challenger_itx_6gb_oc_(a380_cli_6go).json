@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ASRock Intel Arc A380 Challenger ITX 6GB OC (A380 CLI 6GO)",
+    "price": 582.42,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/b/4682637/i1bf804e35.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/b/4682637/i01bc31604.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/b/4682637/id81f273ea.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/b/4682637/i3c3351516.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/b/4682637/i8dea91f50.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "Intel",
+        "video_processor": "DG2-128",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 15500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 500,
+        "width": 190
+    }
+}

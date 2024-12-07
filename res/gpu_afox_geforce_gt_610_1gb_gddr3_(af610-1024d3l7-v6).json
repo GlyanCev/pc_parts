@@ -1,0 +1,18 @@
+{
+    "type": "gpu",
+    "title": "AFOX GeForce GT 610 1GB GDDR3 (AF610-1024D3L7-V6)",
+    "price": 132.85,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/f/4856569/ifa9953fc6.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR3",
+        "memory_size": 1024,
+        "directx_version": 12,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 149
+    }
+}
