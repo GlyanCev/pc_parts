@@ -1,0 +1,25 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B660M-HDV",
+    "price": 340.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/a/4619666/i74c16305d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4619666/i4adf62372.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4619666/i98189184c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4619666/ibd68c4d2d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4619666/i50a8d021b.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 5066,
+        "chipset_name": "Intel B660",
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

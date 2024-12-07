@@ -1,0 +1,30 @@
+{
+    "type": "motherboard",
+    "title": "ASUS TUF GAMING B660M-Plus WiFi",
+    "price": 753.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/3/4619808/ib4b247430.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4619808/i7e2366cfa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4619808/i4513ea5dd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4619808/i6b6f651c5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4619808/i5905136fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4619808/i591c6dcf3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4619808/iaf56f32b2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4619808/i8dc80dc87.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6400,
+        "dual_channel": true,
+        "chipset_name": "Intel Z690",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "mATX"
+    }
+}

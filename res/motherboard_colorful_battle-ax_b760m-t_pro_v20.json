@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "Colorful Battle-AX B760M-T Pro V20",
+    "price": 339.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/a/5023388/ic0cc40e14.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/5023388/i38b052be6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/5023388/i8d23bba0b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/5023388/ia7e842b61.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/5023388/i4a9068c6e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/5023388/ie9a67b116.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4800,
+        "dual_channel": true,
+        "chipset_name": "Intel B760",
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 8,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Celeron G4900 Coffee Lake (3100MHz, LGA1151 v2, L3 2048Kb)",
+    "price": 182.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/3207695/i21c5951e4.jpg"
+    ],
+    "data": {
+        "socket": "LGA1151 v2",
+        "release_year": 2018,
+        "core_count": 2,
+        "thread_count": 2,
+        "process_technology": 14,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "HD Graphics 610",
+        "integrated_graphics_freq": 1050,
+        "processor_clock": 3100,
+        "l2_cache_size": 0.5,
+        "l3_cache_size": 2,
+        "tdp": 54,
+        "memory_type": "DDR4"
+    }
+}

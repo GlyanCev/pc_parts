@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "MSI MAG Z790 TOMAHAWK WIFI",
+    "price": 926.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/a/4719168/i975a4f40b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4719168/i5fb85a65f.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4719168/i2d9d88fa3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4719168/idb494745f.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4719168/i0bf7d24f1.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 7200,
+        "dual_channel": true,
+        "chipset_name": "Intel Z790",
+        "sata_slots": 7,
+        "m2_slots": 4,
+        "usb_ports_total": 17,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

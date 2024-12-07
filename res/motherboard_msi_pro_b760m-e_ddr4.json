@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "MSI PRO B760M-E DDR4",
+    "price": 326.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/e/4709087/i644283716.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4709087/iba559feb3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4709087/ica79d68e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4709087/ib48d691c5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4709087/ic776ffc33.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4800,
+        "dual_channel": true,
+        "chipset_name": "Intel B760",
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

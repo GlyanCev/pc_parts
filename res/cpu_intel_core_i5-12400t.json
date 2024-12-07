@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i5-12400T",
+    "price": 947.38,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/a/4576215/i66fffe663.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2022,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 730",
+        "integrated_graphics_freq": 1450,
+        "processor_clock": 1800,
+        "l2_cache_size": 7.5,
+        "l3_cache_size": 18,
+        "tdp": 74,
+        "memory_type": "DDR4, DDR5"
+    }
+}

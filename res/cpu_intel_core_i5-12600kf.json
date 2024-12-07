@@ -1,0 +1,22 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i5-12600KF",
+    "price": 593.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/8/4555462/i32aead565.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4555462/i71f60ec59.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2021,
+        "core_count": 10,
+        "thread_count": 16,
+        "process_technology": 10,
+        "integrated_graphics": false,
+        "processor_clock": 2800,
+        "l2_cache_size": 9.5,
+        "l3_cache_size": 20,
+        "tdp": 150,
+        "memory_type": "DDR4, DDR5"
+    }
+}

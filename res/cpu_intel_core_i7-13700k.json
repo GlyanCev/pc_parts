@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i7-13700K",
+    "price": 1322.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/e/4667715/i79d7963bb.jpeg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2022,
+        "core_count": 16,
+        "thread_count": 24,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 770",
+        "integrated_graphics_freq": 1600,
+        "processor_clock": 3400,
+        "l2_cache_size": 24,
+        "l3_cache_size": 30,
+        "tdp": 253,
+        "memory_type": "DDR4, DDR5"
+    }
+}

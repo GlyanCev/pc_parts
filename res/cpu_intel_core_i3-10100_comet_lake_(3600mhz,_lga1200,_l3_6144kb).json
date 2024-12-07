@@ -1,0 +1,24 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i3-10100 Comet Lake (3600MHz, LGA1200, L3 6144Kb)",
+    "price": 336.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/c/4185933/ie27b29be3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4185933/ie9774df8a.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "release_year": 2020,
+        "core_count": 4,
+        "thread_count": 8,
+        "process_technology": 14,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Intel UHD 630",
+        "integrated_graphics_freq": 1100,
+        "processor_clock": 3600,
+        "l2_cache_size": 1,
+        "l3_cache_size": 6,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

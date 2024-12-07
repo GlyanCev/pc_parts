@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME H310M-K R2.0",
+    "price": 262.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/6/3317743/i5035df1d5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3317743/ib61507601.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3317743/i89660565d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3317743/i341a75aae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/6/3317743/ieb84075f9.jpg"
+    ],
+    "data": {
+        "socket": "LGA1151 v2",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 32,
+        "memory_slots": 2,
+        "max_memory_frequency": 2666,
+        "dual_channel": true,
+        "chipset_name": "Intel H310",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "usb_ports_total": 10,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "mATX"
+    }
+}

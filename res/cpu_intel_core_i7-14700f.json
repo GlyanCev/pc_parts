@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i7-14700F",
+    "price": 1273.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/c/4890796/i77190889f.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2024,
+        "core_count": 20,
+        "thread_count": 28,
+        "process_technology": 10,
+        "integrated_graphics": false,
+        "processor_clock": 2100,
+        "l2_cache_size": 28,
+        "l3_cache_size": 33,
+        "tdp": 219,
+        "memory_type": "DDR4, DDR5"
+    }
+}

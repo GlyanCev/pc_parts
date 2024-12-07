@@ -1,0 +1,21 @@
+{
+    "type": "motherboard",
+    "title": "Supermicro X11DPL-i",
+    "price": 3419.38,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/9/3098899/i4b2664a86.jpg"
+    ],
+    "data": {
+        "socket": "LGA3647",
+        "memory_type": "DDR4 DIMM",
+        "memory_slots": 8,
+        "max_memory_frequency": 2666,
+        "chipset_name": "Intel C621",
+        "uefi_support": true,
+        "m2_slots": 1,
+        "usb_ports_total": 7,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

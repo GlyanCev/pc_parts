@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i3-12300T",
+    "price": 378.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/d/4990550/ia976370fe.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2022,
+        "core_count": 4,
+        "thread_count": 8,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 730",
+        "integrated_graphics_freq": 1450,
+        "processor_clock": 2300,
+        "l2_cache_size": 5,
+        "l3_cache_size": 12,
+        "tdp": 69,
+        "memory_type": "DDR4, DDR5"
+    }
+}

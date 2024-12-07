@@ -1,0 +1,26 @@
+{
+    "type": "motherboard",
+    "title": "Gigabyte H510M K V2 (rev. 1.0)",
+    "price": 229.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/c/4761252/i9ea12390a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4761252/iae59550e8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4761252/i19703faab.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4761252/icc17fb66e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4761252/i40bd0ac58.png"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "chipset_name": "Intel H470",
+        "sata_slots": 2,
+        "m2_slots": 1,
+        "usb_ports_total": 8,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

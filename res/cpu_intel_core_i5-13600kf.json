@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i5-13600KF",
+    "price": 784.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/9/4668372/i572ed59cd.jpeg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2022,
+        "core_count": 14,
+        "thread_count": 20,
+        "process_technology": 10,
+        "integrated_graphics": false,
+        "processor_clock": 3500,
+        "l2_cache_size": 20,
+        "l3_cache_size": 24,
+        "tdp": 181,
+        "memory_type": "DDR4, DDR5"
+    }
+}
