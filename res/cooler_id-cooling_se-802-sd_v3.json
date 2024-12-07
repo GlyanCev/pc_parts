@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-802-SD V3",
+    "price": 24.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/9/4828371/id943c07ad.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4828371/ia8326dc26.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4828371/i3c847e9af.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4828371/i6c3e0f39b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4828371/ie1751cd87.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4828371/if36d098bf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4828371/i1b1665f7b.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 95
+    }
+}
