@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4060 D6 Low Profile 8G (GV-N4060D6-8GL)",
+    "price": 1399.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/9/4887647/i66fea7a5d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/4887647/ia79f7bc75.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/4887647/ib743f3728.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/4887647/i7fd75aff2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/4887647/i383eece7c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/9/4887647/icd641979b.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 450,
+        "width": 182
+    }
+}

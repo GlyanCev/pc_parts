@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gainward GeForce RTX 3060 Ghost 12GB (NE63060019K9-190AU)",
+    "price": 1557.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/5/4690278/i8e2647241.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4690278/i9f200ae98.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4690278/id63154447.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4690278/i2aca8b6e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4690278/ie3e76f53e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4690278/i5b0f6bbf6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4690278/i5467db23c.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA104",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 15000,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 245
+    }
+}

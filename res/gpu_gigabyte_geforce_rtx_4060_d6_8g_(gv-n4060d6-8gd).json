@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4060 D6 8G (GV-N4060D6-8GD)",
+    "price": 1110.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/8/4852951/i74d93818b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4852951/ie30eace47.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4852951/i722fca383.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4852951/i9b1f37ea6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4852951/ia9cd19345.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4852951/i84eea0454.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4852951/i29f098c36.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 450,
+        "width": 170
+    }
+}

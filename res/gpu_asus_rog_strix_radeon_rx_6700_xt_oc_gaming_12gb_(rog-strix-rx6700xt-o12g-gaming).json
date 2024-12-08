@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "ASUS ROG Strix Radeon RX 6700 XT OC Gaming 12GB (ROG-STRIX-RX6700XT-O12G-GAMING)",
+    "price": 2869.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/9/4446249/iffe7f22ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4446249/i4deb1921d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4446249/i22292b918.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4446249/i6da5b97ee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4446249/i365d5dac1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4446249/ifb4caf3a7.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 650,
+        "width": 322
+    }
+}

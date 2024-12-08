@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Colorful GeForce RTX 4060 NB DUO 8GB-V",
+    "price": 1481.57,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/9/5002116/icf83e967e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/5002116/i4a0ebfc1b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/5002116/i7110662fc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/5002116/i87e66086d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/5002116/i62c06cb25.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 450,
+        "width": 248.9
+    }
+}

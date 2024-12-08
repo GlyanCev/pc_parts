@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "ASUS Turbo GeForce RTX 4070 12GB GDDR6X (TURBO-RTX4070-12G)",
+    "price": 3635.34,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/2/4988889/ib3abc3267.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/iabbec1fec.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/ic4440d4f3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/icee42c2f0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/if9ed0552b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/i16157508b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/i389d900ff.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/i49b90892c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/2/4988889/ie5392aba1.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 269
+    }
+}

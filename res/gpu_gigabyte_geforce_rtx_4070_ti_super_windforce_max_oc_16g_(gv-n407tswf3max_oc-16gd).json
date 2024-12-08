@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "GigaByte GeForce RTX 4070 Ti Super Windforce MAX OC 16G (GV-N407TSWF3MAX OC-16GD)",
+    "price": 3401.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/5002123/ib9f7be2a6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/5002123/ib4a420d33.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/5002123/ib0d2f50bb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/5002123/i39c41a218.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/5002123/i2f6f24267.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/5002123/ic84e39c6c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/5002123/i49d9a6f5a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/5002123/i35e7165bb.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 331
+    }
+}

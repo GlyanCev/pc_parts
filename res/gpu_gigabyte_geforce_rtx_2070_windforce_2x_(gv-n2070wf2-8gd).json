@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "GIGABYTE GeForce RTX 2070 WINDFORCE 2X (GV-N2070WF2-8GD)",
+    "price": 4094.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/5/4006127/i0f5b3117a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/5/4006127/i2edc9fa46.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/5/4006127/i773f69d1f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/5/4006127/ia857327c5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/5/4006127/i7a124db40.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/5/4006127/i89bf31e65.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/5/4006127/if9cbe08d2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/5/4006127/i79725f035.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 14000,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 265
+    }
+}

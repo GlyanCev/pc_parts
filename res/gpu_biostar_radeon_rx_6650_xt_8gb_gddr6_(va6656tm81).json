@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "BIOSTAR Radeon RX 6650 XT 8GB GDDR6 (VA6656TM81)",
+    "price": 1299.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/6/4751334/ie3164c12f.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/6/4751334/i183a75e0d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/6/4751334/i0ea409556.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/6/4751334/i96c586444.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 23",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 500,
+        "width": 214
+    }
+}

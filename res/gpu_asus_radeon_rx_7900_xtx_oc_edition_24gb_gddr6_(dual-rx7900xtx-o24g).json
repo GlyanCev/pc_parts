@@ -1,0 +1,36 @@
+{
+    "type": "gpu",
+    "title": "ASUS Radeon RX 7900 XTX OC Edition 24GB GDDR6 (DUAL-RX7900XTX-O24G)",
+    "price": 4920.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/f/5029006/i9e9c968b8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i5a97e13f3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i4f3851171.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i097ab5fc2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/id8fbeed85.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i06adf955b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/ia3b0f4790.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i7a2dd1353.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/id53e7eba2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/if2af38710.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i37dec2139.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i1da7edb75.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/ib19025982.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5029006/i3a9adb16e.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 24576,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin + 8 pin",
+        "recommended_psu": 850,
+        "width": 323
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "gpu",
+    "title": "ASUS TUF Gaming Radeon RX 7900 XTX OC 24GB (TUF-RX7900XTX-O24G-GAMING)",
+    "price": 4412.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/a/4714506/icc10fb000.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/i50934f204.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/iefac12f8e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/i070cdb4cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/i399f4f45d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/i5ec3074b0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/id32cd6bd1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/ibe39a5ddb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/ic778e3fe7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/i8fb03bfda.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/a/4714506/id4eed5842.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 24576,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin + 8 pin",
+        "recommended_psu": 850,
+        "width": 352.9
+    }
+}

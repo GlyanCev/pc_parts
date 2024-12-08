@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gainward GeForce RTX 4060 Ti Ghost OC 8GB (NE6406TT19P1-1060B)",
+    "price": 1812.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/3/4957794/i0130fee7b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4957794/ifc37cdb46.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4957794/i97adcc79b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4957794/i2134c5649.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4957794/ic4da350cf.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4957794/i69ec9cfb4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4957794/i1a83da6ec.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4957794/i8082ec205.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD106",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 249.9
+    }
+}

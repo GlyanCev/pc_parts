@@ -29,7 +29,7 @@ class ProductScraper:
         try:
             self.title = self.soup.find('div', class_='heading').get_text(strip=True)
             price_text = self.soup.find('div', class_='spec-about__price').get_text(strip=True).split(' –')[0]
-            self.price = float(price_text.replace(',', '.').replace(' ', '').replace("б.р.", ''))
+            self.price = float(price_text.replace(',', '.').replace(' ', ''))
         except AttributeError:
             raise Exception('Не удалось найти необходимые элементы на странице.')
 
