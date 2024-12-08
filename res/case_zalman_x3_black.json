@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Zalman X3 Black",
+    "price": 398.19,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/2/4249329/ibc222bc77.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4249329/i4e1a8f590.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4249329/ic12994b16.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4249329/i5b387c4ce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4249329/i9ca84b26a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4249329/iebfb590f6.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 175,
+        "max_gpu_length": 350,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

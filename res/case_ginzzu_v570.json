@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "Ginzzu V570",
+    "price": 334.49,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/0/4920417/i95d06cac5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/i4e6ed6982.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/i48996d85a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/i69c87b3c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/ifdf094385.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/i96039a50d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/i5fbc2bdbf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/i4a5f9336a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/i673fff030.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4920417/ied293d254.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 400,
+        "max_psu_length": 240,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "AeroCool Ore Saturn FRGB-G-BK-v1",
+    "price": 162.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/d/4515059/icd9530092.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/i46c18298c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/i8b453a3a3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/ifb1cb53aa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/i2250bb7fb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/i5c2292ad3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/ia115c2bd7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/i1d7132f89.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/i3c874870a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4515059/id192205d7.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 371,
+        "liquid_cooling_support": true
+    }
+}

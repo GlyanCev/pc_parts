@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Thermaltake AH T600 CA-1Q4-00M1WN-00 Black",
+    "price": 1004.61,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/d/4008081/ic82b2f712.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4008081/ib53994a55.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4008081/i3e0f15171.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4008081/i6020f8efe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4008081/i8f45dfd89.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4008081/i12eabd105.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 195,
+        "max_gpu_length": 440,
+        "max_psu_length": 200,
+        "liquid_cooling_support": true
+    }
+}

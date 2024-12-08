@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "MSI MEG Prospect 700R",
+    "price": 1512.63,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/e/4711976/i417f62a81.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4711976/i5265156c2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4711976/i41a937629.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4711976/i20dd28bd3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4711976/ib2a5ac3fa.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 185,
+        "max_gpu_length": 400,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

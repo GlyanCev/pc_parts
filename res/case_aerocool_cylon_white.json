@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "AeroCool Cylon White",
+    "price": 185.83,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/4/3348175/ib739eb73e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/i2ddb15908.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/ib32ef5ec0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/ic05172133.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/i9f30385b0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/i7d695b5e2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/i7163f8375.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/i660bc2bbd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/iaf7ad7cd9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/i1cc9e35f2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/3348175/i1eeb8ab46.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 371,
+        "liquid_cooling_support": true
+    }
+}

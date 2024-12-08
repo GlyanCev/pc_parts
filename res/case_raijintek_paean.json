@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Raijintek Paean",
+    "price": 475.68,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/4/4705568/i585db24e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4705568/i88067c2d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4705568/iae3b2cc76.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 400,
+        "max_psu_length": 200,
+        "liquid_cooling_support": true
+    }
+}

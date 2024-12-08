@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "Cooler Master MasterBox MB400L MCB-B400L-KG5N-S00",
+    "price": 294.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/5/4439333/i4128d0359.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/ia461e02b1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/i3aa895a92.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/i01bfd5173.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/ia1c0e24b4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/i2b7415be0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/ibe6202cd2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/i8aa4b18b6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/i7e64012df.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4439333/i91333352e.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 166,
+        "max_gpu_length": 344,
+        "max_psu_length": 140,
+        "liquid_cooling_support": true
+    }
+}

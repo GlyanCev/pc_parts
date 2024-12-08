@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "Cooler Master HAF 500 H500-WGNN-S00",
+    "price": 695.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/e/4707225/ia1b3db785.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/e/4707225/ied5e94604.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/e/4707225/i8e217a714.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/e/4707225/i19dcf9edd.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/e/4707225/idcfe0b81f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/e/4707225/i025469054.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/e/4707225/i3a6411b30.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 167,
+        "max_gpu_length": 410,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

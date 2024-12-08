@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "Zalman i4 TG white",
+    "price": 228.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/3/4896116/id5c228176.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/i6e9579ca1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/i0786e2d1e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/i6b391d76e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/i89336b430.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/ibd46a82a1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/i563c438b6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/i54afcff68.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/ib47b2143c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4896116/i80f7ccc81.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 320,
+        "max_psu_length": 140,
+        "liquid_cooling_support": true
+    }
+}

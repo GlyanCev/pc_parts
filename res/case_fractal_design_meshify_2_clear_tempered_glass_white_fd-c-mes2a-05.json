@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "Fractal Design Meshify 2 Clear Tempered Glass White FD-C-MES2A-05",
+    "price": 989.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/8/4500725/i736ab59ab.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 185,
+        "max_gpu_length": 491,
+        "max_psu_length": 250,
+        "liquid_cooling_support": true
+    }
+}

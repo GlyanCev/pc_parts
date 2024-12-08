@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "AeroCool Menace Saturn FRGB V1 Black",
+    "price": 186.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/6/4006645/iad1293a9f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/i83da2fe32.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/i778f1e1a8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/ida5815cca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/i90762e00e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/i1337303b4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/i84c8464d8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/i65510c534.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/if408e0a10.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4006645/if24d8ac75.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 157,
+        "max_gpu_length": 317,
+        "max_psu_length": 192,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Thermaltake CTE E660 MX Snow CA-1Y3-00M6WN-01",
+    "price": 788.74,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/6/4984234/id69feae2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4984234/i53f359ed1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4984234/iffe550d48.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 166,
+        "max_gpu_length": 443.8,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

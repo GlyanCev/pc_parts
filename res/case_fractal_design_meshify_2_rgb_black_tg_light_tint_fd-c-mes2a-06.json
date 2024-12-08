@@ -1,0 +1,32 @@
+{
+    "type": "case",
+    "title": "Fractal Design Meshify 2 RGB Black TG Light tint FD-C-MES2A-06",
+    "price": 1111.66,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/0/4705405/i2a6936c1f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i7693b48d6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i2518f8385.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/ibd65b4009.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/ic5ada611a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i75ce45471.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/ia4e4a8867.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i5c3fe929a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i1c1f30d48.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/if8c279176.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i7ade00c37.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i89422967e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4705405/i4e888f244.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 185,
+        "max_gpu_length": 450,
+        "max_psu_length": 250,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Thermaltake View 380 TG ARGB Hydrangea Blue CA-1Z2-00MFWN-00",
+    "price": 464.61,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/8/4994908/i36a78f323.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/4994908/ie8d3f9e9c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/4994908/ic492dd5ea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/4994908/i205823972.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/4994908/i041193416.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/4994908/i1d8a40e98.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "голубой",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 415,
+        "max_psu_length": 200,
+        "liquid_cooling_support": true
+    }
+}

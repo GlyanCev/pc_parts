@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "1stPlayer Firebase X4-M-WH-2F1P-W-1F1-W",
+    "price": 179.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/2/4588089/i3f5ea7a42.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4588089/ib95aa65af.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4588089/idd4f5b756.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4588089/i938da45c5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4588089/i25423df68.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4588089/ib48794564.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4588089/i6c9e42477.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4588089/ie8eac63f8.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": true
+    }
+}

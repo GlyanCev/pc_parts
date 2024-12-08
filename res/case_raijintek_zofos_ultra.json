@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "Raijintek Zofos Ultra",
+    "price": 1018.74,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/4/4756553/i7a9f773f1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4756553/ic27f814c2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4756553/i342931ea2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4756553/ia9c028e31.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4756553/ide40198c8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4756553/i0320aea68.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4756553/ic179f9d55.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4756553/i07819b314.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX,SSI EEB",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 190,
+        "max_gpu_length": 370,
+        "liquid_cooling_support": true
+    }
+}

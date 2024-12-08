@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Raijintek Enyo",
+    "price": 981.83,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/1/4732358/ie41f6b665.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/i78f8d6a8d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/ia9f3a5c41.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/i0187acb2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/iad23d80f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/i562330094.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/i9151037c9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/i461558d02.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4732358/i864fbe150.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 188,
+        "max_gpu_length": 615,
+        "liquid_cooling_support": true
+    }
+}

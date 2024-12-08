@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Lian Li V3000 Plus G99.V3000PX.00",
+    "price": 1778.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/7/4782573/i68bb731dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4782573/i6c9c3f31f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4782573/i7db6817da.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4782573/ie79270783.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4782573/ie0dd1f231.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4782573/id6a527ee0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4782573/i6d78577b1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4782573/ie212b0b8c.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX,SSI EEB",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 198,
+        "max_gpu_length": 589,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "Powercase Mistral Micro D3B ARGB CMMDB-A3",
+    "price": 162.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/7/4863498/i93e5075c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/i125d97448.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/ibc0f3a95d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/i0481e97a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/i42e68c45f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/id5c1d7025.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/iba52a6b6b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/ib266f6ced.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/if3902363a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4863498/i15d798918.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 305,
+        "max_psu_length": 170,
+        "liquid_cooling_support": true
+    }
+}
