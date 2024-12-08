@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "Gainward GeForce RTX 4080 Phantom 16GB (NED4080019T2-1030P)",
+    "price": 5644.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/0/4706438/i22d6cb95f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/ie751fb049.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/i5f8b50bf9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/i5de9af6cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/if1adedb66.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/ib971975dd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/ia45c5da79.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/idf8848dca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/ie9b54a4ae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/i7e1b20e65.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/0/4706438/if68b1e602.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 700,
+        "width": 329.4
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "gpu",
+    "title": "PNY RTX 5000 Ada Generation 32GB GDDR6 (VCNRTX5000ADA-SB)",
+    "price": 24038.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/0/4852960/i7720280e1.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 32768,
+        "memory_frequency": 18000,
+        "directx_version": "12 Ultimate",
+        "width": 266.7
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS TUF Gaming GeForce RTX 4090 OC Edition 24GB (TUF-RTX4090-O24G-GAMING)",
+    "price": 11454.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/f/4681675/ica3af590d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i7bce28ace.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i32e626535.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/id6a855919.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i752a5a017.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i60beb0cfa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i2dd22de99.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i85c00b470.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i0b5e29da6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4681675/i398514e54.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 348.2
+    }
+}

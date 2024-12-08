@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "KFA2 GeForce RTX 4090 HOF 24GB (49NXM5MD6PHK)",
+    "price": 9849.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/2/4711772/i2be882889.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4711772/icf464ef0c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4711772/i4019e018d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4711772/i8f52ba131.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4711772/i0286aa6ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4711772/i9c809448a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4711772/ia8c65f836.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4711772/ia1df117bc.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 360
+    }
+}

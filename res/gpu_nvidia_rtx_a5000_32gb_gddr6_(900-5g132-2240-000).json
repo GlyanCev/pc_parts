@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "NVIDIA RTX A5000 32GB GDDR6 (900-5G132-2240-000)",
+    "price": 18312.87,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/7/5020369/i5038841e6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/5020369/i6abe1836c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/5020369/ie1103bb30.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/5020369/i8ccb56c28.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/5020369/i4325050c7.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 32768,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 600,
+        "width": 267
+    }
+}

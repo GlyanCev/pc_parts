@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4090 Suprim 24G",
+    "price": 9628.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/c/4706434/i99302d4c6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4706434/id88ce8474.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4706434/i9b5daa449.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4706434/i8feec8fd0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4706434/ia5aca2b3d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4706434/i8315d9225.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4706434/i5fbae575e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4706434/ide4d8c0b1.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 336
+    }
+}

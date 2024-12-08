@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "PNY Quadro RTX 6000 24GB GDDR6 (VCQRTX6000-SB)",
+    "price": 20773.11,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/d/4719215/i5cc7d063b.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4719215/ia25d80812.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4719215/i004700183.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 24576,
+        "memory_frequency": 14000,
+        "ray_tracing": true,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 600,
+        "width": 266.7
+    }
+}

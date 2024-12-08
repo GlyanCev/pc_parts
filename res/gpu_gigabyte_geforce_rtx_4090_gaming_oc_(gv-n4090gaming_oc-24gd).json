@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4090 Gaming OC (GV-N4090GAMING OC-24GD)",
+    "price": 9296.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/0/4690170/i1a09350c4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4690170/ibd8589657.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4690170/i26ed70f74.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4690170/ib831cd4c7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4690170/ib9065b024.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4690170/i9826436ee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4690170/i5fa5344f5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4690170/i130dbe6d9.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 340
+    }
+}

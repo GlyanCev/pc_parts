@@ -1,0 +1,19 @@
+{
+    "type": "gpu",
+    "title": "NVIDIA CMP 170HX 8GB (900-11001-0108-000)",
+    "price": 18177.93,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/6/5002145/idcdf3d7bc.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 4x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA100",
+        "memory_type": "HBM2e",
+        "memory_size": 8192,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 600
+    }
+}

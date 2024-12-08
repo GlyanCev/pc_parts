@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gainward GeForce RTX 4090 Phantom 24GB (NED4090019SB-1020P)",
+    "price": 9296.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/3/4751461/if477393cb.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4751461/i07a26ffe2.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4751461/i22ed95f57.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4751461/if6c551be8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4751461/i197ff4ed9.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4751461/i7d7a38b00.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4751461/i1e088ce85.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 329.4
+    }
+}

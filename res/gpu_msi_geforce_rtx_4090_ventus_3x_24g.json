@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4090 Ventus 3X 24G",
+    "price": 9406.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/0/4708997/i95743549a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4708997/i94412b1df.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4708997/iec76400e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4708997/i5753d002c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4708997/i0721f5652.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4708997/if1c9f94bb.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 322
+    }
+}

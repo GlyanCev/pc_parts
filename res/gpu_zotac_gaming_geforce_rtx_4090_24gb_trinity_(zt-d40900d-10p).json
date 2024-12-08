@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ZOTAC GAMING GeForce RTX 4090 24GB Trinity (ZT-D40900D-10P)",
+    "price": 9628.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/9/4699848/id99712c74.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4699848/id6f361dc7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4699848/ib9d20ac9f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4699848/i3ba5cccfc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4699848/ib1a41ba57.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4699848/ibe97b9a27.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4699848/ib3744f8c9.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 356.1
+    }
+}
