@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "Thermaltake Ceres 330 TG ARGB Hydrangea Blue CA-1Y2-00MFWN-00",
+    "price": 443.14,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/d/4956699/id4abb09fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4956699/icd655bbd4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4956699/ib0770f11a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4956699/if46a5f936.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4956699/if2826c854.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4956699/i1c585f460.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,EATX, Mini-DTX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "синий",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 185,
+        "max_gpu_length": 370,
+        "liquid_cooling_support": true
+    }
+}

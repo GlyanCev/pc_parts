@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Netac NTBSD4P32SP-08",
+    "price": 48.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/f/4500111/i6f801a815.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Colorful iGame GeForce RTX 4070 Super Loong Edition OC 12GB-V",
+    "price": 3567.07,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/7/4988892/i6bfc8a755.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4988892/ib6c7365ae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4988892/i38ad1e012.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4988892/i0c1993503.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4988892/i666a30a53.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 650,
+        "width": 336.9
+    }
+}

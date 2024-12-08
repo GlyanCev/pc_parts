@@ -1,0 +1,25 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 5 5500GT",
+    "price": 399.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/c/4907704/i4c4c4cf93.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/c/4907704/i9d67c71e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/c/4907704/i075f9ca58.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2024,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 7,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Radeon Graphics",
+        "integrated_graphics_freq": 1900,
+        "processor_clock": 3600,
+        "l2_cache_size": 3,
+        "l3_cache_size": 16,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

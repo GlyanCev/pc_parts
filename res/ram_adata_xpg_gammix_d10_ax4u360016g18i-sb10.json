@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "ADATA XPG Gammix D10 AX4U360016G18I-SB10",
+    "price": 147.78,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/1/4648743/i4f3196c4a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/4648743/i22e1f81d8.jpeg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

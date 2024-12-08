@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual Radeon RX 7600 V2 OC Edition 8GB GDDR6 (DUAL-RX7600-O8G-V2)",
+    "price": 1207.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/d/4808583/i1a101c3a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/ie460abaaf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/ibe6e9f52a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/ic7dbf882b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/ia8251bc8f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/i441100238.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/i657e6cb1e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/i9ab7ccb3a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4808583/iba2f94a02.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": false,
+        "recommended_psu": 550,
+        "width": 245
+    }
+}

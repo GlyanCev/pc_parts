@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4060 Infinity 2 OC (NE64060S19P1-1070L)",
+    "price": 1176.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/c/4921902/i29f3ddf0e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4921902/iae9b5c80d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4921902/iafea1bcb0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4921902/i48dc10337.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4921902/ifc3c7a67b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4921902/i0273f0467.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4921902/i6b0bd3f4b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4921902/i33a323134.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6X",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.5,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 600,
+        "width": 249.9
+    }
+}

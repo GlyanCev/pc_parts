@@ -1,0 +1,34 @@
+{
+    "type": "case",
+    "title": "DeepCool CC360 ARGB R-CC360-BKAPM3-G-1",
+    "price": 190.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/b/4739202/i41fc59cdd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i28f7c22fe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i9572ba6ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i24af36989.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i7b9cde0e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/ia1a372bee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/id798e93ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/id6c8b9c52.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i942c343a9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i9fc350e1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/icbedf9b46.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/ia47990fb9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i07c4745b8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/ief983cec5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/4739202/i2bb5f5356.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 320,
+        "max_psu_length": 160,
+        "liquid_cooling_support": true
+    }
+}

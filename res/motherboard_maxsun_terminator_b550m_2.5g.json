@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "Maxsun Terminator B550M 2.5G",
+    "price": 325.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/8/4812656/i00db8d764.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4812656/ifcfa76a31.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4812656/i30347eff5.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4812656/ifd298cc2d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4812656/i8d20b6144.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4812656/id54365a29.png"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 3800,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

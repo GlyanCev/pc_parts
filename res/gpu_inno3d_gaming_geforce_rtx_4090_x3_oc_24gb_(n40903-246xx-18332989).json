@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "INNO3D Gaming GeForce RTX 4090 X3 OC 24GB (N40903-246XX-18332989)",
+    "price": 7082.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/1/4699968/i0533a029d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4699968/i5153efd43.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4699968/ibaead5024.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 336
+    }
+}

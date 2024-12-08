@@ -1,0 +1,20 @@
+{
+    "type": "cpu",
+    "title": "AMD EPYC 7663",
+    "price": 4496.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/2/4668379/i4ad4fa18a.jpg"
+    ],
+    "data": {
+        "socket": "SP3",
+        "release_year": 2021,
+        "core_count": 56,
+        "thread_count": 112,
+        "process_technology": 12,
+        "integrated_graphics": false,
+        "processor_clock": 2000,
+        "l3_cache_size": 256,
+        "tdp": 240,
+        "memory_type": "DDR4"
+    }
+}

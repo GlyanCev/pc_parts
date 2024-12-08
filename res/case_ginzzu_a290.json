@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Ginzzu A290",
+    "price": 79.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/8/4896114/if0912a793.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/ibd0012b21.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/i351ac0918.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/ie26db0ddc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/ib5635cd8b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/i3e353a08b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/i746d91e74.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/i4fd2a079d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4896114/i93e20fa1b.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 150,
+        "max_gpu_length": 310,
+        "liquid_cooling_support": false
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "INNO3D GeForce RTX 4080 X3 16GB (N40803-166X-187049N)",
+    "price": 6086.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/7/4711761/ib4160a797.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/7/4711761/i18ec2d516.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/7/4711761/i5c074bb30.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 328
+    }
+}

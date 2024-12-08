@@ -1,0 +1,31 @@
+{
+    "type": "case",
+    "title": "Genesis Irid 505 ARGB NPC-1518",
+    "price": 303.14,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/1/4552885/if1df2f31a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/ib4c5749aa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/i3059e2b8b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/i1bb2b663e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/i3de592e31.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/i0c9ddd650.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/if0e91de64.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/ifdf972bf4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/ic9107b3c0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/ie6bdb2f7e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/i78c6107ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4552885/i597878041.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 380,
+        "max_psu_length": 190,
+        "liquid_cooling_support": true
+    }
+}

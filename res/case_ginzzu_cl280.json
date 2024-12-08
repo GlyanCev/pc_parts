@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Ginzzu CL280",
+    "price": 246.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/0/4500733/i1fe09aae9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4500733/iba2c27876.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4500733/i3f997c9b7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4500733/i36a30301b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4500733/i6a76063e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4500733/i26d1f590b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4500733/ib349cbef5.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": false
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "case",
+    "title": "Zalman M3 plus RGB",
+    "price": 224.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/8/4502937/i2111b3b3e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/8/4502937/i2b0a423b8.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 330,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

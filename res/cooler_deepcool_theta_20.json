@@ -1,0 +1,14 @@
+{
+    "type": "cooler",
+    "title": "Deepcool THETA 20",
+    "price": 23.09,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p480000/pf/b/476421/ic1bde1595.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p480000/pf/b/476421/i9a766dc0f.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1155",
+        "liquid_cooling": false,
+	"tdp": 65
+    }
+}

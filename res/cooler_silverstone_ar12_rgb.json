@@ -1,0 +1,30 @@
+{
+    "type": "cooler",
+    "title": "SilverStone AR12 RGB",
+    "price": 115.11,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/b/4851126/ie047889ff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i0cc6f921a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/id67561b06.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i9f6e63647.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i4c030d899.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i40bee5366.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/ibc7f0ba11.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i02f29a2b7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/id561be1af.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/ie1631be2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/if1b7f94a5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i1ebb0544c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i6562e0f34.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i477ae827a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i37cd822cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i335deddb5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/if650e7369.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/ibe3a6514e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4851126/i5090b199f.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM2, LGA 1366, FM1, AM4, FM2, LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, AM3, LGA 1151, LGA 1200, LGA 2011, AM5",
+        "liquid_cooling": false
+    }
+}

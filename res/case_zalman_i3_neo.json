@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "Zalman i3 Neo",
+    "price": 204.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/8/4581786/i3c3b07f5d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/8/4581786/idc6fbb173.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/8/4581786/ic079b79db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/8/4581786/iaf5880f64.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/8/4581786/ib75ebb010.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 355,
+        "max_psu_length": 210,
+        "liquid_cooling_support": true
+    }
+}

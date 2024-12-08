@@ -1,0 +1,19 @@
+{
+    "type": "cpu",
+    "title": "Intel Xeon E5-2620V3 Haswell-EP (2400MHz, LGA2011-3, L3 15360Kb)",
+    "price": 111.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/d/1504587/iace1c9070.jpg"
+    ],
+    "data": {
+        "socket": "LGA2011-3",
+        "core_count": 6,
+        "process_technology": 22,
+        "integrated_graphics": false,
+        "processor_clock": 2400,
+        "l2_cache_size": 1.5,
+        "l3_cache_size": 15,
+        "tdp": 85,
+        "memory_type": "DDR4"
+    }
+}

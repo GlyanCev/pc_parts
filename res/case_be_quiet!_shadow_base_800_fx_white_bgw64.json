@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "be quiet! Shadow Base 800 FX White BGW64",
+    "price": 806.15,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/2/4902107/i9b8cc3149.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/i7c6c5fe63.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/i3e49ae09f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/ifcf8e0401.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/i22109a993.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/i72eb46d52.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/ie455dc9cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/i46f19b436.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/i5e7d98e0f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/if705ca409.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4902107/i8d9a2a763.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 430,
+        "liquid_cooling_support": true
+    }
+}

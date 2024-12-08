@@ -1,0 +1,22 @@
+{
+    "type": "cpu",
+    "title": "AMD EPYC 7642",
+    "price": 5749.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/e/4282901/i1c20d4df4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4282901/i20753cda5.jpg"
+    ],
+    "data": {
+        "socket": "SP3",
+        "release_year": 2019,
+        "core_count": 48,
+        "thread_count": 96,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 2300,
+        "l2_cache_size": 24,
+        "l3_cache_size": 256,
+        "tdp": 225,
+        "memory_type": "DDR4"
+    }
+}

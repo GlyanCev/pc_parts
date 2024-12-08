@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "MSI PRO H610M-E",
+    "price": 281.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/4/4808657/id58a15210.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4808657/ib1b63d494.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4808657/i7feb2e22d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4808657/i9f9fe016c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/4808657/ia6102e4aa.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 96,
+        "memory_slots": 2,
+        "max_memory_frequency": 5600,
+        "dual_channel": false,
+        "chipset_name": "Intel H610",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 11,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

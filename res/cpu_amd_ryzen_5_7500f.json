@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 5 7500F",
+    "price": 521.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/2/4801858/i773ad76bd.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "release_year": 2023,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 5,
+        "integrated_graphics": false,
+        "processor_clock": 3700,
+        "l2_cache_size": 6,
+        "l3_cache_size": 32,
+        "tdp": 65,
+        "memory_type": "DDR5"
+    }
+}

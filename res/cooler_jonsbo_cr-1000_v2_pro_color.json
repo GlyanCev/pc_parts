@@ -1,0 +1,17 @@
+{
+    "type": "cooler",
+    "title": "Jonsbo CR-1000 V2 Pro Color",
+    "price": 83.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/c/4877358/i904184c4c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4877358/i269dd8da7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4877358/i35974d48d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4877358/ie1cd2995c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4877358/i9f5ed6ff0.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 230
+    }
+}

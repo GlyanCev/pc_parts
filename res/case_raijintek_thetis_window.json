@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Raijintek Thetis Window ",
+    "price": 353.02,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/5/4899054/i849b386cd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4899054/i3ff246ff9.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4899054/i5254066dd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4899054/i32fad72e7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4899054/id0b132d33.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4899054/id11b328e0.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/5/4899054/ied9bb10b5.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "серебристый",
+        "case_material": "сталь, алюминий",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 320,
+        "liquid_cooling_support": true
+    }
+}

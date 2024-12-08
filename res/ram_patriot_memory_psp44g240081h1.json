@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PSP44G240081H1",
+    "price": 42.82,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/1/3855363/id793b495a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/3855363/iabc08d497.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/3855363/i91e5f3b6e.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 4,
+        "module_count": 1,
+        "clock_frequency": 2400,
+        "heat_spreader": true,
+        "xmp_support": false
+    }
+}

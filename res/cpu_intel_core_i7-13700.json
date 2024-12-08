@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i7-13700",
+    "price": 1252.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/1/4696953/i6e5a71c88.jpeg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2023,
+        "core_count": 16,
+        "thread_count": 24,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 770",
+        "integrated_graphics_freq": 1600,
+        "processor_clock": 2100,
+        "l2_cache_size": 24,
+        "l3_cache_size": 30,
+        "tdp": 219,
+        "memory_type": "DDR4, DDR5"
+    }
+}

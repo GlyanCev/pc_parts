@@ -1,0 +1,22 @@
+{
+    "type": "cooler",
+    "title": "DeepCool AG500 Digital BK R-AG500-BKNDMN-G-2",
+    "price": 138.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/c/4877344/i7bebcfe20.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/ia1bf7c98a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/i585cddd5d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/ie6447ca86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/i1ab4ec5fd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/if1f363ab9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/ie340a6932.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/idb3b5121b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/id9afd05b8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4877344/ic7fa30f8d.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 240
+    }
+}

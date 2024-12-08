@@ -1,0 +1,21 @@
+{
+    "type": "case",
+    "title": "AeroCool Qs-180 Black",
+    "price": 162.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/8/1498291/i22923b0f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/1498291/i674fdf575.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/1498291/i8852b9007.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/1498291/i945656d09.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 150,
+        "max_gpu_length": 320,
+        "liquid_cooling_support": false
+    }
+}

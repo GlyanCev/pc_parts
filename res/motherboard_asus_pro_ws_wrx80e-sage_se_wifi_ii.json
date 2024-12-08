@@ -1,0 +1,32 @@
+{
+    "type": "motherboard",
+    "title": "ASUS Pro WS WRX80E-SAGE SE WIFI II",
+    "price": 6247.35,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/d/4719150/i4f3a4ae7c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/i60ca755cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/i6ebd1bb2d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/i9994bf42d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/idaad8c761.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/ifef6d38ea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/if337cdd78.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/ief4e70a77.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/idd5e01376.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/d/4719150/i0e806051e.jpg"
+    ],
+    "data": {
+        "socket": "sWRX8",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 2048,
+        "memory_slots": 8,
+        "max_memory_frequency": 3200,
+        "chipset_name": "AMD WRX80",
+        "uefi_support": true,
+        "sata_slots": 8,
+        "m2_slots": 3,
+        "usb_ports_total": 14,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "EATX"
+    }
+}

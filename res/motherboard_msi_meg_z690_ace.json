@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "MSI MEG Z690 ACE",
+    "price": 2278.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/d/4684141/i5200e96c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4684141/i8c9466611.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4684141/i64829af0b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4684141/i58b95d832.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4684141/i853e18e7d.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6666,
+        "dual_channel": true,
+        "chipset_name": "Intel Z690",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 5,
+        "usb_ports_total": 15,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "EATX"
+    }
+}

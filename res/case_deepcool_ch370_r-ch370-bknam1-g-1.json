@@ -1,0 +1,31 @@
+{
+    "type": "case",
+    "title": "DeepCool CH370 R-CH370-BKNAM1-G-1",
+    "price": 186.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/7/4661211/i856912a49.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i63a782c24.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i5a857e78b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i5fb8f7ef0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i4d17709b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i0fbeafc1a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/ic875a54ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i39f2cd4e7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i02e49321b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i511933a7e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i2c3c0fd31.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i332f3cccf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/4661211/i555abba66.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 320,
+        "liquid_cooling_support": true
+    }
+}

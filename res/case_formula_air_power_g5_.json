@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "Formula Air Power G5",
+    "price": 215.88,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/5/4860960/i44ad91f1a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/4860960/ia330530f6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/4860960/i9792cab4f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/4860960/i66f9f9493.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/4860960/i28e112907.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 327,
+        "liquid_cooling_support": true
+    }
+}

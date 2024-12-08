@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B550 TAICHI RAZER EDITION",
+    "price": 1112.87,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/7/4417321/i630bc9249.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/7/4417321/ifea03d986.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/7/4417321/i4b2d67684.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/7/4417321/ia6a95ce18.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4733,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 17,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

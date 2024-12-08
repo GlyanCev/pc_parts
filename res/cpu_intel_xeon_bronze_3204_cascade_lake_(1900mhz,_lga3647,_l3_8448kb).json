@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Xeon Bronze 3204 Cascade Lake (1900MHz, LGA3647, L3 8448Kb)",
+    "price": 440.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/f/3967549/ib2cafefc5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/3967549/i13f3d8688.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/3967549/ifbb6e0b4d.jpg"
+    ],
+    "data": {
+        "socket": "LGA3647",
+        "release_year": 2019,
+        "core_count": 6,
+        "thread_count": 6,
+        "process_technology": 14,
+        "integrated_graphics": false,
+        "processor_clock": 1900,
+        "l2_cache_size": 1,
+        "l3_cache_size": 8.25,
+        "tdp": 85,
+        "memory_type": "DDR4"
+    }
+}

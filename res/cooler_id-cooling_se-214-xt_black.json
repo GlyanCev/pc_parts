@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-214-XT Black",
+    "price": 52.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/8/5002284/i99f2e8afa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/5002284/iea919e092.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/5002284/ibdcf770ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/5002284/ic76f98f5e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/5002284/i7719d3d0a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/5002284/if7040876f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/5002284/idd1202647.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5, LGA 1851",
+        "liquid_cooling": false,
+        "tdp": 180
+    }
+}

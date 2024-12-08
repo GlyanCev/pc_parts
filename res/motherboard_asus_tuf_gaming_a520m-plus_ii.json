@@ -1,0 +1,25 @@
+{
+    "type": "motherboard",
+    "title": "ASUS TUF GAMING A520M-PLUS II",
+    "price": 336.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/b/4502688/id2a28b14f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4502688/i8e9916080.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4502688/if76e3d702.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4502688/i483bae892.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4866,
+        "chipset_name": "AMD A520",
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

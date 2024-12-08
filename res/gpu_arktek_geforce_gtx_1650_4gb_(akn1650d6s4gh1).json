@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "Arktek GeForce GTX 1650 4GB (AKN1650D6S4GH1)",
+    "price": 579.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/c/4681682/ie1b559248.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4681682/ia84a73bd6.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4681682/i2c7e1b7b5.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4681682/i3850541c5.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "TU117",
+        "memory_type": "GDDR6",
+        "memory_size": 4096,
+        "memory_frequency": 12000,
+        "ray_tracing": false,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": false,
+        "recommended_psu": 300
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS ROG Strix GeForce RTX 4080 16GB (ROG-STRIX-RTX4080-16G-GAMING)",
+    "price": 6031.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/7/4699831/ie9102de68.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/id19f77347.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/i0d7f161e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/i584e26bba.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/ib9fdd2bec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/i7cf21931d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/i8f49d265d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/ife6fd08b1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/ia6fb1d4e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4699831/i8e0c5ab83.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 357.6
+    }
+}

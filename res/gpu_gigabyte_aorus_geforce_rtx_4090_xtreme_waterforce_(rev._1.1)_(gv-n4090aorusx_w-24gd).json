@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Aorus GeForce RTX 4090 Xtreme Waterforce (rev. 1.1) (GV-N4090AORUSX W-24GD)",
+    "price": 9628.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/2/4699871/i3a3a5f52f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4699871/i539e31a71.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4699871/ida52355f3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4699871/i4f988ef46.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4699871/i0275eecc8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4699871/i548a30b57.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4699871/ie7610d207.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 238
+    }
+}

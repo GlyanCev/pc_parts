@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "ExeGate XP-402U EX283735RUS",
+    "price": 114.61,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/6/4514900/i570c373d0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/6/4514900/id01a73f7d.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 145,
+        "max_gpu_length": 240,
+        "max_psu_length": 240,
+        "liquid_cooling_support": false
+    }
+}

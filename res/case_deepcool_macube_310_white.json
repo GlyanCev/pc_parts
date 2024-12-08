@@ -1,0 +1,30 @@
+{
+    "type": "case",
+    "title": "Deepcool Macube 310 White",
+    "price": 165.02,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/9/4007663/i99aa30677.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/ife537b8ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/i48378886c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/i36e0ec159.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/ifc8b93f57.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/if59d9cebe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/i1040bab8b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/i1a0488c83.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/i24d5aa4f5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/ib258608d5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4007663/i09de1b78f.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 330,
+        "max_psu_length": 160,
+        "liquid_cooling_support": true
+    }
+}

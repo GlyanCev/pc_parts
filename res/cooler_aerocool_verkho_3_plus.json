@@ -1,0 +1,17 @@
+{
+    "type": "cooler",
+    "title": "AeroCool Verkho 3 Plus",
+    "price": 79.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/6/3333191/id08dd38d8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/6/3333191/ib3b4fb468.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/6/3333191/i2364c31dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/6/3333191/if8fb55901.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/6/3333191/i395512543.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, FM1, AM4, AM3+, FM2, LGA 1156, LGA 1150, LGA 1155, AM3, LGA 1151, LGA 1200",
+        "liquid_cooling": false,
+        "tdp": 125
+    }
+}

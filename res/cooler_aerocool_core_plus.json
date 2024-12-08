@@ -1,0 +1,12 @@
+{
+    "type": "cooler",
+    "title": "AeroCool Core Plus",
+    "price": 42.47,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/9/4432299/ifa81e60eb.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, FM1, AM4, AM3+, FM2, LGA 1156, LGA 1150, LGA 1155, AM3, LGA 1151, LGA 1200",
+        "tdp": 110
+    }
+}

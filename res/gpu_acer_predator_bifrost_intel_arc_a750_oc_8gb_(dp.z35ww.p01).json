@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Acer Predator BiFrost Intel Arc A750 OC 8GB (DP.Z35WW.P01)",
+    "price": 1074.48,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/4/4894243/i6060bf390.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4894243/id50146214.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4894243/i9cb89769a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4894243/i6c4bb4fa6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4894243/idd29ad6e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4894243/ie588f0b7e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4894243/i81e7a02fc.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "Intel",
+        "video_processor": "DG2-512",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 16000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 650,
+        "width": 266.7
+    }
+}

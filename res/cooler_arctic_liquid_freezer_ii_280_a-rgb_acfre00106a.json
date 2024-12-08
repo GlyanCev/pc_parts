@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "Arctic Liquid Freezer II 280 A-RGB ACFRE00106A",
+    "price": 403.09,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/3/4852909/ieb24f2ca5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/3/4852909/i780183d86.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/3/4852909/i62c1b633c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/3/4852909/ib7e0e9b16.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/3/4852909/ib95b66cc4.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/3/4852909/iad6a46556.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/3/4852909/i736afb4d6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/3/4852909/i8c963d246.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 2011-3 (Square ILM), LGA 1150, LGA 2066, LGA 2011 (Square ILM), LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, LGA 2011-3, AM5",
+        "liquid_cooling": true
+    }
+}

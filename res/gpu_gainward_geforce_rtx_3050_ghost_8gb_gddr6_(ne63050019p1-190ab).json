@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "Gainward GeForce RTX 3050 Ghost 8GB GDDR6 (NE63050019P1-190AB)",
+    "price": 1149.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/f/4856536/id105c6269.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4856536/i9b4a03131.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4856536/i7525b7d60.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4856536/i0f4e0e00d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4856536/i782b2ad37.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4856536/i7f9ae723a.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 14000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 245
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "Zalman S5 Black",
+    "price": 155.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/c/4211477/i3f4773526.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4211477/i91bb01515.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4211477/i7214345be.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4211477/i63ae64714.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 163,
+        "max_gpu_length": 340,
+        "max_psu_length": 190,
+        "liquid_cooling_support": true
+    }
+}

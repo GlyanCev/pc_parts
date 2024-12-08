@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME B660M-K D4",
+    "price": 336.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/b/4619714/ieb89f08d5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4619714/i5141388cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4619714/i65e03933e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4619714/iaba1fed51.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4619714/i74589ebaa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4619714/i60ceb6b40.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/b/4619714/idb0728a8a.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 5333,
+        "dual_channel": true,
+        "chipset_name": "Intel B660",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

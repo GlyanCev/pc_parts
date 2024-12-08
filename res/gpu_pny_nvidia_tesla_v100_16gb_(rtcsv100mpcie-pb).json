@@ -1,0 +1,21 @@
+{
+    "type": "gpu",
+    "title": "PNY Nvidia Tesla V100 16GB (RTCSV100MPCIE-PB)",
+    "price": 9961.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/e/4419607/ib3278dfc5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/4419607/i83e385db3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/4419607/i96a1c9046.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/4419607/i6e9ad4b97.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "HBM2",
+        "memory_size": 16384,
+        "memory_frequency": 878,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "width": 267
+    }
+}

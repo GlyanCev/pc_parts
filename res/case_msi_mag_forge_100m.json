@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "MSI MAG FORGE 100M",
+    "price": 252.14,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/7/4280557/if74da30b4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/7/4280557/id85966ce8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/7/4280557/if990d2355.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/7/4280557/ib6941f1fc.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 166,
+        "max_gpu_length": 330,
+        "max_psu_length": 200,
+        "liquid_cooling_support": true
+    }
+}

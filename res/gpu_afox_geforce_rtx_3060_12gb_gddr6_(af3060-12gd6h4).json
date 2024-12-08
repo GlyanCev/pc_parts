@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "AFOX GeForce RTX 3060 12GB GDDR6 (AF3060-12GD6H4)",
+    "price": 1428.13,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/5/4894260/i88c0cc292.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/4894260/ied9f2016c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/4894260/i55b30a87f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/4894260/i29fd36ba7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/5/4894260/i6d4b96358.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA106",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 15000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 247
+    }
+}

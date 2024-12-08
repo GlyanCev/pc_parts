@@ -1,0 +1,30 @@
+{
+    "type": "case",
+    "title": "Genesis Irid 505 ARGB White NPC-1872",
+    "price": 338.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/2/4574779/i2893b7283.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/i433330b88.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/ia4754cd47.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/ib9319dbf5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/iab685c156.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/i5137335c9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/ic4fd70247.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/i947fb1929.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/i8de1852c5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/i491bf8cb8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4574779/i4e00cf10b.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 380,
+        "max_psu_length": 190,
+        "liquid_cooling_support": true
+    }
+}

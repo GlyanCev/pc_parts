@@ -1,0 +1,20 @@
+{
+    "type": "cooler",
+    "title": "Arctic Freezer i35 ACFRE00094A",
+    "price": 173.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/e/4816330/ib8108dcbd.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/e/4816330/if8d79493e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/e/4816330/i95e4bd627.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/e/4816330/i1c252b0ea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/e/4816330/i37ea5d8dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/e/4816330/ib32e83d57.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/e/4816330/ifcadcff67.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/e/4816330/i7da31e586.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700",
+        "liquid_cooling": false,
+        "tdp": 150
+    }
+}

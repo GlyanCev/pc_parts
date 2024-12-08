@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "AeroCool Cs-101 Black",
+    "price": 315.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/d/2134883/if5aad1faf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/d/2134883/i708dbca02.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/d/2134883/i709a9098e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/d/2134883/i787ce4afc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/d/2134883/i3df1b26d4.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 80,
+        "max_gpu_length": 240,
+        "liquid_cooling_support": false
+    }
+}

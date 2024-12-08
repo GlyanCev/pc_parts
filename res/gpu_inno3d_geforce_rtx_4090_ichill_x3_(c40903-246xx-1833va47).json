@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "INNO3D GeForce RTX 4090 iChill X3 (C40903-246XX-1833VA47)",
+    "price": 7414.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/9/4711760/i208d566cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4711760/i5b71270b9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4711760/i2ec82eb29.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 334
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "1stPlayer D4-WH-4G6",
+    "price": 216.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/9/4515218/i6e3c9464b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4515218/ia9703bb61.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4515218/i7bcc67a1f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4515218/idad78fb7c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4515218/i40f0ee528.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4515218/i6024d4fa6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4515218/i1e070dfd8.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 305,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 3700X Matisse (AM4, L3 32768Kb)",
+    "price": 457.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/c/3767389/i7e9497c75.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2019,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "integrated_graphics_name": "R7",
+        "processor_clock": 3600,
+        "l2_cache_size": 4,
+        "l3_cache_size": 32,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

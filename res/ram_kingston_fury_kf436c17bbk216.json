@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston Fury KF436C17BBK2/16",
+    "price": 152.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/1/4502887/i2a0296c37.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4502887/i215961382.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4502887/i5a9bfbfb9.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

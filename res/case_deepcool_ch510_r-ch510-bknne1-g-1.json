@@ -1,0 +1,35 @@
+{
+    "type": "case",
+    "title": "DeepCool CH510 R-CH510-BKNNE1-G-1",
+    "price": 297.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/c/4658904/i69de93d26.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/ibc0c07e99.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/if9df5bc5e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/ic92babf87.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i36f166f08.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i2b26f69e2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i866411650.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i0d6064e7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/id469c4539.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i51290df39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/ia51748466.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i728b36df4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i16beae475.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i43ec3ae82.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/ie2709b119.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/c/4658904/i0c4428034.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 175,
+        "max_gpu_length": 380,
+        "max_psu_length": 170,
+        "liquid_cooling_support": true
+    }
+}

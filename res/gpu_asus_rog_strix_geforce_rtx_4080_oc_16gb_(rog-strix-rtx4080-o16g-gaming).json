@@ -1,0 +1,31 @@
+{
+    "type": "gpu",
+    "title": "ASUS ROG Strix GeForce RTX 4080 OC 16GB (ROG-STRIX-RTX4080-O16G-GAMING)",
+    "price": 6584.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/5/4690216/i624590d38.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/iad0b98d3c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/ic08467781.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/i6f4b85368.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/ida727df32.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/icde9dbefa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/ib29c493fd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/i40b0a0b4a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4690216/i451753626.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 357.6
+    }
+}

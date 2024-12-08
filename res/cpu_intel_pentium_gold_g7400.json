@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Pentium Gold G7400",
+    "price": 256.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/a/4642141/i9aef0d0e2.jpeg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2022,
+        "core_count": 2,
+        "thread_count": 4,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 710",
+        "integrated_graphics_freq": 1350,
+        "processor_clock": 3700,
+        "l2_cache_size": 2.5,
+        "l3_cache_size": 6,
+        "tdp": 46,
+        "memory_type": "DDR4, DDR5"
+    }
+}

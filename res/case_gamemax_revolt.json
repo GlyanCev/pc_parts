@@ -1,0 +1,30 @@
+{
+    "type": "case",
+    "title": "GameMax Revolt",
+    "price": 200.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/3/4515224/i8cd3320b9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i61217e3f2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i1e172e606.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i4fa0ff8ad.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/iff8ac37f5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i51790ca7b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i7a10c6902.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i1d442f714.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i04dc907bb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/iad2170386.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/i0562085ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4515224/if95f06c3c.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "ZOTAC Gaming GeForce RTX 3050 6GB GDDR6 LP (ZT-A30510L-10L)",
+    "price": 883.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/2/4991464/i756b40acd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4991464/i70167812e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4991464/i38f6699fc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4991464/i85477b8ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4991464/i90855b5bd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4991464/iff8824d4a.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA107",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 14000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": false,
+        "recommended_psu": 450,
+        "width": 161
+    }
+}

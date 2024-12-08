@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "SilverStone RM22-308",
+    "price": 1510.44,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/9/4809647/ic4e1dc6ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/ie20517ed6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/i07c3267f6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/ia73771861.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/icd4b88c6a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/i28fa1b6c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/i229abe15a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/i7a5163aad.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4809647/ia2b31093c.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX, SSI CEB,mATX,SSI EEB",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 68,
+        "liquid_cooling_support": false
+    }
+}

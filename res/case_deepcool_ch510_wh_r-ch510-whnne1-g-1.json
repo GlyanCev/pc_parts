@@ -1,0 +1,35 @@
+{
+    "type": "case",
+    "title": "DeepCool CH510 WH R-CH510-WHNNE1-G-1",
+    "price": 269.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/c/4658903/iafd05fb6f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i82a56c6a3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/ifcabbd167.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i858f243ae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i261f7f62a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i3fcac568b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/ic45feac77.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i31db49880.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i7947b3719.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i79be5f7e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/ic619a891b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i6607812b7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/ie92274ef1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/id79c3e994.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/ie56f8dac0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4658903/i7274b408b.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 175,
+        "max_gpu_length": 380,
+        "max_psu_length": 170,
+        "liquid_cooling_support": true
+    }
+}

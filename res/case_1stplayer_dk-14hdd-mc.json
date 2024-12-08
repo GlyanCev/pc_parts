@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "1stPlayer DK-14HDD-MC",
+    "price": 282.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/7/4544399/iac36e41cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4544399/i369375c99.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4544399/id762eb9ec.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 285,
+        "liquid_cooling_support": false
+    }
+}

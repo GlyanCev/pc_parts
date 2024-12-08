@@ -1,0 +1,24 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i7-11700K",
+    "price": 1170.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/8/4456175/i906be6e95.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4456175/id1c64f584.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "release_year": 2021,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 14,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 750",
+        "integrated_graphics_freq": 1300,
+        "processor_clock": 3600,
+        "l2_cache_size": 1.5,
+        "l3_cache_size": 16,
+        "tdp": 125,
+        "memory_type": "DDR4"
+    }
+}

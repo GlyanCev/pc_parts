@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "Zalman Z3 Iceberg white",
+    "price": 200.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/6/4514975/i39aa9b069.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/6/4514975/i67f8d8eb3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/6/4514975/ifd0dca00a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/6/4514975/i18d82857f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/6/4514975/ie5ee6bddc.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 163,
+        "max_gpu_length": 315,
+        "max_psu_length": 210,
+        "liquid_cooling_support": true
+    }
+}

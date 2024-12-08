@@ -1,0 +1,22 @@
+{
+    "type": "cooler",
+    "title": "DeepCool AG500 WH ARGB R-AG500-WHANMN-G",
+    "price": 114.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/3/4816577/i3a06c6193.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/i6075349e8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/if980f98ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/iaafd05f65.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/i6c5ce1185.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/i1a6ff3ff1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/ieb9f30940.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/i4986a316b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/i97a345c79.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4816577/i35fb23423.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 240
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 5800",
+    "price": 881.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/6/4739838/i8414bc02f.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/6/4739838/icb3181264.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/6/4739838/i30b11c423.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/6/4739838/i1511b564f.jpeg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2021,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3400,
+        "l2_cache_size": 4,
+        "l3_cache_size": 32,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

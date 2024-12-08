@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock X570 Steel Legend",
+    "price": 839.61,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/9/3816493/iff798ccbf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/3816493/i4aa252905.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/3816493/if7fb3ddd5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/3816493/i78a6de80f.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4400,
+        "dual_channel": true,
+        "chipset_name": "AMD X570",
+        "uefi_support": true,
+        "sata_slots": 8,
+        "m2_slots": 2,
+        "usb_ports_total": 16,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "ATX"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME A520M-K",
+    "price": 236.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/5/4241413/i9d8d171eb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4241413/i7b87e800a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4241413/i00dac1a60.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4241413/i75bdbe508.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4241413/i2ba48a1e3.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4600,
+        "dual_channel": true,
+        "chipset_name": "AMD A520",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

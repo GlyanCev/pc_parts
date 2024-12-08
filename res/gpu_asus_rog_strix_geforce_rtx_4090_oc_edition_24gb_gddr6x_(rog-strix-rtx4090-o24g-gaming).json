@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS ROG Strix GeForce RTX 4090 OC Edition 24GB GDDR6X (ROG-STRIX-RTX4090-O24G-GAMING)",
+    "price": 11011.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/b/4721208/i44270531e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/i4657f2ead.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/i623000efa.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/iaa6335491.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/iac2c9782f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/idebac1c11.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/ic38a4c655.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/i3d4c263c4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/id13f10a9e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/i85a73f0c0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4721208/iacff89b2c.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 357.6
+    }
+}

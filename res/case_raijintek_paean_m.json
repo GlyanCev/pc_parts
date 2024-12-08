@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Raijintek Paean M",
+    "price": 350.41,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/a/4705567/iac023d26e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4705567/ib2e51ca3c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4705567/i32a1ee264.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4705567/i9ff8f8008.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4705567/if23dc38c6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4705567/i493f51633.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4705567/ib84b245b1.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 140,
+        "max_gpu_length": 430,
+        "liquid_cooling_support": true
+    }
+}

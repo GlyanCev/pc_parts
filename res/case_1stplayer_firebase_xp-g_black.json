@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "1stPlayer Firebase XP-G (black)",
+    "price": 179.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/3/4671699/i9343e3c35.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4671699/i9c2efd8bb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4671699/i773ff26ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4671699/i8acf96a3b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4671699/iad6f0411f.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 320,
+        "liquid_cooling_support": true
+    }
+}

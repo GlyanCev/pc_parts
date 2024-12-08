@@ -1,0 +1,22 @@
+{
+    "type": "cooler",
+    "title": "DeepCool AG620 Digital R-AG620-BKNDMN-G-1",
+    "price": 204.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/5/4851272/iabd591191.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/id9c325430.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/i313b6ade1.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/i04b772a04.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/ie28dd3ba8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/i5e0582b8e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/i6cd08c088.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/i75843abad.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/i979bd158b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4851272/icd8995091.png"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 260
+    }
+}

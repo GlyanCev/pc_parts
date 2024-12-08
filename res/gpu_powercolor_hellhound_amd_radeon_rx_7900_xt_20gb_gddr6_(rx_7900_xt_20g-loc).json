@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "PowerColor Hellhound AMD Radeon RX 7900 XT 20GB GDDR6 (RX 7900 XT 20G-L/OC)",
+    "price": 3629.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/d/4980393/i6932ee86a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/d/4980393/ice2ee89cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/d/4980393/i7431d7270.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/d/4980393/i76aefb522.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/d/4980393/ie7a620f80.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/d/4980393/if3e1bd5f8.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 20480,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 338
+    }
+}

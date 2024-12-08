@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "MSI MPG X670E CARBON WIFI",
+    "price": 1830.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/2/4690140/i56e720cca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4690140/i34d02d00f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4690140/i77cb6df3c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4690140/i3586ba183.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/4690140/i5007da282.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6600,
+        "dual_channel": true,
+        "chipset_name": "AMD X670E",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 4,
+        "usb_ports_total": 19,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

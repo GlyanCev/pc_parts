@@ -1,0 +1,34 @@
+{
+    "type": "motherboard",
+    "title": "ASUS ROG Maximus Z790 Dark Hero",
+    "price": 2851.14,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/8/4899965/i0bb2e4723.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/ifae339877.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/i8eb59e96e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/ie82a1ec85.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/iab1113088.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/i142d7956a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/i1dbffb501.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/i8d4d567a8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/i7cb71b1f1.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/ib1a539e4a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/8/4899965/i8f7503e03.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 8000,
+        "dual_channel": false,
+        "chipset_name": "Intel Z790",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 5,
+        "usb_ports_total": 17,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

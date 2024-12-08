@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual GeForce RTX 4060 OC Edition 8GB GDDR6 (DUAL-RTX4060-O8G-WHITE)",
+    "price": 1422.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/f/4816996/ic04d300fc.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/i76866eb07.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/i3e11605c6.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/i411c5485d.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/ic62edba3e.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/ib5d304f58.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/ifcd034e1f.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/i3b6790b43.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/iae1b0ce58.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/id56164975.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4816996/ib6fdf2e3a.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 227.2
+    }
+}

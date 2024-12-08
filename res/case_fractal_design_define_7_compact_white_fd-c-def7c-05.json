@@ -1,0 +1,34 @@
+{
+    "type": "case",
+    "title": "Fractal Design Define 7 Compact White FD-C-DEF7C-05",
+    "price": 850.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/7/4515184/i2f8c92fde.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/ibb7ab45e6.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i47caee5bc.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i30290cc1d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i90e04b43e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i9c0ebaa84.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i035c7a81f.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i365976400.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i709ebae80.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i483603481.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i4a44bcf22.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/id15eec22d.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/ic0aa0f019.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/iaf1e7f34b.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/id50855728.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/i795a1e819.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4515184/ida86fb468.jpeg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь, алюминий",
+        "side_window": false,
+        "max_cpu_cooler_height": 169,
+        "max_gpu_length": 360,
+        "liquid_cooling_support": true
+    }
+}

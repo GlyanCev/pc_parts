@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "DeepCool AG620 Digital WH ARGB R-AG620-WHADMN-G-2",
+    "price": 226.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/9/4891967/i15049c982.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4891967/iddab9aa94.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4891967/ia3e7fd8c9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4891967/i1e211210d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4891967/ie8c755cce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4891967/i73f80e388.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4891967/i5c79e552e.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 260
+    }
+}

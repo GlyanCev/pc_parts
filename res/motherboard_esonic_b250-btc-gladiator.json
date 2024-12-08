@@ -1,0 +1,25 @@
+{
+    "type": "motherboard",
+    "title": "Esonic B250-BTC-Gladiator",
+    "price": 167.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/8/4540020/i36ee27996.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4540020/i584d1245b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4540020/i27d23a278.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4540020/i9f441246d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4540020/i5f7da7836.jpg"
+    ],
+    "data": {
+        "socket": "LGA1151",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 32,
+        "memory_slots": 2,
+        "max_memory_frequency": 2400,
+        "dual_channel": true,
+        "chipset_name": "Intel B250",
+        "sata_slots": 4,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "ATX"
+    }
+}

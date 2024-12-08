@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Kingston ValueRAM KVR26N19S8/16",
+    "price": 132.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/5/4502863/ib17c38c10.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

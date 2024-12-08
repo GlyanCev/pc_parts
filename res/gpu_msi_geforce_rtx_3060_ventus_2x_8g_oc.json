@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 3060 Ventus 2X 8G OC",
+    "price": 1176.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/3/4690281/i70681472e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/3/4690281/i85fde7ef1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/3/4690281/ie8855f020.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/3/4690281/if850e0c86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/3/4690281/i9aee0d5b0.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA106",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 15000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 235
+    }
+}

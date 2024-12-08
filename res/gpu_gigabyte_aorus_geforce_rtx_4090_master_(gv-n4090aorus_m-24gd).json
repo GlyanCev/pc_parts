@@ -1,0 +1,31 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Aorus GeForce RTX 4090 Master (GV-N4090AORUS M-24GD)",
+    "price": 9738.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/d/4704500/ifd7923657.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/iebdf79a68.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/i91e505b37.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/i0d9452cd2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/i7b7571942.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/iae7512a1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/i4c2601fcb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/ib1a1e484c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4704500/i21f866fea.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 358.5
+    }
+}

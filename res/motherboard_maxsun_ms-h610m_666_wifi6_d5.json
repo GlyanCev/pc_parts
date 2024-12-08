@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "Maxsun MS-H610M 666 WiFi6 D5",
+    "price": 343.34,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/3/5009001/ibb0d0071d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5009001/if2ce4238c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5009001/i7eba2fea7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5009001/i7d6680288.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5009001/i2bc73f8bf.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 2,
+        "max_memory_frequency": 5600,
+        "dual_channel": true,
+        "chipset_name": "Intel H610",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 10,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

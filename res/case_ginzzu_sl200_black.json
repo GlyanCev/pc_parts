@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "Ginzzu SL200 Black",
+    "price": 138.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/2/3577691/id246b0850.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/2/3577691/i589619c55.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/2/3577691/i5d35d6bf8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/2/3577691/ifa4d7e46f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/2/3577691/i5221825db.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": false
+    }
+}

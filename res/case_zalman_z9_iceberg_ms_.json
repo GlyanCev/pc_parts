@@ -1,0 +1,33 @@
+{
+    "type": "case",
+    "title": "Zalman Z9 Iceberg MS black",
+    "price": 412.44,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/6/4866611/ib73722928.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/idc276eb2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i3e8fd4261.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i7e55e3c0a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i163e24785.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i88756c557.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i513644738.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/ibc005a189.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i93a980a3d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i54553ac53.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/i648afd6fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/ife846820e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/if3da90723.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4866611/ic62d9a3f4.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 185,
+        "max_gpu_length": 390,
+        "max_psu_length": 270,
+        "liquid_cooling_support": true
+    }
+}

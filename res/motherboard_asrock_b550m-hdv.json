@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B550M-HDV",
+    "price": 294.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/2/4211363/i2447f74af.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4211363/iab207e469.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4211363/i27b548664.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4211363/i99fdd4ace.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4600,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "mATX"
+    }
+}

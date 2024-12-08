@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "Zalman Z3 Plus Black",
+    "price": 263.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p960000/p0/5/958913/ib7de681bc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p0/5/958913/ibef9e9270.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p0/5/958913/if8a798033.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p0/5/958913/i485e6a5dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p0/5/958913/iac8d0d878.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "max_gpu_length": 360,
+        "liquid_cooling_support": true
+    }
+}

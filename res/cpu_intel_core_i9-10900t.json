@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i9-10900T",
+    "price": 1149.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/4576204/i57ac1c0d6.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "release_year": 2020,
+        "core_count": 10,
+        "thread_count": 20,
+        "process_technology": 14,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD 630",
+        "processor_clock": 1900,
+        "l3_cache_size": 20,
+        "tdp": 35,
+        "memory_type": "DDR4"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 3060 VENTUS 2X 12G",
+    "price": 1418.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/9/4527507/i05dae9367.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4527507/i3853591b7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4527507/ic4c1f8ccc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4527507/i4377df8cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4527507/i78581fe45.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 15000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 235
+    }
+}

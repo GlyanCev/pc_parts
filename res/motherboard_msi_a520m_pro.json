@@ -1,0 +1,26 @@
+{
+    "type": "motherboard",
+    "title": "MSI A520M PRO",
+    "price": 211.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/c/4456062/ica8856341.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4456062/ib1025a50e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4456062/i77c40c6a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4456062/i2afc942c5.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4600,
+        "dual_channel": true,
+        "chipset_name": "AMD A520",
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 10,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

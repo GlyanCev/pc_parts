@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Formula CL-3303B RGB",
+    "price": 220.04,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/8/4515125/ic7104b776.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/8/4515125/id62b80dbf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/8/4515125/id220c28bd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/8/4515125/i075620f09.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 310,
+        "liquid_cooling_support": false
+    }
+}

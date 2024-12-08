@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ASRock Intel Arc A750 Challenger SE 8GB OC (A750 CL SE 8GO)",
+    "price": 1054.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/a/4991452/i59ee57ac6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/a/4991452/ibdcdc1fa3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/a/4991452/iac9e447eb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/a/4991452/i44b35bd83.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/a/4991452/i96d0f9604.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/a/4991452/ia18b0ffac.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "Intel",
+        "video_processor": "DG2-512",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 16000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 650,
+        "width": 267
+    }
+}

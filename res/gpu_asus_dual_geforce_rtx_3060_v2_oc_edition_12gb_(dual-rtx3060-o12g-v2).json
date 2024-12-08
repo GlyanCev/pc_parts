@@ -1,0 +1,35 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual GeForce RTX 3060 V2 OC Edition 12GB (DUAL-RTX3060-O12G-V2)",
+    "price": 1217.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/3/4512292/i3f3d5b9c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/ibecd4c038.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/iaa93a4b3d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i2056b7cf8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i6933deb0a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i7d4e1fafe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i668939b91.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/ia909878ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i127c2fd9e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i6731ca124.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i39eee4f42.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/ib9a1115c1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i305e8de76.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/ib20c0a735.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4512292/i92bd506fc.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 15000,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 200
+    }
+}

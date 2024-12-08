@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRO A620M-C-CSM",
+    "price": 471.52,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/5/4852858/i97ca529b4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4852858/i6c130347a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4852858/ida4c2975b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4852858/i1c134543d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4852858/ib44810c2a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4852858/i0370c5e5b.png"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 96,
+        "memory_slots": 2,
+        "max_memory_frequency": 8000,
+        "dual_channel": true,
+        "chipset_name": "AMD A620",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 9,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

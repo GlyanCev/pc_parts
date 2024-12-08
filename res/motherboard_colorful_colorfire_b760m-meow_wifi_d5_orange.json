@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "Colorful Colorfire B760M-Meow WiFi D5 Orange",
+    "price": 729.26,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/6/5023399/i0e5ea24e7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/5023399/id1f0f0d79.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/5023399/ib5ec77f62.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/5023399/ifa7344b1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/5023399/i61ac55868.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/6/5023399/i95a183b0f.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 7200,
+        "dual_channel": true,
+        "chipset_name": "Intel H510",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 3,
+        "usb_ports_total": 10,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

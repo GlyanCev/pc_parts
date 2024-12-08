@@ -1,0 +1,23 @@
+{
+    "type": "gpu",
+    "title": "NVIDIA Tesla L40S 48GB GDDR6 (900-2G133-0080-000)",
+    "price": 47290.96,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/a/5002147/ie55bc5b37.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/5002147/i6dd8fa7a8.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 49152,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 700
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "1stPlayer Firerose F4 Black",
+    "price": 159.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/b/4241563/idb40188f9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4241563/i1514d6561.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4241563/ia0637d34e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4241563/i7a92a3a06.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4241563/i3f9d445ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4241563/i865d1e7cb.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 300,
+        "liquid_cooling_support": true
+    }
+}

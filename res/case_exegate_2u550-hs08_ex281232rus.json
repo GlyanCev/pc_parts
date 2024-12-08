@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "ExeGate 2U550-HS08 EX281232RUS",
+    "price": 633.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/9/4515320/iaf9097a80.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4515320/i884b81315.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4515320/i0b56a4a78.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4515320/icb3cfa507.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4515320/icc2934be7.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 65,
+        "max_gpu_length": 260,
+        "max_psu_length": 260,
+        "liquid_cooling_support": false
+    }
+}

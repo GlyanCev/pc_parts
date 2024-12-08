@@ -1,0 +1,19 @@
+{
+    "type": "motherboard",
+    "title": "Supermicro H12SSL-NT-B",
+    "price": 4785.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/5/4500922/i6cad266b4.jpg"
+    ],
+    "data": {
+        "socket": "SP3",
+        "memory_type": "DDR4 DIMM",
+        "memory_slots": 8,
+        "max_memory_frequency": 3200,
+        "chipset_name": "встроен в процессор",
+        "m2_slots": 2,
+        "usb_ports_total": 6,
+        "main_power_connector": "24-pin",
+        "form_factor": "ATX"
+    }
+}

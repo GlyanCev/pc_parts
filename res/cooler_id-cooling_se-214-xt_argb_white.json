@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-214-XT ARGB WHITE",
+    "price": 59.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/d/4828304/if9c2b5904.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/d/4828304/ibf94f7131.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/d/4828304/if2fbf706d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/d/4828304/ie76eb997a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/d/4828304/i89df5e5d9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/d/4828304/i3b8215216.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/d/4828304/i177754d20.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 180
+    }
+}

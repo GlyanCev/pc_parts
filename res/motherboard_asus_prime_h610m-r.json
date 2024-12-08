@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME H610M-R",
+    "price": 294.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/c/4852856/i2250e1b45.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4852856/i222b5e160.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4852856/i4bf74195f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4852856/iaba56997a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4852856/ife1fcd42a.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 96,
+        "memory_slots": 2,
+        "max_memory_frequency": 5600,
+        "dual_channel": true,
+        "chipset_name": "Intel H610",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 7,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "mATX"
+    }
+}

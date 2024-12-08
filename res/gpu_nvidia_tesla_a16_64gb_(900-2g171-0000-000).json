@@ -1,0 +1,19 @@
+{
+    "type": "gpu",
+    "title": "NVIDIA Tesla A16 64GB (900-2G171-0000-000)",
+    "price": 17106.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/9/4683825/i2d8dd5b82.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA107",
+        "memory_type": "GDDR6",
+        "memory_size": 65536,
+        "memory_frequency": 6250,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "width": 267
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "ACD Fort 279M AH-TC600-000",
+    "price": 347.44,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4896120/i75cbc0d28.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4896120/ic664152cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4896120/if73283d1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4896120/i4f8c8b51c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4896120/ia0f618254.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 181,
+        "max_gpu_length": 395,
+        "liquid_cooling_support": true
+    }
+}

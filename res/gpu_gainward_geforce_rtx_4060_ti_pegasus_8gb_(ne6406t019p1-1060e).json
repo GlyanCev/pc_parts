@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gainward GeForce RTX 4060 Ti Pegasus 8GB (NE6406T019P1-1060E)",
+    "price": 1740.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/5/4946839/i1d03d3b33.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4946839/i55cf692b7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4946839/iacca0f394.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4946839/i6e5a6d12a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4946839/i693a2121f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4946839/i4664e5a23.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4946839/i543af1759.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4946839/i25d0ec1b7.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD106",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 169.9
+    }
+}

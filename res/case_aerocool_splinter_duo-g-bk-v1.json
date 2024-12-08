@@ -1,0 +1,32 @@
+{
+    "type": "case",
+    "title": "AeroCool Splinter Duo-G-BK-V1",
+    "price": 283.08,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/d/4531598/i40ad31fea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/ie7a8bcf60.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i2eae5fb1e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i60f6c2549.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i2ab855dea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i935e7a35f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i1354f33c3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i3cb10180f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i89ec477cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/ie7e371758.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i9979dea96.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/iaa6ee0bc1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/ieb52e7bc7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/d/4531598/i006aea4ad.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 161,
+        "max_gpu_length": 326,
+        "liquid_cooling_support": true
+    }
+}

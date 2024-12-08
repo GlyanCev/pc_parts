@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4090 GameRock 24GB (NED4090019SB-1020G)",
+    "price": 8186.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/c/4683893/ic6443f1ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/c/4683893/ia128c3e56.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/c/4683893/i6e194b9dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/c/4683893/ief0bc81ce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/c/4683893/i9bb0711c0.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "width": 329.4
+    }
+}

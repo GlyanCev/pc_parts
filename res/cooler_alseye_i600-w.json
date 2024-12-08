@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "Alseye i600-W",
+    "price": 265.12,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/2/4910911/i1465cc59e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4910911/i0153facd5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4910911/i1cfab3849.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4910911/ib11ea853b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4910911/ia3592f861.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4910911/i77cf23c3a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4910911/i165f1572e.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1366, AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, LGA 2011, AM5",
+        "liquid_cooling": false,
+        "tdp": 265
+    }
+}

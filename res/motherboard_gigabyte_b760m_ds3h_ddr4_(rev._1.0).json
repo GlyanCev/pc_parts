@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "GIGABYTE B760M DS3H DDR4 (rev. 1.0)",
+    "price": 367.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/e/4699779/id47a69845.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/4699779/i39397a89b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/4699779/id414a5675.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/4699779/ib08b947a3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/4699779/i8c688cf0c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/4699779/i189fdf35c.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 5333,
+        "dual_channel": true,
+        "chipset_name": "Intel B760",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

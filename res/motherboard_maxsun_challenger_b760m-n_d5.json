@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "Maxsun Challenger B760M-N D5",
+    "price": 288.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/c/4809121/if0a94ddb5.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4809121/iec3764985.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4809121/i922aa579b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4809121/i4928cdbff.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4809121/i1fc619a26.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/c/4809121/i16ceabfa3.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 96,
+        "memory_slots": 2,
+        "max_memory_frequency": 6000,
+        "dual_channel": true,
+        "chipset_name": "B760",
+        "uefi_support": true,
+        "m2_slots": 2,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

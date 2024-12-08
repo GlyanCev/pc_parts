@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "GIGABYTE B550I AORUS PRO AX (rev. 1.0)",
+    "price": 643.41,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/0/4242523/i888b5e002.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4242523/i634533054.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4242523/iad1da51f6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4242523/i8be7ecb65.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4866,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 10,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mini-ITX"
+    }
+}

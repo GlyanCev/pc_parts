@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX 7800 XT Phantom Gaming 16GB OC (RX7800XT PG 16GO)",
+    "price": 2478.93,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/6/4887548/i3e34171cd.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4887548/i74feeaf2d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4887548/i8b0316986.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4887548/ice742a7ff.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4887548/i5aca67baf.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 800,
+        "width": 328
+    }
+}

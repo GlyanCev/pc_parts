@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "Thermaltake Core P8 TG CA-1Q2-00M1WN-00",
+    "price": 899.31,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/7/4502933/ib741d7a24.jpeg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 320,
+        "max_psu_length": 200,
+        "liquid_cooling_support": true
+    }
+}

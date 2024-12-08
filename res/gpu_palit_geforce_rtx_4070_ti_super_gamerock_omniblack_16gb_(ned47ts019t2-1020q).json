@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4070 Ti Super GameRock OmniBlack 16GB (NED47TS019T2-1020Q)",
+    "price": 3435.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/9/4980392/i890276877.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4980392/ia8fedb59f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4980392/i892f42bf7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4980392/i125af7356.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4980392/i3917fdf0a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4980392/iccf6c6aaf.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4980392/i157237c2f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/9/4980392/ie9909e486.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 328.9
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "motherboard",
+    "title": "ASRock A620I Lightning WiFi",
+    "price": 719.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/b/4964543/id333808ad.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4964543/i2464a85b7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4964543/icaed69433.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4964543/i920448f51.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4964543/i03e1f06fe.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4964543/ia4edee9f0.png"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 96,
+        "memory_slots": 2,
+        "max_memory_frequency": 7200,
+        "dual_channel": true,
+        "chipset_name": "AMD A620",
+        "uefi_support": true,
+        "sata_slots": 2,
+        "m2_slots": 2,
+        "usb_ports_total": 9,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 4-pin",
+        "form_factor": "mini-ITX"
+    }
+}

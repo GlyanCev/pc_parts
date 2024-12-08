@@ -1,0 +1,35 @@
+{
+    "type": "gpu",
+    "title": "KFA2 GeForce RTX 4090 SG (1-Click OC) 24GB (49NXM5MD6DSK)",
+    "price": 9406.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/0/4699904/i1ea5e2bea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i061d8be66.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i70e1d3920.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/idb4a15f85.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i69b847e3d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/icc800880f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i9d522c410.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i777866da6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i26770e088.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/ib51c04fe5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/id82622c3e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i565b07242.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4699904/i620e7a1c9.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 336
+    }
+}

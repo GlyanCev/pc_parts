@@ -1,0 +1,21 @@
+{
+    "type": "case",
+    "title": "ExeGate Pro 8-430",
+    "price": 356.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/0/4515174/i08d407d83.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4515174/i5b87b379c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4515174/i1f0e61007.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4515174/i9f5ecbbc5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/0/4515174/if333542e6.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_gpu_length": 340,
+        "liquid_cooling_support": false
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4060 Ti Windforce 16G (GV-N406TWF2-16GD)",
+    "price": 2405.58,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/4/4932585/i8538a1f4d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/4/4932585/ia8c45ee72.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/4/4932585/i912c381a8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/4/4932585/i8e2cd7217.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/4/4932585/i5229068bb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/4/4932585/ia2cbebdb2.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 500,
+        "width": 201
+    }
+}

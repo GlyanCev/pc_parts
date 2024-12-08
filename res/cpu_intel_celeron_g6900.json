@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Celeron G6900",
+    "price": 211.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/8/4576225/idbf832569.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2022,
+        "core_count": 2,
+        "thread_count": 2,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 710",
+        "integrated_graphics_freq": 1300,
+        "processor_clock": 3400,
+        "l2_cache_size": 2.5,
+        "l3_cache_size": 4,
+        "tdp": 58,
+        "memory_type": "DDR4, DDR5"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4070 Ti Super Master 16G (GV-N407TSAORUS M-16GD)",
+    "price": 4759.55,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/6/4946843/i32a23806d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/i98c01b5ec.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/i5460b1b01.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/i4fa970582.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/i6ccf9851d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/i1c6a4a002.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/i048b4bc84.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/ib9ce78d38.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4946843/i2bc7051a6.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 342
+    }
+}

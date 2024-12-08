@@ -1,0 +1,21 @@
+{
+    "type": "gpu",
+    "title": "NVIDIA RTX A4000 16GB GDDR6 (900-5G190-2200-000)",
+    "price": 4144.17,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/e/4719200/id883bcddb.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA104",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "6 pin",
+        "recommended_psu": 500,
+        "width": 241
+    }
+}

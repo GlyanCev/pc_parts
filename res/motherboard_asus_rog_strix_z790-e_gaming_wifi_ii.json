@@ -1,0 +1,33 @@
+{
+    "type": "motherboard",
+    "title": "ASUS ROG Strix Z790-E Gaming WiFi II",
+    "price": 2139.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/8/4941679/i7d56468c1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/i7332dea60.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/ic1e0b03cb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/iea12e9506.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/i4e66a78e7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/i187623116.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/ia3ba9c700.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/i328997797.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/i7854defce.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4941679/if67c23e80.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 8000,
+        "dual_channel": false,
+        "chipset_name": "Intel Z790",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 5,
+        "usb_ports_total": 17,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

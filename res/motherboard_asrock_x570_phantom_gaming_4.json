@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock X570 Phantom Gaming 4",
+    "price": 624.81,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/b/3809689/i1c86749df.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/b/3809689/i003cbce53.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/b/3809689/i91e63109d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/b/3809689/if796e4baa.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4066,
+        "dual_channel": true,
+        "chipset_name": "AMD X570",
+        "uefi_support": true,
+        "sata_slots": 8,
+        "m2_slots": 2,
+        "usb_ports_total": 14,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

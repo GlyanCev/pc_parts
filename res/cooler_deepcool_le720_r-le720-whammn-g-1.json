@@ -1,0 +1,19 @@
+{
+    "type": "cooler",
+    "title": "DeepCool LE720 R-LE720-WHAMMN-G-1",
+    "price": 294.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/7/4816667/ie760b9977.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4816667/i291b5c7c9.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4816667/i674a5da5b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4816667/i86df614c5.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4816667/iea7ba4ee1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4816667/ib95b11a2f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4816667/ie03fcf234.png"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": true,
+        "tdp": 250
+    }
+}

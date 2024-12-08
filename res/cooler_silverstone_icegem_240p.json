@@ -1,0 +1,30 @@
+{
+    "type": "cooler",
+    "title": "SilverStone IceGem 240P",
+    "price": 660.68,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/2/4851092/ia568f2b87.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i34eae88b9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i4a63afa2c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i8cbdebe21.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/iee65d09f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/ic63bf96c6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i3fd1b0e1b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/icd76b9806.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i2fceaeee4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i6669a7b1d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i61946bf70.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i50d23d61a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i23a5b97a8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/ifd53edf4d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i4d8cb4fdc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/ib10e70b43.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i792db9c72.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i50ccfbc48.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4851092/i7b75d03e9.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM2, SP3, LGA 1366, FM1, AM4, FM2, LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, AM3, LGA 1151, LGA 1200, sTRX4, TR4, LGA 2011, AM5, TR5, SP6",
+        "liquid_cooling": true
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "gpu",
+    "title": "ASUS ROG Strix GeForce RTX 4090 24GB OC EVA-02 Edition (ROG-STRIX-RTX4090-O24G-EVA-02-EDITION)",
+    "price": 14608.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/2/4852949/if445fb0b5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/i368260dff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/i994883e58.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/ie13eff81d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/id8ea21a8d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/i34865c9b1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/i107f6cd68.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/i6082f26bb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/id10ece4e2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/i4515b29ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/id09c6238e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/2/4852949/i22ca39677.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 1000,
+        "width": 357.6
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "be quiet! Shadow Base 800 FX Black BGW63",
+    "price": 792.75,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/f/4902106/i913289b95.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/id80ace56f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/ifc48d3154.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/ic2c03a39c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/i3411af3b5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/i9091b3b4d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/ib60fde90b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/i4927d5fb2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/id1253ef79.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/i657db3be7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4902106/i39011141e.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 430,
+        "liquid_cooling_support": true
+    }
+}

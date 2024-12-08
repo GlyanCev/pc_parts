@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "DeepCool CH160 R-CH160-BKNGI0-G-1",
+    "price": 193.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/b/4953675/i243ac7358.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4953675/i048de2e21.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4953675/i38106657a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4953675/i712383321.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4953675/i6fa524a90.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4953675/ifd345a7ab.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX",
+        "max_motherboard_size": "mini-ITX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 172,
+        "max_gpu_length": 305,
+        "max_psu_length": 140,
+        "liquid_cooling_support": false
+    }
+}

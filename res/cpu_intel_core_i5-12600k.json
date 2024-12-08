@@ -1,0 +1,24 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i5-12600K",
+    "price": 687.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/3/4555456/i2b18cee07.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/3/4555456/i0b1a90145.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2021,
+        "core_count": 10,
+        "thread_count": 16,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 770",
+        "integrated_graphics_freq": 1450,
+        "processor_clock": 2800,
+        "l2_cache_size": 9.5,
+        "l3_cache_size": 20,
+        "tdp": 150,
+        "memory_type": "DDR4, DDR5"
+    }
+}

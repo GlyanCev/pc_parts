@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Sapphire Nitro+ AMD Radeon RX 7700 XT 12GB (11335-02-20G)",
+    "price": 2096.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/b/4816997/i90fd3b64f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/4816997/i6fccc37f3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/4816997/i8ea12ebda.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/4816997/i155d721c5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/4816997/i1ce53212a.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 700,
+        "width": 320
+    }
+}

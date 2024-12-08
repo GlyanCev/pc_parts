@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "AFOX GeForce RTX 3060 Ti 8GB GDDR6 (AF3060TI-8192D6H4)",
+    "price": 1563.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/1/4725455/i92f0b5313.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4725455/id70a7764b.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4725455/i7d9010170.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4725455/i5d4869fa4.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4725455/id8c0d111b.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA104",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 14000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 247
+    }
+}

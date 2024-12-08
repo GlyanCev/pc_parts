@@ -1,0 +1,24 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 3 2200G Raven Ridge (AM4, L3 4096Kb)",
+    "price": 300.37,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/c/3146399/iee6fa2537.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3146399/i9b378668c.jpeg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2018,
+        "core_count": 4,
+        "thread_count": 4,
+        "process_technology": 14,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "Radeon Vega 8",
+        "integrated_graphics_freq": 1100,
+        "processor_clock": 3500,
+        "l2_cache_size": 2,
+        "l3_cache_size": 4,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

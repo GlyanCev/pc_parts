@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Zalman S3 TG",
+    "price": 191.63,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/d/4515192/i0085950ed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4515192/i81d4a3763.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4515192/i77cc85a7f.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 156,
+        "max_gpu_length": 330,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

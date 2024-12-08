@@ -1,0 +1,26 @@
+{
+    "type": "motherboard",
+    "title": "ASRock H470M-HDV",
+    "price": 269.36,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/c/4434464/icc35f2e3b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4434464/i7335cff51.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4434464/i3ad4d8444.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4434464/i9ae8fe2e6.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 2933,
+        "dual_channel": true,
+        "chipset_name": "Intel H470",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "usb_ports_total": 10,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual Radeon RX 7800 XT OC Edition 16GB GDDR6 (DUAL-RX7800XT-O16G)",
+    "price": 2207.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/4/4894134/icc6ed7a60.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/ie7d2bfcdb.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/ic14c2cb35.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/i0863ae6f2.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/ibee96ffad.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/i2111631e2.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/id8444f71f.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/ie7db79bbc.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/ia9a0ca0ae.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/iec778e83c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/i699e96743.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4894134/i9b51cfa44.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 279.9
+    }
+}

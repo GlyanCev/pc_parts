@@ -1,0 +1,34 @@
+{
+    "type": "case",
+    "title": "Phanteks MagniumGear NEO Air 2 MG-NE523A_DWT06",
+    "price": 346.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/5/4889541/idb00921a2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i93b5b114d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i8c5dedb5d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i233d5054a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/id1967ad27.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i674f0e043.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i3264686df.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i76b569bbd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i63794b29b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/id702e85ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i71e7e9843.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i4bdc48d39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/ib4e319325.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i89839a680.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/5/4889541/i391097259.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 162,
+        "max_gpu_length": 400,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

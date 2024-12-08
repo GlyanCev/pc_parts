@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "KingSpec KS3200D4P13516G",
+    "price": 91.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/8/4816092/i01f5f54ed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/8/4816092/i14e308ccb.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

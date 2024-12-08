@@ -1,0 +1,30 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME H510M-K R2.0",
+    "price": 217.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/0/4719149/ic6ff734b4.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4719149/ideab99dde.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4719149/icc33529af.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4719149/ia09b9f9b6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4719149/i8b00ed9bf.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4719149/if0137957d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4719149/i4d5307870.png"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "dual_channel": true,
+        "chipset_name": "Intel H470",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 9,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

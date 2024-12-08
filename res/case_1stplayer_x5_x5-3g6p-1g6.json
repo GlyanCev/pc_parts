@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "1stPlayer X5 X5-3G6P-1G6",
+    "price": 179.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/5/4514909/i68ce98d0e.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4514909/if0be25696.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4514909/i494879564.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4514909/i8ee45332f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4514909/i844115e67.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4514909/i70d60ba6e.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 320,
+        "liquid_cooling_support": true
+    }
+}

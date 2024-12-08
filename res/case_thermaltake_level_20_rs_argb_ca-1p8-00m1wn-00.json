@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Thermaltake Level 20 RS ARGB CA-1P8-00M1WN-00",
+    "price": 750.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/b/4251471/ic846718be.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4251471/if1ff3a280.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4251471/i3ed799e82.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4251471/ib89ce3215.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4251471/i0aeedca65.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4251471/id6448846d.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 172,
+        "max_gpu_length": 400,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

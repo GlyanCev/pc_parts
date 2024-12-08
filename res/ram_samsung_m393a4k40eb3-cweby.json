@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Samsung M393A4K40EB3-CWEBY",
+    "price": 381.21,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/a/4816717/ib21e79d40.jpeg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

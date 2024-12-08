@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "1stPlayer FD3 white",
+    "price": 179.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/4/4740672/i459d80fc2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4740672/ia4111e28b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4740672/i81a9199db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4740672/i3179bec25.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4740672/i0b6ecf589.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4740672/i8c521bf26.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4740672/i0cc7f08f8.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 290,
+        "liquid_cooling_support": false
+    }
+}

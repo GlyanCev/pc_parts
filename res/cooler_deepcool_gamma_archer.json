@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "Deepcool GAMMA ARCHER",
+    "price": 20.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p710000/p5/e/702762/i0fbf4bca3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p710000/p5/e/702762/i36d58a135.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p710000/p5/e/702762/ieff2872ff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p710000/p5/e/702762/ib3d7ae1a3.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, 939, 940, 754, AM2, AM2+, FM1, AM4, AM3+, LGA 1156, LGA 1150, LGA 1155, AM3, LGA 1151, LGA 1200",
+        "liquid_cooling": false,
+        "tdp": 95
+    }
+}

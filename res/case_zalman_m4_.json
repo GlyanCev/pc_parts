@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "Zalman M4 black",
+    "price": 228.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/8/4896118/i29160aeef.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4896118/i6924c988b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4896118/i27b9bec22.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4896118/i95cada8eb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4896118/i6ba573b17.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4896118/id4a94363c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4896118/i839b3324e.png"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 157,
+        "max_gpu_length": 320,
+        "max_psu_length": 140,
+        "liquid_cooling_support": true
+    }
+}

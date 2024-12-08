@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX 6500 XT Phantom Gaming D 4GB OC (RX6500XT PGD 4GO)",
+    "price": 783.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/2/4664984/ic0a2013a4.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4664984/ia1cbff123.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4664984/i80d9abb59.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4664984/i594bfef13.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4664984/ia493f3e90.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 24",
+        "memory_type": "GDDR6",
+        "memory_size": 4096,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 400,
+        "width": 240
+    }
+}

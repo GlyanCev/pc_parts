@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "MSI MEG Coreliquid S360",
+    "price": 1115.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/e/4845629/iad72ad191.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/e/4845629/i402ae1baa.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/e/4845629/i1785bf3c3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/e/4845629/if9699809a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/e/4845629/i36820136f.png"
+    ],
+    "data": {
+        "supported_sockets": "SP3, AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, sTRX4, TR4, LGA 1700, AM5",
+        "liquid_cooling": true
+    }
+}

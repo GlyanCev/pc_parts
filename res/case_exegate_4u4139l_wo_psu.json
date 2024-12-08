@@ -1,0 +1,16 @@
+{
+    "type": "case",
+    "title": "Exegate 4U4139L w/o PSU",
+    "price": 453.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/b/2602499/if43bf2395.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

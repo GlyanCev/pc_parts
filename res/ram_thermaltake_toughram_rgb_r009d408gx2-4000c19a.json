@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Thermaltake TOUGHRAM RGB R009D408GX2-4000C19A",
+    "price": 290.84,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/8/4182491/iee30588a5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4182491/ia7f8d8e3c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4182491/iabd197f3f.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 4000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

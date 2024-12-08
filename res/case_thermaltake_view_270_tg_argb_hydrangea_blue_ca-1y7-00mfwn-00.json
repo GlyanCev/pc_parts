@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "Thermaltake View 270 TG ARGB Hydrangea Blue CA-1Y7-00MFWN-00",
+    "price": 343.18,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/8/4979738/i3e79665e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4979738/i08f65d681.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4979738/id9fc585ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4979738/i6a7cde1c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4979738/ia80545cae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4979738/i9ca2a44a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4979738/if4218b04e.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "синий",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 420,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

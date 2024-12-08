@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i5-12400F",
+    "price": 350.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/2/4576218/i090960c5f.jpeg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2022,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 10,
+        "integrated_graphics": false,
+        "processor_clock": 2500,
+        "l2_cache_size": 7.5,
+        "l3_cache_size": 18,
+        "tdp": 117,
+        "memory_type": "DDR4, DDR5"
+    }
+}

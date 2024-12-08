@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Zalman R2 White",
+    "price": 190.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/e/4417557/ib08c62578.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4417557/i2f72d67d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4417557/ie9f4433bf.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь,стекло, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 162,
+        "max_gpu_length": 350,
+        "max_psu_length": 190,
+        "liquid_cooling_support": true
+    }
+}

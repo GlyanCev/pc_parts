@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock A520M-HVS",
+    "price": 215.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/1/4414849/i7a4d46fc1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4414849/i1c85b2f8a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4414849/i6e99c6169.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4414849/ice55e427f.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4600,
+        "dual_channel": true,
+        "chipset_name": "AMD A520",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "4-pin",
+        "form_factor": "mATX"
+    }
+}

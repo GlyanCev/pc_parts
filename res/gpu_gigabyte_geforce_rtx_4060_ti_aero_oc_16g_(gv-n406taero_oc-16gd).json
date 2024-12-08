@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4060 Ti Aero OC 16G (GV-N406TAERO OC-16GD)",
+    "price": 2357.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/2/4765108/i429455072.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4765108/id226c66b0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4765108/i332f170ea.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4765108/ib0460b689.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4765108/ie543c775b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4765108/i113ac2c76.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4765108/i90c1878cc.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4765108/i2048f2346.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 500,
+        "width": 281
+    }
+}

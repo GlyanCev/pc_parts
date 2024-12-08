@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4060 Ti Dual OC 8GB GDDR6 (NE6406TT19P1-1060D)",
+    "price": 1546.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/4/4751468/i042db9a21.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/i7d4058f7f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/i2ece66211.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/icebea2b6d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/i56e6b6f04.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/i35ed543fb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/i60eaf7f64.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/i75339517e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/ife2d7265c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4751468/i4d9563fd9.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 249.9
+    }
+}

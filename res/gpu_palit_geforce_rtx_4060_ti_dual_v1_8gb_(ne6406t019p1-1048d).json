@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4060 Ti Dual V1 8GB (NE6406T019P1-1048D)",
+    "price": 1848.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/d/4980391/i93394c33c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4980391/iaf5f37636.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4980391/i702434a53.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4980391/id342f830b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4980391/id052a700f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4980391/icb105c5d6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4980391/ibcf2de4f0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4980391/i22e7af703.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD106",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 269.1
+    }
+}

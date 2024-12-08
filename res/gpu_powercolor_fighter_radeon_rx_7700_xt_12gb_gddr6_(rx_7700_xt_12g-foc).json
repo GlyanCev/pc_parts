@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "PowerColor Fighter Radeon RX 7700 XT 12GB GDDR6 (RX 7700 XT 12G-F/OC)",
+    "price": 2070.87,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/4/4862227/i896229986.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4862227/i85ccf054e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4862227/i4ab3ac615.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4862227/ibafb58408.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4862227/i12fc3707e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/4/4862227/i5553aab5c.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 303
+    }
+}

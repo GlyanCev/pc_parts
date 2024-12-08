@@ -1,0 +1,21 @@
+{
+    "type": "case",
+    "title": "Powerman ES725 Black",
+    "price": 293.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/7/3030565/i8b5a2a452.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/3030565/i893b786e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/3030565/i9eb3b21a5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/3030565/ie8a006682.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/7/3030565/iceead4cd8.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_gpu_length": 350,
+        "liquid_cooling_support": false
+    }
+}

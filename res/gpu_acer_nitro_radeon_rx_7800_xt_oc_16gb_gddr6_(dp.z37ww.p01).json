@@ -1,0 +1,31 @@
+{
+    "type": "gpu",
+    "title": "Acer Nitro Radeon RX 7800 XT OC 16GB GDDR6 (DP.Z37WW.P01)",
+    "price": 2439.64,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/d/4991475/i7f395e767.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/i2e4a2a051.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/if39fd4b18.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/i22fa45fef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/i8c0b33f70.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/ic0e260344.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/iad7016eac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/i27ca06c6e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4991475/ic0c93e571.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 279
+    }
+}

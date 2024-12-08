@@ -1,0 +1,32 @@
+{
+    "type": "motherboard",
+    "title": "ASUS ROG STRIX Z790-A Gaming WiFi",
+    "price": 1731.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/c/4731531/ide453e9e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/id851d95db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/i1341f31e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/ia7e8fa7d5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/i7345b894b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/i4f4dd80ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/i8cd49bb67.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/i8649721db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4731531/iaa33553da.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 7800,
+        "dual_channel": false,
+        "chipset_name": "Intel Z790",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 4,
+        "usb_ports_total": 14,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

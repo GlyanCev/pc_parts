@@ -1,0 +1,22 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i5-10600KF Comet Lake (4100MHz, LGA1200, L3 12288Kb)",
+    "price": 350.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/f/4185963/i0125f79f6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/f/4185963/i49ef50b55.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "release_year": 2020,
+        "core_count": 6,
+        "thread_count": 12,
+        "process_technology": 14,
+        "integrated_graphics": false,
+        "processor_clock": 4100,
+        "l2_cache_size": 1.5,
+        "l3_cache_size": 12,
+        "tdp": 125,
+        "memory_type": "DDR4"
+    }
+}

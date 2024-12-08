@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS DUAL GeForce RTX 4070 OC Edition 12GB GDDR6X (DUAL-RTX4070-O12G-WHITE)",
+    "price": 2738.29,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/7/4751283/i7735c8dda.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i0c927c3a5.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i36887cbc3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i20b2a03fe.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i3184c84c0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/ie6a1724db.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i6e0b4f509.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/ide3c2d07e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/ie586e3416.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i40fa7b05d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/iff1badb72.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i42d463937.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4751283/i078f3b84a.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": false,
+        "recommended_psu": 650,
+        "width": 267.01
+    }
+}

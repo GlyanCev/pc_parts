@@ -1,0 +1,32 @@
+{
+    "type": "motherboard",
+    "title": "ASUS ROG STRIX X670E-E GAMING WI-FI",
+    "price": 2088.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/a/4684047/ieffc57cd2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/if74e9d417.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/i9b09b10d1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/i570735afe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/if41e26d48.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/i4c047cdcb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/id6a22169d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/ie7e1fa45d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/a/4684047/ia9c3d3cbd.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6400,
+        "dual_channel": true,
+        "chipset_name": "AMD X670E",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 4,
+        "usb_ports_total": 17,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

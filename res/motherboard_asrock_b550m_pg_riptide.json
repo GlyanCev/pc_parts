@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B550M PG Riptide",
+    "price": 419.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/a/4852883/i9b2a849d0.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4852883/if4889d0d8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4852883/if8bcad573.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4852883/if7bcedd32.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4852883/i50be230da.png"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4600,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

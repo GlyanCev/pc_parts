@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4080 Super GamingPro 16GB (NED408S019T2-1032A)",
+    "price": 4307.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/1/4887672/ic1db2b9fd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4887672/if6172c0c6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4887672/i8b67bc805.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4887672/i63ce0bb71.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4887672/id005a5f6f.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4887672/ic266e7ac3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4887672/ia71a7f930.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 328.9
+    }
+}

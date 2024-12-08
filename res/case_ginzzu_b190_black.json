@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "Ginzzu B190 Black",
+    "price": 162.31,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/5/3976805/i2c2d69fe7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/3976805/i727eb19fc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/3976805/i16fcab73a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/3976805/i42f5fe4e2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/3976805/ifd6909538.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/5/3976805/i86e9ce0b6.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 140,
+        "max_gpu_length": 250,
+        "liquid_cooling_support": false
+    }
+}

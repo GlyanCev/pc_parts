@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 3060 Dual OC 12 GB (NE63060T19K9-190AD)",
+    "price": 1197.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/2/4435323/i169a87461.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/ibddd5099d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/i3d1e37891.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/i84aa7887d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/i6e4888b20.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/i1835d16ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/ib7f8aae91.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/ia33cfe2fb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4435323/ia0807b68a.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 16000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 245
+    }
+}

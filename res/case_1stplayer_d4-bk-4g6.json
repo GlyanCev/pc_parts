@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "1stPlayer D4-BK-4G6",
+    "price": 178.53,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/b/4515054/i1d7ae2468.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4515054/icfa66b640.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4515054/iab47199fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4515054/i14d42ed7b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4515054/i35313b52f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4515054/iccebb162e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/b/4515054/ib6a3054cb.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 305,
+        "liquid_cooling_support": true
+    }
+}

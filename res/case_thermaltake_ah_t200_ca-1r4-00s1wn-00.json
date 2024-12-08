@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Thermaltake AH T200 CA-1R4-00S1WN-00",
+    "price": 916.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/d/4514918/i6b726d4a5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4514918/ic3cfa6346.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4514918/i93f6f551f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4514918/i808be140f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4514918/i00c4b2d30.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/d/4514918/ia0913bcba.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 150,
+        "max_gpu_length": 320,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

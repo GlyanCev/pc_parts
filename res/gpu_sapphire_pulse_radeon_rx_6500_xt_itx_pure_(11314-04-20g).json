@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Sapphire Pulse Radeon RX 6500 XT ITX Pure (11314-04-20G)",
+    "price": 760.75,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/a/4988900/i2d8d63a55.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/a/4988900/idd0a47e41.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/a/4988900/i129ca3e1e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/a/4988900/i1a560d6db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/a/4988900/ie0af3ebc1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/a/4988900/i2b383b782.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR6",
+        "memory_size": 4096,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "6 pin",
+        "recommended_psu": 400,
+        "width": 152.4
+    }
+}

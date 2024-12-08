@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS ProArt GeForce RTX 4070 Ti SUPER 16GB GDDR6X OC Edition (PROART-RTX4070TIS-O16G)",
+    "price": 4381.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/a/4988888/i8993d9236.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/i8211515f7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/i212a523fa.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/ib860a6353.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/ie8fedb803.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/iab27037ba.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/if128d8743.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/iab0757766.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/ifb3a1965b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/i75aab12e0.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4988888/i72aaa04a2.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 300
+    }
+}

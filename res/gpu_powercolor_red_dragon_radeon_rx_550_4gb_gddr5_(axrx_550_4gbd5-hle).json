@@ -1,0 +1,22 @@
+{
+    "type": "gpu",
+    "title": "PowerColor Red Dragon Radeon RX 550 4GB GDDR5 (AXRX 550 4GBD5-HLE)",
+    "price": 347.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/7/4852943/i0d02d4d6c.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/7/4852943/i560c4e121.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/7/4852943/ia76322731.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR5",
+        "memory_size": 4096,
+        "memory_frequency": 6000,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 152
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "gpu",
+    "title": "AFOX GeForce GT 740 4GB GDDR5 (AF740-4096D5H3-V3)",
+    "price": 319.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4894258/i16ccf605c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4894258/i020635250.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4894258/i8838fc2f8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4894258/i2ed00dd2b.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR5",
+        "memory_size": 4096,
+        "memory_frequency": 5000,
+        "directx_version": 11.2,
+        "additional_power_required": true,
+        "additional_power_connector": "6 pin",
+        "recommended_psu": 400
+    }
+}

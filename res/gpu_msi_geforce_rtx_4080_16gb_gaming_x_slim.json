@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4080 16GB Gaming X Slim",
+    "price": 5754.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/5/4852942/i5d8ff82fd.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4852942/i2bd2b5880.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4852942/i68afca915.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4852942/i30d5ef50b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4852942/i795f7972d.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 322
+    }
+}

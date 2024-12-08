@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "PNY GeForce RTX 4070 12GB Verto Dual Fan (VCG407012DFXPB1)",
+    "price": 2484.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/5/4765135/i3f08d2df4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/if8a7dd5ce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/i82843adc8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/ia42a1698b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/i7db1d22d3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/i2a680e280.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/i763dc243c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/id815a3360.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/i9d26dafcf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4765135/ib110eb937.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 247.41
+    }
+}

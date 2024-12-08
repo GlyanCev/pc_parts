@@ -1,0 +1,20 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING Frozn A410 DK",
+    "price": 110.81,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/9/4959955/i9fca3c727.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/9/4959955/iafc56fe84.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/9/4959955/ic134e7802.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/9/4959955/i21d74be05.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/9/4959955/i764627a5e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/9/4959955/i2505339c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/9/4959955/i50daf40b0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/9/4959955/ia94e1bc0e.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5, LGA 1851",
+        "liquid_cooling": false,
+        "tdp": 230
+    }
+}

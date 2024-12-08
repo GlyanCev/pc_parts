@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4080 16GB Aero (GV-N4080AERO-16GD)",
+    "price": 5618.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/3/4708992/i7612729a7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4708992/ibd6d26691.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4708992/i080a80636.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4708992/ia05eaf810.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4708992/i32e1984bb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4708992/i17e05fb98.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4708992/i91bd37f5d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4708992/i969f913be.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 342
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4070 Ti Gaming OC V2 12G (GV-N407TGAMING OCV2-12GD)",
+    "price": 3483.17,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/d/4792045/i4ac4dfa02.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4792045/i54d6b3fbf.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4792045/i7526209dd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4792045/icda7a9bb8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4792045/icbfea072e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4792045/id95a565f6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4792045/i3d734bf28.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4792045/i38fc4fb16.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 300
+    }
+}

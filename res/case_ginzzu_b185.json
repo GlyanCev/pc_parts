@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Ginzzu B185",
+    "price": 65.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/b/4447205/id62c1eeeb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/i202fd92cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/ibc99db740.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/i85a2509bc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/i09a3c74cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/ibd0c649cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/i217dc13b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/i369114847.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/i8bdccb25f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4447205/i66f55f9ce.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 145,
+        "max_gpu_length": 260,
+        "liquid_cooling_support": false
+    }
+}

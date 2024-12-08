@@ -1,0 +1,31 @@
+{
+    "type": "gpu",
+    "title": "PowerColor Hellhound AMD Radeon RX 7900 XTX 24GB GDDR6 (RX7900XTX 24G-L/OC)",
+    "price": 4747.15,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/2/4932604/ib505d3de1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/ifddc055f5.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/id536931df.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/ifd3264ac3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/i2bdb38e79.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/i1851dc1f4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/i19797897a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/i7129c4723.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4932604/i5d06ecab3.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 24576,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 800,
+        "width": 338
+    }
+}

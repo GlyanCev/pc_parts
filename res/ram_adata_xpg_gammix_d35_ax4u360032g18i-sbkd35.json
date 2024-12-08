@@ -1,0 +1,19 @@
+{
+    "type": "ram",
+    "title": "ADATA XPG GAMMIX D35 AX4U360032G18I-SBKD35",
+    "price": 265.86,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/3/4783116/ib3ec087b5.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4783116/i24c752fae.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4783116/i755ba63c8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/3/4783116/i6ea4879bb.png"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 1,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

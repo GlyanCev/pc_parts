@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "MSI MAG B550M MORTAR MAX WIFI",
+    "price": 607.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/f/4699767/i6f7442070.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4699767/ia353828cf.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4699767/i507a37cf8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4699767/iac1274ffa.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4699767/i515e8b5ba.png"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4400,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 2,
+        "usb_ports_total": 13,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "case",
+    "title": "SilverStone RM51",
+    "price": 1676.56,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/1/4811539/i36ff06cff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i688e560f4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/ifede5a979.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i64e800bf4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i91cddae97.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i9f6684c03.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i5948b48be.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i8d0c32633.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/ie3c30df9a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i3228ca70c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/ieb40266a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i25e99171b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i3405e6ab5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i9b59af803.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4811539/i828ef77ae.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX, SSI CEB,mATX,SSI EEB",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 192,
+        "max_gpu_length": 455,
+        "liquid_cooling_support": true
+    }
+}

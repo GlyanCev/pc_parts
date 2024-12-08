@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B650E Taichi Lite",
+    "price": 1482.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/2/4852845/i6daf87d43.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4852845/i031ce8e42.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4852845/iedf876a1f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4852845/i8373e2085.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4852845/iad3941f30.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/4852845/ie3a95013c.png"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6400,
+        "dual_channel": true,
+        "chipset_name": "AMD B650",
+        "uefi_support": true,
+        "m2_slots": 3,
+        "usb_ports_total": 15,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "EATX"
+    }
+}

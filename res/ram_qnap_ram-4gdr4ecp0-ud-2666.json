@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "QNAP RAM-4GDR4ECP0-UD-2666",
+    "price": 1160.47,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/7/4416375/if9c41b314.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 4,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

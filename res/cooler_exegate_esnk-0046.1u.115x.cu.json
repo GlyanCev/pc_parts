@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "ExeGate ESNK-0046.1U.115x.Cu",
+    "price": 76.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/9/4432186/ieaf2e1ca9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/9/4432186/i6ef001016.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/9/4432186/id47986654.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/9/4432186/i4fe1934c4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/9/4432186/ief0ce978c.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1150, LGA 1155, LGA 1151, LGA 1200",
+        "tdp": 100
+    }
+}

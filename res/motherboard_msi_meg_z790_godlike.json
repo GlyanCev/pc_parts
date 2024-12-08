@@ -1,0 +1,25 @@
+{
+    "type": "motherboard",
+    "title": "MSI MEG Z790 Godlike",
+    "price": 4358.62,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/2/4751215/ia7730435d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4751215/icae337fa4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4751215/ic6cd27319.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4751215/ic7489913c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/2/4751215/i53429db39.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 7800,
+        "dual_channel": true,
+        "chipset_name": "Intel B760",
+        "sata_slots": 4,
+        "m2_slots": 7,
+        "usb_ports_total": 18,
+        "form_factor": "EATX"
+    }
+}

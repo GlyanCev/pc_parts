@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "ASRock Phantom Gaming Radeon 550 2G",
+    "price": 229.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/2/4751491/i8d90b520a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4751491/ib4a17dbbb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4751491/i964500fb8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4751491/iee6d255b6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4751491/i40c4bdffd.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR5",
+        "memory_size": 2048,
+        "memory_frequency": 7000,
+        "ray_tracing": false,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": true,
+        "recommended_psu": 350,
+        "width": 169.58
+    }
+}

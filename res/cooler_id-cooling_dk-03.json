@@ -1,0 +1,17 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING DK-03",
+    "price": 18.04,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/0/2696111/ia34f9246b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/0/2696111/i2c4b40fe1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/0/2696111/ie8baee3f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/0/2696111/i379593811.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/0/2696111/ib8f92d84e.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, FM1, AM3+, FM2, LGA 1156, LGA 1150, LGA 1155, FM2+, AM3, LGA 1151, LGA 1200",
+        "liquid_cooling": false,
+        "tdp": 100
+    }
+}

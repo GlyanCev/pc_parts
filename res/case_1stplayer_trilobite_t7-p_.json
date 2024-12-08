@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "1stPlayer Trilobite T7-P white",
+    "price": 186.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/b/4902115/i884bf2384.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4902115/ie494dfb51.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4902115/i68df89ba9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4902115/i15a5bf061.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4902115/i994599238.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4902115/i9cde86776.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4902115/i716af122b.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 185,
+        "max_gpu_length": 340,
+        "max_psu_length": 160,
+        "liquid_cooling_support": true
+    }
+}

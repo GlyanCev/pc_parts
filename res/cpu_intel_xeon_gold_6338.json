@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "Intel Xeon Gold 6338",
+    "price": 6519.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/c/4539350/i92ad09000.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/c/4539350/ife8fce0dc.jpg"
+    ],
+    "data": {
+        "socket": "LGA4189",
+        "release_year": 2021,
+        "core_count": 32,
+        "thread_count": 64,
+        "process_technology": 10,
+        "integrated_graphics": false,
+        "processor_clock": 2000,
+        "l3_cache_size": 48,
+        "tdp": 205,
+        "memory_type": "DDR4"
+    }
+}

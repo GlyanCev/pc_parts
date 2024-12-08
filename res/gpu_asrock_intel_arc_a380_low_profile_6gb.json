@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "ASRock Intel Arc A380 Low Profile 6GB",
+    "price": 551.15,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/a/4894266/i38edd8438.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4894266/i6e425f002.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4894266/i3fe2f6df6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4894266/ie457fa9c3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/a/4894266/i447bb90f5.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "Intel",
+        "video_processor": "DG2-128",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 15500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": false,
+        "recommended_psu": 450,
+        "width": 169
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 5800X3D",
+    "price": 1480.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/5/4623015/i38a375d7c.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2022,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3400,
+        "l2_cache_size": 4,
+        "l3_cache_size": 96,
+        "tdp": 105,
+        "memory_type": "DDR4"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "Winard 1570 300W Black",
+    "price": 92.24,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/d/3382069/i917f252dd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/3382069/i8fe273f1e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/3382069/i1de733b89.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/3382069/ib800d008b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/3382069/ib75d0ddcc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/3382069/i1b4a68a35.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX, Mini-DTX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 65,
+        "max_gpu_length": 210,
+        "max_psu_length": 100,
+        "liquid_cooling_support": false
+    }
+}

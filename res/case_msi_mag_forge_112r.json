@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "MSI MAG Forge 112R",
+    "price": 290.38,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/f/4635693/ifbbef3627.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4635693/i4f4c1ca0a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4635693/icd058cf50.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4635693/ie7df40de1.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": true
+    }
+}

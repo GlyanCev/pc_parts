@@ -1,0 +1,37 @@
+{
+    "type": "motherboard",
+    "title": "ASUS ROG STRIX X670E-A GAMING WIFI",
+    "price": 1613.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/f/4719152/iaf7fd69d8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i10cc4710f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/iceb8c7f10.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/ib21b626cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/ia66518d64.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/ia6ad8ae3b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i27d34da0b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i0bdc277a2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i9908fde7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/icf29cbd7a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/if0c61aad7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i9faeb720d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i8216f0300.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i0ed0ac5f7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4719152/i1c7e3e1cf.jpg"
+    ],
+    "data": {
+        "socket": "AM5",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 6400,
+        "dual_channel": true,
+        "chipset_name": "AMD X670",
+        "sata_slots": 4,
+        "m2_slots": 4,
+        "usb_ports_total": 16,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "motherboard",
+    "title": "MSI MEG Z790 Ace",
+    "price": 2732.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/3/4751211/ie474727b9.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4751211/if62f32b85.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4751211/i4a33f58d0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4751211/i47e7715f4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/3/4751211/i5d7e50015.png"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR5 DIMM",
+        "max_memory": 192,
+        "memory_slots": 4,
+        "max_memory_frequency": 7800,
+        "dual_channel": true,
+        "chipset_name": "Intel B760",
+        "sata_slots": 4,
+        "m2_slots": 5,
+        "usb_ports_total": 15,
+        "form_factor": "EATX"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "gpu",
+    "title": "NVIDIA RTX A6000 48GB (900-5G133-2200-000)",
+    "price": 22666.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/a/4683808/i28ca8cc5b.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA102",
+        "memory_type": "GDDR6",
+        "memory_size": 49152,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 700,
+        "width": 266.7
+    }
+}

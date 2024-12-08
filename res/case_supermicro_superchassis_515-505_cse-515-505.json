@@ -1,0 +1,15 @@
+{
+    "type": "case",
+    "title": "Supermicro SuperChassis 515-505 CSE-515-505",
+    "price": 1730.36,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/6/4948269/ib57ed1a45.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/6/4948269/i9216ad732.jpg"
+    ],
+    "data": {
+        "case_color": "серебристый",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

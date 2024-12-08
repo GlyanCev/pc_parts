@@ -1,0 +1,23 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i5-14500",
+    "price": 874.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/4/4890795/i1ae2ae976.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2024,
+        "core_count": 14,
+        "thread_count": 20,
+        "process_technology": 10,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD Graphics 770",
+        "integrated_graphics_freq": 1550,
+        "processor_clock": 2600,
+        "l2_cache_size": 11.5,
+        "l3_cache_size": 24,
+        "tdp": 154,
+        "memory_type": "DDR4, DDR5"
+    }
+}

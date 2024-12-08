@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ZOTAC GeForce GTX 1650 4096MB AMP Core (ZT-T16520J-10L)",
+    "price": 703.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/b/4277133/iabc3782a9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4277133/i323c757ad.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4277133/i88e5ce7e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4277133/ic754652ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4277133/ie64dd6503.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/b/4277133/icb220a1fd.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "TU117-300-A1",
+        "memory_type": "GDDR6",
+        "memory_size": 4096,
+        "memory_frequency": 12000,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "6 pin",
+        "recommended_psu": 350,
+        "width": 162
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "Maxsun GeForce RTX 4060 iCraft OC 8G",
+    "price": 1538.96,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/e/4862242/i6e6d82ea8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/e/4862242/i5a4d3acd4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/e/4862242/i6ca86e8a4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/e/4862242/ibf3a82fda.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/e/4862242/i7dbf9c868.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/e/4862242/icb59338c6.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 317
+    }
+}

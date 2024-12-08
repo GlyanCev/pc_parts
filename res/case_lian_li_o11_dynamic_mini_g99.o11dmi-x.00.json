@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Lian Li O11 Dynamic Mini G99.O11DMI-X.00",
+    "price": 372.46,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/e/4862402/i5a30fae3b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/4862402/i7eef1b33d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/4862402/i8cffdbca7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/4862402/i8019215af.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/4862402/i22767075c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/e/4862402/i729a9cd4c.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь, алюминий",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 395,
+        "max_psu_length": 165,
+        "liquid_cooling_support": true
+    }
+}

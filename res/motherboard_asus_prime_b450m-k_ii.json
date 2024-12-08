@@ -1,0 +1,32 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME B450M-K II",
+    "price": 260.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/b/4434463/ia4a816ac7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/ib5fb74c6a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/i8e7127bad.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/ibc56d8055.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/i2a131f2c4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/id34493b6c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/if02ac79d0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/i492259be8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/b/4434463/i5d5c97448.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 4400,
+        "dual_channel": true,
+        "chipset_name": "AMD B450",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 12,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

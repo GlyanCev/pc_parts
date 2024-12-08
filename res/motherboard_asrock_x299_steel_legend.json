@@ -1,0 +1,26 @@
+{
+    "type": "motherboard",
+    "title": "ASRock X299 STEEL LEGEND",
+    "price": 976.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/6/4150691/ie96eda6d8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4150691/i2612ba149.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4150691/i3ad890dc4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4150691/i05bd0fc78.jpg"
+    ],
+    "data": {
+        "socket": "LGA2066",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 256,
+        "memory_slots": 8,
+        "max_memory_frequency": 4200,
+        "chipset_name": "Intel X299",
+        "uefi_support": true,
+        "sata_slots": 8,
+        "m2_slots": 3,
+        "usb_ports_total": 15,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin + 8-pin",
+        "form_factor": "ATX"
+    }
+}

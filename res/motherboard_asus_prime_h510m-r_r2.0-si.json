@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME H510M-R R2.0-SI",
+    "price": 241.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/f/4852854/i000a4253d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4852854/ie28cc8dac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4852854/i2960c03b5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4852854/id7969efe2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/f/4852854/i40471a389.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "dual_channel": true,
+        "chipset_name": "Intel H470",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "usb_ports_total": 9,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

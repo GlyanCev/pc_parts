@@ -1,0 +1,17 @@
+{
+    "type": "cooler",
+    "title": "ID-COOLING SE-226-XT ARGB Snow",
+    "price": 149.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/4692462/i67387bab9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4692462/i5d58069be.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4692462/i65eb22f02.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4692462/i1b1aff28b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4692462/i1e0d6b537.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, LGA 2011, LGA 2011-3, AM5",
+        "liquid_cooling": false,
+        "tdp": 250
+    }
+}

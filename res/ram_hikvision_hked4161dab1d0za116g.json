@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Hikvision HKED4161DAB1D0ZA1/16G",
+    "price": 111.38,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/e/4447550/i2bb0d3ed8.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

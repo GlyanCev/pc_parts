@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Zalman N2 Black",
+    "price": 197.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/c/3058689/ied4634d0e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3058689/iba6243276.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3058689/ie427c175a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/3058689/ieb3bc8509.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 360,
+        "liquid_cooling_support": true
+    }
+}

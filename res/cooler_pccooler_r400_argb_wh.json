@@ -1,0 +1,14 @@
+{
+    "type": "cooler",
+    "title": "PCCooler R400 ARGB WH",
+    "price": 65.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/a/4877461/i53b6906b0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/a/4877461/i6ee8632bd.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": true,
+        "tdp": 180
+    }
+}

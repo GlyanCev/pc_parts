@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "MSI Pro H610M-G DDR4",
+    "price": 281.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/2/4684107/i764325cdf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4684107/ic1c8020b2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4684107/i0680bdafe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4684107/i9e24cad40.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4684107/i5a4aed966.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 2,
+        "max_memory_frequency": 3200,
+        "dual_channel": false,
+        "chipset_name": "Intel H610",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 1,
+        "usb_ports_total": 8,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

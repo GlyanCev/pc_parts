@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "AMD Ryzen 7 PRO 3700",
+    "price": 796.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/8/4282871/i9536d8c17.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "release_year": 2019,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 7,
+        "integrated_graphics": false,
+        "processor_clock": 3600,
+        "l2_cache_size": 4,
+        "l3_cache_size": 32,
+        "tdp": 65,
+        "memory_type": "DDR4"
+    }
+}

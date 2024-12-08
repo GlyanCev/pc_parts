@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "ASUS GeForce GT 710 2GB GDDR5 EVO (9GT710-SL-2GD5-BRK-EVO)",
+    "price": 215.91,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/3/5020352/i3d2a9e1d7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5020352/i2419b2908.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5020352/i1e228c00b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5020352/ie603860f7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/5020352/id1d19ca79.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR5",
+        "memory_size": 2048,
+        "memory_frequency": 5012,
+        "ray_tracing": false,
+        "opengl_version": 4.5,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 170
+    }
+}

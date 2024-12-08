@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4060 Ti Gaming X Slim 16G",
+    "price": 2401.47,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/f/4791883/icb4bbefd9.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4791883/ia9898024a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4791883/i315a8311e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4791883/i2549d8174.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4791883/i437bc7fae.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4791883/i500acb5ee.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 307
+    }
+}

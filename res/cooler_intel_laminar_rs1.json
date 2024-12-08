@@ -1,0 +1,14 @@
+{
+    "type": "cooler",
+    "title": "Intel Laminar RS1",
+    "price": 41.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/5/4852660/i0323d5c03.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/5/4852660/i152af0895.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1700",
+        "liquid_cooling": false,
+        "tdp": 65
+    }
+}

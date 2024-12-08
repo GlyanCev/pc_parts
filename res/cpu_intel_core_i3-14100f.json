@@ -1,0 +1,21 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i3-14100F",
+    "price": 294.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/3/4889688/i3fa9e1fc5.jpg"
+    ],
+    "data": {
+        "socket": "LGA1700",
+        "release_year": 2024,
+        "core_count": 4,
+        "thread_count": 8,
+        "process_technology": 10,
+        "integrated_graphics": false,
+        "processor_clock": 3500,
+        "l2_cache_size": 5,
+        "l3_cache_size": 12,
+        "tdp": 110,
+        "memory_type": "DDR4, DDR5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "motherboard",
+    "title": "ASRock B550M Phantom Gaming 4",
+    "price": 367.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/c/4414957/ide6f35c87.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4414957/id125aaadf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4414957/i92a58da95.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/c/4414957/i62366f871.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4733,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "uefi_support": true,
+        "sata_slots": 4,
+        "m2_slots": 2,
+        "usb_ports_total": 14,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "mATX"
+    }
+}

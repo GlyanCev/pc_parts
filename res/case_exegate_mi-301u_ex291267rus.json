@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "ExeGate MI-301U EX291267RUS",
+    "price": 72.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/9/4707235/i790c1692b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4707235/i97917b28b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4707235/ic838d439f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/9/4707235/i29d5b8bc9.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 70,
+        "max_gpu_length": 170,
+        "max_psu_length": 170,
+        "liquid_cooling_support": false
+    }
+}

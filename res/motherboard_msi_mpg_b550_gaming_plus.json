@@ -1,0 +1,26 @@
+{
+    "type": "motherboard",
+    "title": "MSI MPG B550 GAMING PLUS",
+    "price": 454.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/4/4281589/i2bca90d6d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/4/4281589/i0ba448937.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/4/4281589/ia2bbe0062.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/4/4281589/ie38f9e267.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 128,
+        "memory_slots": 4,
+        "max_memory_frequency": 4400,
+        "dual_channel": true,
+        "chipset_name": "AMD B550",
+        "sata_slots": 6,
+        "m2_slots": 2,
+        "usb_ports_total": 15,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

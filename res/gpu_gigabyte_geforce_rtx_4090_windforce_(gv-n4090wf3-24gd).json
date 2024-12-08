@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4090 Windforce (GV-N4090WF3-24GD)",
+    "price": 9296.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/c/4699870/i039f89375.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4699870/i7c8e0cf5a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4699870/i786ffd3a6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4699870/ib2616de47.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4699870/ibcf48be84.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4699870/ic04975db7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4699870/ie3dd86403.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 24576,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 331
+    }
+}

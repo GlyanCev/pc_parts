@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "AeroCool CS-1102 Black",
+    "price": 146.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/6/2425583/ifbef5fbae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/2425583/id3adfe946.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/2425583/ie4ae38be1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/2425583/i1e3088913.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/2425583/i233cb8357.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "case_color": "черный",
+        "side_window": false,
+        "max_cpu_cooler_height": 150,
+        "max_gpu_length": 375,
+        "liquid_cooling_support": false
+    }
+}

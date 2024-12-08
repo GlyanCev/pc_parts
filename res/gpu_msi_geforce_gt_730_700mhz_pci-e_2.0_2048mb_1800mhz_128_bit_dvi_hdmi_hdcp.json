@@ -1,0 +1,22 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce GT 730 700Mhz PCI-E 2.0 2048Mb 1800Mhz 128 bit DVI HDMI HDCP",
+    "price": 256.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/1/1384713/ib0aa4285c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/1384713/i9c2b72405.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/1384713/i990dea191.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/1/1384713/i82d7639a4.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR3",
+        "memory_size": 2048,
+        "memory_frequency": 1800,
+        "directx_version": 12,
+        "opengl_version": 4.4,
+        "additional_power_required": false,
+        "width": 152
+    }
+}

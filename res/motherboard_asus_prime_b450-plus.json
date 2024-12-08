@@ -1,0 +1,28 @@
+{
+    "type": "motherboard",
+    "title": "ASUS PRIME B450-PLUS",
+    "price": 239.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/0/3317361/if82d6666b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/3317361/i4cef4745d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/3317361/ibb8b0aaba.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/3317361/i00f2645a2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/3317361/ibc29e89a6.jpg"
+    ],
+    "data": {
+        "socket": "AM4",
+        "memory_type": "DDR4 DIMM",
+        "max_memory": 64,
+        "memory_slots": 4,
+        "max_memory_frequency": 3200,
+        "dual_channel": true,
+        "chipset_name": "AMD B450",
+        "uefi_support": true,
+        "sata_slots": 6,
+        "m2_slots": 1,
+        "usb_ports_total": 13,
+        "main_power_connector": "24-pin",
+        "cpu_power_connector": "8-pin",
+        "form_factor": "ATX"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "be quiet! Pure Base 500DX White",
+    "price": 470.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/f/4169759/iec4bef4c4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/id6dd6b3a5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/ic78500e20.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/i893b4628e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/i9b32ec64f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/i2e59ff856.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/i5ade94206.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/i9fbced006.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/f/4169759/i74656c77f.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "max_cpu_cooler_height": 190,
+        "liquid_cooling_support": true
+    }
+}

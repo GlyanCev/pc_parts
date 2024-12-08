@@ -1,0 +1,24 @@
+{
+    "type": "cpu",
+    "title": "Intel Core i7-10700K Comet Lake (3800MHz, LGA1200, L3 16384Kb)",
+    "price": 1119.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/4/4185945/ibfb3df02a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4185945/i6df4a00d3.jpg"
+    ],
+    "data": {
+        "socket": "LGA1200",
+        "release_year": 2020,
+        "core_count": 8,
+        "thread_count": 16,
+        "process_technology": 14,
+        "integrated_graphics": true,
+        "integrated_graphics_name": "UHD 630",
+        "integrated_graphics_freq": 1200,
+        "processor_clock": 3800,
+        "l2_cache_size": 2,
+        "l3_cache_size": 16,
+        "tdp": 125,
+        "memory_type": "DDR4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 2060 SUPER DUAL 8GB (NE6206S018P2-1160A-1)",
+    "price": 892.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/9/4500129/ida5f98c3b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4500129/i749b4c500.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4500129/i55eb3753f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4500129/i9f7bca41c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4500129/i2f83810fc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/9/4500129/if5e64001a.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 14000,
+        "ray_tracing": true,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 235
+    }
+}

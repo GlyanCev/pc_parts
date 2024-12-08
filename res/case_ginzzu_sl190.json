@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Ginzzu SL190",
+    "price": 107.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/0/4639134/i02087247b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4639134/ic058c2b40.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4639134/i207472257.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4639134/i9d1ea5275.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4639134/i438799b69.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4639134/i2f8e3643a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4639134/ic7559a118.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 310,
+        "liquid_cooling_support": false
+    }
+}
