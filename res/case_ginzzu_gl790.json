@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "Ginzzu GL790",
+    "price": 349.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/d/4909410/i77ec05697.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/ia90b710d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/ia9bfcd6c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/iae2ed5233.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/idfbebaade.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/ifc10afea5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/if0e6f61bb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/i9f23dabc4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/ic1cb4e0f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4909410/i38ea0cd73.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 190,
+        "max_gpu_length": 400,
+        "liquid_cooling_support": true
+    }
+}

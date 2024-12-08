@@ -1,0 +1,32 @@
+{
+    "type": "case",
+    "title": "Deepcool Macube 110 Black",
+    "price": 186.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/a/4417525/i84f1f246f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/if36abf09c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i2410b622d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i732fb8de1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i17e3c08ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/iaf9b46cf8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i37fd221c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/ibba608ef0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/idd1174c33.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i77f78bb4b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i88f2dd4db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i4a56a2b78.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/a/4417525/i7108b6f61.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 320,
+        "max_psu_length": 160,
+        "liquid_cooling_support": true
+    }
+}

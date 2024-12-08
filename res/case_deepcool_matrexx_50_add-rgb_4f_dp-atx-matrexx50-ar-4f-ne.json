@@ -1,0 +1,31 @@
+{
+    "type": "case",
+    "title": "DeepCool Matrexx 50 ADD-RGB 4F DP-ATX-MATREXX50-AR-4F-NE",
+    "price": 260.58,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/a/4242613/i8d1067519.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/i4f18ee588.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/i89863a5b4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/ibd92c1692.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/iaf270f4d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/i4a718d29e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/i313e8879d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/i994c9ffb5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/i4bbb2dd72.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/i2e5be54ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/ib6cd2186b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/a/4242613/ie34c3efb6.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 168,
+        "max_gpu_length": 370,
+        "max_psu_length": 170,
+        "liquid_cooling_support": true
+    }
+}

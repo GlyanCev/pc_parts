@@ -1,0 +1,33 @@
+{
+    "type": "case",
+    "title": "DeepCool CH780 WH R-CH780-WHADE41-G-1",
+    "price": 627.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/4/4889548/i242105037.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i518229a2a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/iea6821753.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i1aad8e906.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/id8577cd30.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i096eaa194.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i80705c6e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i48e26034c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/ibf90c255f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/if1217a4a3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i58aa5e844.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i379f65b04.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/i7fc87064e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4889548/ic5beea593.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "алюминий, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 132,
+        "max_gpu_length": 480,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

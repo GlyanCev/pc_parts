@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "Powercase Mistral Z4 (белый)",
+    "price": 166.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/0/4514916/id52ba9abf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4514916/i57e2c3eae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4514916/i08a1a297c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4514916/i5d65081d3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4514916/i1bd250daa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4514916/ib54d74e3f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4514916/i0dfb865bf.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 310,
+        "max_psu_length": 185,
+        "liquid_cooling_support": false
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "case",
+    "title": "Ginzzu GL180",
+    "price": 152.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/f/4710934/ic5b3d5776.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/i2cf5fcb1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/i578acc581.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/i099b37cfa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/iede0dd0c1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/id0e8158aa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/i295aa08e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/i7f0f0f1dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/ic5b9154a0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/ia90a84eec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/i70540d268.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4710934/ie1b16a616.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": true
+    }
+}

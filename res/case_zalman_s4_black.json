@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Zalman S4 Black",
+    "price": 171.15,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/c/4241381/i907a17bec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/c/4241381/idc4e9468f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/c/4241381/ic7bdf74ca.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 315,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Gigabyte C301 Glass (белый)",
+    "price": 290.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/0/4851890/i5a653bb7d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4851890/i09a0edb8b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4851890/i361e5d64d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4851890/i574f87830.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4851890/ibd59af028.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4851890/i31787d585.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4851890/i4ce75f32d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/0/4851890/i9afcaa360.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 400,
+        "max_psu_length": 180,
+        "liquid_cooling_support": false
+    }
+}

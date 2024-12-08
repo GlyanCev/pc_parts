@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "DeepCool CH780 R-CH780-BKADE41-G-1",
+    "price": 606.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/7/4871394/i0f6f4b3be.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/id474e3c8a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/ic2fc32494.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/i70b272b11.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/i6ed4e77af.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/i18ac85a80.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/i30a3e4888.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/i0e997c84d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4871394/ibcfe5f086.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "алюминий, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 132,
+        "max_gpu_length": 480,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

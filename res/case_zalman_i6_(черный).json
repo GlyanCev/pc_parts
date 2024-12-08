@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Zalman i6 (черный)",
+    "price": 260.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/7/4871389/ia866cb567.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4871389/i701c8ce55.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4871389/i2f45b5b50.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4871389/i986262088.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4871389/ia1d3e3a0f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4871389/id246cd953.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4871389/i0f53df6d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/7/4871389/ibd3cd2a08.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 355,
+        "max_psu_length": 180,
+        "liquid_cooling_support": true
+    }
+}

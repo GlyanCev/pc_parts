@@ -1,0 +1,23 @@
+{
+    "type": "case",
+    "title": "Zalman Z3 Neo",
+    "price": 280.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/0/4433894/i9186f5e4a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4433894/i45ba627a6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4433894/i8bfcd26ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/0/4433894/i19db89e8c.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь,стекло, пластик",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 340,
+        "max_psu_length": 160,
+        "liquid_cooling_support": false
+    }
+}

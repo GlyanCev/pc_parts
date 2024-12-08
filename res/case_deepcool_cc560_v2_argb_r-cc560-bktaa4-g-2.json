@@ -1,0 +1,30 @@
+{
+    "type": "case",
+    "title": "DeepCool CC560 V2 ARGB R-CC560-BKTAA4-G-2",
+    "price": 231.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/e/4889543/if65511cb9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/i80dec12db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/if606720fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/id74da5f87.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/i2bafa7b61.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/i7cc1b3f75.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/ida1228924.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/i266d25c96.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/i186ca91ad.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/i03e58ac93.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4889543/i9647143a0.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 163,
+        "max_gpu_length": 370,
+        "max_psu_length": 170,
+        "liquid_cooling_support": true
+    }
+}

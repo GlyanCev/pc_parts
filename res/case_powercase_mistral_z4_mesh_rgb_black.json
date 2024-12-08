@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "PowerCase Mistral Z4 Mesh RGB Black",
+    "price": 184.92,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/e/4241397/id18baacdd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4241397/idafa516e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4241397/i9a0b9c294.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4241397/i845b7d08a.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 310,
+        "liquid_cooling_support": true
+    }
+}
