@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "Thermaltake TOUGHRAM XG RGB R016D408GX2-3600C18A",
+    "price": 255.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/c/4816946/i4c514badf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4816946/i306203367.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4816946/i518e4a79f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4816946/ia8a4ceb0e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4816946/ic34d0dd48.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/4816946/i7da20b85c.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

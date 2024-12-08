@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory VIPER STEEL PVS464G320C6K",
+    "price": 547.68,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/1/4502867/ia303aec48.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 2,
+        "clock_frequency": 3200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

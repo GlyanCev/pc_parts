@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "Thermaltake TOUGHRAM XG RGB R016D408GX2-4000C19A",
+    "price": 290.84,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/8/4816947/i6b490af1b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4816947/ib38691025.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4816947/i3951a8f0c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4816947/i27e8996ea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4816947/ifd48ec8d2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/8/4816947/i0683e3a20.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 4000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

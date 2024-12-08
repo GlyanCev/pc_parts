@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PSP48G240081H1",
+    "price": 100.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/2/3855573/i55dd8217b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/3855573/ida9bcb277.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/3855573/iab5a65b27.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 2400,
+        "heat_spreader": true,
+        "xmp_support": false
+    }
+}

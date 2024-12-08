@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Apacer AU32GGB26CRBBGH",
+    "price": 213.75,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/a/4500119/i625e3752f.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

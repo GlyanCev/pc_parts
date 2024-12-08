@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Renegade RGB KF436C18RB2AK4/128",
+    "price": 1133.95,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/4938317/i2901c52c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4938317/i55da80f8b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4938317/i0e2893c30.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4938317/i781bd8160.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4938317/i13fac4b9c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4938317/i23a0b2801.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 4,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

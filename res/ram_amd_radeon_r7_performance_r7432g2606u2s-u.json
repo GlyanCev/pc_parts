@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "AMD Radeon R7 Performance R7432G2606U2S-U",
+    "price": 241.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/8/4241105/ifb210e54a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4241105/i4de754a14.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Kingston KSM26RS4/16HDI",
+    "price": 241.71,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/a/4416787/ia6638d2fe.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

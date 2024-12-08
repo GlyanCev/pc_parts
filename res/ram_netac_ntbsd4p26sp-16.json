@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Netac NTBSD4P26SP-16",
+    "price": 83.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/2/4447568/id0f945c04.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory Signature Premium PSP432G26662H1",
+    "price": 268.45,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/7/4182957/i9846ee11e.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": true,
+        "xmp_support": false
+    }
+}

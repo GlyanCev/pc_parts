@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Thermaltake TOUGHRAM RGB R009D408GX2-3600C18B",
+    "price": 231.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/d/4182517/ifcf2ed723.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4182517/if50d44ef9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4182517/ib93212bae.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

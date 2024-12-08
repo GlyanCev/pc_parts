@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "G.SKILL F4-2400C15S-4GNT",
+    "price": 41.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/8/2569793/i2ee1a0ca5.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 4,
+        "module_count": 1,
+        "clock_frequency": 2400,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

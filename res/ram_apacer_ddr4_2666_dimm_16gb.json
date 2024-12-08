@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Apacer DDR4 2666 DIMM 16Gb",
+    "price": 86.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/0/3324197/i20453b6d0.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}
