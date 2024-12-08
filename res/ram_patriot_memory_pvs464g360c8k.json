@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PVS464G360C8K",
+    "price": 572.05,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/5/4182631/i760364daf.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 2,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

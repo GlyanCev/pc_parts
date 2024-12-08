@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Apacer DDR4 2666 DIMM 4Gb",
+    "price": 31.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/5/3324187/if08ee84d9.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 4,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

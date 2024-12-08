@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PVB48G300C6K",
+    "price": 90.76,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/3/4182771/if4be048e4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4182771/i378306853.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4182771/i65e698bf1.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 4,
+        "module_count": 2,
+        "clock_frequency": 3000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PVB464G320C6K",
+    "price": 575.83,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/d/4182625/ib9681f1a1.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 2,
+        "clock_frequency": 3200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

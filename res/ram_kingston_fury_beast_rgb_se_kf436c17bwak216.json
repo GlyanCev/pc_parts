@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast RGB SE KF436C17BWAK2/16",
+    "price": 248.55,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/d/4853083/ic7878f13e.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4853083/i3750c743b.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/d/4853083/i0f852e43c.jpeg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

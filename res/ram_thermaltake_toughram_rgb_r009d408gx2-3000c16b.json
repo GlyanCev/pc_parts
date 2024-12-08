@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Thermaltake TOUGHRAM RGB R009D408GX2-3000C16B",
+    "price": 243.73,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/b/4182499/i912912549.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/b/4182499/i3ed40f3fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/b/4182499/i2108c66e0.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 3000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "AGI UD138 AGI266616UD138",
+    "price": 124.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/1/4790338/ib0fe34286.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4790338/ie1dd1a3c8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/1/4790338/i69693101c.png"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

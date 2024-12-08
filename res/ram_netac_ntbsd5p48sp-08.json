@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Netac NTBSD5P48SP-08",
+    "price": 93.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/b/4816360/if9ef440d9.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

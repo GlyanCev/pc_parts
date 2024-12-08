@@ -1,0 +1,22 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Renegade RGB KF432C16RB2AK2/64",
+    "price": 557.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/b/4861673/ibe0464d1d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4861673/i71a2d59ed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4861673/i2d58603e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4861673/i99419a72a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4861673/i6b6662e4b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4861673/i08950e503.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4861673/i902cb8631.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 2,
+        "clock_frequency": 3200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}
