@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Colorful iGame GeForce RTX 4070 Ti Super Vulcan W OC 16GB-V",
+    "price": 4695.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/b/5002142/i23dc1b2a9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/5002142/i9d95b0aa9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/5002142/i3a6434c07.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/5002142/i0e4cbcbd7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/b/5002142/i3c321481c.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 348.5
+    }
+}

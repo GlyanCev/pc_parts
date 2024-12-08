@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Colorful iGame GeForce RTX 4070 Ti Super Loong Edition OC 16GB-V",
+    "price": 4582.36,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/f/4988893/id14d55713.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4988893/iec18ff279.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4988893/ied8441d86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4988893/idac319238.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4988893/i9f1be5b38.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 336.9
+    }
+}

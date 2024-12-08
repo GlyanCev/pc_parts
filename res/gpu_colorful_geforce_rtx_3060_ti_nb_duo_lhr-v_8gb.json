@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "Colorful GeForce RTX 3060 Ti NB DUO LHR-V 8GB",
+    "price": 1571.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/3/4613495/i2367e0206.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4613495/i1f4d40cdf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4613495/i8add7421b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4613495/i938db2889.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/3/4613495/if25c4bb61.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 14000,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 600,
+        "width": 253.4
+    }
+}

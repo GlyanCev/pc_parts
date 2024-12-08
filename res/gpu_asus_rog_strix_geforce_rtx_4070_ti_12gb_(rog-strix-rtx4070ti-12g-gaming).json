@@ -1,0 +1,34 @@
+{
+    "type": "gpu",
+    "title": "ASUS ROG Strix GeForce RTX 4070 Ti 12GB (ROG-STRIX-RTX4070TI-12G-GAMING)",
+    "price": 4205.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/d/4699812/ia45c59601.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i7e197ee2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i01c696b36.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i64fa769f4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i79556889c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i3cc1e3b6b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i0ec02b6b7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/ib02c421af.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i1402e1b0e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/ic6cea5133.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/ice4fc20cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4699812/i564a9cb52.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 336
+    }
+}
