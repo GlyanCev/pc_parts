@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX­­ 4070 Gaming 12G (GV-N4070GAMING-12GD)",
+    "price": 2674.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/6/4761163/i712d706c5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4761163/ib02f28097.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4761163/i7388ea3bc.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4761163/i63ed8d245.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4761163/ib705c683d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4761163/icfdfb5d1b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4761163/i0d68d63a6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4761163/i7b8c12aee.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 700,
+        "width": 300
+    }
+}
