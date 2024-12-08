@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual GeForce RTX 4060 EVO OC Edition 8GB GDDR6 (DUAL-RTX4060-O8G-EVO-WHITE)",
+    "price": 1464.06,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/2/5029002/i86dfdcc41.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/ia026c1fed.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/i46a83f9fd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/i821639484.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/id5fb3aaa1.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/i407fa7c5d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/i76143f843.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/i3204218df.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/5029002/i78f2a70de.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 227.2
+    }
+}

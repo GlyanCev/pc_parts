@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS ProArt GeForce RTX 4060 Ti OC Edition 16GB GDDR6 (PROART-RTX4060TI-O16G)",
+    "price": 2487.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/8/4791878/i7d1ac4247.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/i0278f7c45.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/i1d5681fa0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/if1ea9823c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/i1f1784551.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/ie568eab3c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/ie63867422.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/ia62c3501f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/ie17ad6287.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/i8df5466f1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/8/4791878/i14a94ad3e.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 300
+    }
+}

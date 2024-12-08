@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual GeForce RTX 4060 Ti V2 OC Edition 8GB GDDR6 (DUAL-RTX4060TI-O8G-V2)",
+    "price": 1871.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/5/4946832/ide568f786.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/ib7beb7ee1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/if61b238b1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/i0e529ce58.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/i3284ae248.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/ib8ba017bc.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/if9d6333ab.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/i5a3772e55.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4946832/ie1e929438.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": false,
+        "recommended_psu": 650,
+        "width": 202
+    }
+}
