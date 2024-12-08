@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "PowerCase Mistral G4C ARGB Black",
+    "price": 186.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4242609/i97bedceff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4242609/i1f1ff11b9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4242609/i0fbcd6a32.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4242609/i2cfdbf3d6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4242609/i405743adb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4242609/id34659508.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4242609/i144634d90.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4242609/i7df144207.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 310,
+        "max_psu_length": 185,
+        "liquid_cooling_support": true
+    }
+}

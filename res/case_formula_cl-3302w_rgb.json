@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Formula CL-3302W RGB",
+    "price": 185.79,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/8/4502681/iee97b8f68.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4502681/i49e99260f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4502681/i73e9db9c0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4502681/ida771312f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4502681/i3e5115ae7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4502681/iac045c955.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/4502681/ib678700f9.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 310,
+        "liquid_cooling_support": false
+    }
+}

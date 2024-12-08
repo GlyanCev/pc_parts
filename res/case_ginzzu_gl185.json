@@ -1,0 +1,27 @@
+{
+    "type": "case",
+    "title": "Ginzzu GL185",
+    "price": 185.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/7/4889545/ia8c09a528.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/ia50c5a7d2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/i51f98cceb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/i9dfca1723.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/i1dd822c82.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/ica3568c6b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/if765b4cdd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/i335dc349d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/7/4889545/i0466cd27a.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 168,
+        "max_gpu_length": 390,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "PowerCase Mistral X4 Mesh LED Black",
+    "price": 155.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/1/4241391/ic69b13ddf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4241391/idfad816a9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4241391/ia9c902399.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4241391/i53719ccfa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4241391/i9be9c6b2a.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 310,
+        "max_psu_length": 185,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "case",
+    "title": "Montech X3 Mesh white",
+    "price": 214.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/c/4901129/ifa1f178de.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/c/4901129/i845080bb5.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/c/4901129/i3ae54ec56.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/c/4901129/ib9930af0c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/c/4901129/ie83b20eed.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/c/4901129/i608362104.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 305,
+        "max_psu_length": 160,
+        "liquid_cooling_support": true
+    }
+}
