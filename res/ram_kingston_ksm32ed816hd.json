@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Kingston KSM32ED8/16HD",
+    "price": 245.63,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/e/4415845/iaf6905edb.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

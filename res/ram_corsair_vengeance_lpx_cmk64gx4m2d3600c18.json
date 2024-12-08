@@ -1,0 +1,19 @@
+{
+    "type": "ram",
+    "title": "Corsair Vengeance LPX CMK64GX4M2D3600C18",
+    "price": 1320.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/f/4815903/i9890f5821.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4815903/iaee9e92de.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4815903/ief4a1a7e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4815903/ic449d1e2b.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 2,
+        "clock_frequency": 3600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

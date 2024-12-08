@@ -1,0 +1,19 @@
+{
+    "type": "ram",
+    "title": "Thermaltake TOUGHRAM Z-ONE RGB R019D408GX2-4400C19A",
+    "price": 340.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/8/4816954/i66a31cbb0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4816954/i434501c21.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4816954/ib2f974d86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4816954/i755e8a949.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 4400,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "Kingston Fury Beast KF432C16BB/16",
+    "price": 121.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/1/4547251/i38daef9ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4547251/i526d42e91.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/4547251/if2cf2cc99.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

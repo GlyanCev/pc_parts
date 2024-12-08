@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Acer BL.9BWWA.228",
+    "price": 124.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/4/4648788/ie5a255577.jpeg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 3200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

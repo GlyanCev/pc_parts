@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "AMD Radeon R7 Performance R744G2606U1S-UO",
+    "price": 31.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/2/4502718/i1ffa31351.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

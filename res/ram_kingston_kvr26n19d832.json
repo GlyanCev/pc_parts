@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Kingston KVR26N19D8/32",
+    "price": 276.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/3/4183247/ia99620835.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

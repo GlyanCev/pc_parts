@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Kingston KVR26N19S6/8",
+    "price": 79.28,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/c/4502587/icda238fd6.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_count": 1,
+        "clock_frequency": 2666,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

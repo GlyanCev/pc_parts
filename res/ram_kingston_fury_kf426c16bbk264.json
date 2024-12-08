@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston Fury KF426C16BBK2/64",
+    "price": 613.05,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/e/4502889/id5e57f7de.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/e/4502889/i407fb897e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/e/4502889/ife4038a95.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 2,
+        "clock_frequency": 2666,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

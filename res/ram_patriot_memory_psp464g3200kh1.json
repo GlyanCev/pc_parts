@@ -1,0 +1,19 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PSP464G3200KH1",
+    "price": 525.89,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/8/4212585/i4f1c7c33a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4212585/ia3c996e8a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4212585/i6a08a7abc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4212585/i56ca15737.jpg"
+    ],
+    "data": {
+        "type": "DDR4",
+        "module_capacity": 32,
+        "module_count": 2,
+        "clock_frequency": 3200,
+        "heat_spreader": true,
+        "xmp_support": false
+    }
+}
