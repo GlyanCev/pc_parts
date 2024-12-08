@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Sapphire Nitro+ AMD Radeon RX 7800 XT 16GB (11330-01-20G)",
+    "price": 2747.52,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/f/4817002/i5fe7e567b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4817002/i41d20ca64.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4817002/i1a9c701ee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4817002/if64245186.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4817002/i9e0320cba.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 700,
+        "width": 320
+    }
+}

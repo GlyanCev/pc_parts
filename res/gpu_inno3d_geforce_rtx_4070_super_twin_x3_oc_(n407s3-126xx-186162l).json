@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "Inno3D GeForce RTX 4070 Super Twin X3 OC (N407S3-126XX-186162L)",
+    "price": 2840.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/2/4980386/i89e277f3a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4980386/ibf31a9e81.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/2/4980386/idb2ce7796.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 700,
+        "width": 297
+    }
+}

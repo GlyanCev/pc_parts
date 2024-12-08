@@ -1,0 +1,22 @@
+{
+    "type": "gpu",
+    "title": "PNY Quadro P1000 4096Mb (VCQP1000V2-PB)",
+    "price": 1701.42,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/3/4277237/iac6c419ba.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/3/4277237/i586f14ad6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/3/4277237/i6c4367603.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/3/4277237/ib2020d8bb.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GP107GL",
+        "memory_type": "GDDR5",
+        "memory_size": 4096,
+        "directx_version": 12,
+        "opengl_version": 4.5,
+        "additional_power_required": false,
+        "width": 150
+    }
+}

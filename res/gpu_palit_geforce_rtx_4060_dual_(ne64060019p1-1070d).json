@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4060 Dual (NE64060019P1-1070D)",
+    "price": 1197.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/e/4751462/if7154a5d6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/i323815aca.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/id52cbec32.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/icfe9254e7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/i56a0a948c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/i4f127047f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/idd26b6a24.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/i23d9d7346.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/iad139e239.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/4751462/i824927123.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 600,
+        "width": 249.9
+    }
+}

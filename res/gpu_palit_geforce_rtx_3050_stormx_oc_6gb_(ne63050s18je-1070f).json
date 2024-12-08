@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 3050 StormX OC 6GB (NE63050S18JE-1070F)",
+    "price": 725.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/c/4894224/i7db6bbf34.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4894224/i4c50c24d7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4894224/i52fce0e9d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4894224/i09ac74ee2.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4894224/icf83e7b69.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA107",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 14000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 162
+    }
+}

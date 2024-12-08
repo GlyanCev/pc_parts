@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4060 Ti JetStream 16GB (NE6406T019T1-1061J)",
+    "price": 1965.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/2/4808590/i02db14892.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4808590/ia819988ba.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4808590/i5c3746e6a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4808590/i17e6c5c51.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4808590/i238d8835e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4808590/ifaaf3835b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4808590/ic5a93a09d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/2/4808590/ib9ad5eb03.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.5,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 249.9
+    }
+}

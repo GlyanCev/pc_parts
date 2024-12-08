@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 3060 StormX 8GB (NE63060019P1-190AF)",
+    "price": 1098.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/4683891/iba9b817c3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4683891/i488feab6f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4683891/i4fb3c1af1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4683891/i4acc5aebc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4683891/i2ff3b1830.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4683891/i7d48b9cb0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4683891/i785dd6f05.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA104",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 15000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 170
+    }
+}

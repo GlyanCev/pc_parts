@@ -1,0 +1,21 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce GT 730 2048Mb 64bit (NEAT7300HD46-2080F)",
+    "price": 187.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/e/1384723/i703348bcc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/e/1384723/i2c09da4d6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/e/1384723/i6a5c45eca.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x, PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR3",
+        "memory_size": 2048,
+        "memory_frequency": 1804,
+        "directx_version": 12,
+        "opengl_version": 4.4,
+        "additional_power_required": false,
+        "width": 115
+    }
+}

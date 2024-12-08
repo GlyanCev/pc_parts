@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "INNO3D GeForce RTX 4070 Ti iChill X3 (C407T3-126XX-186148H)",
+    "price": 3858.61,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/c/4704513/id2adb984e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4704513/iafe98817e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4704513/i10f9a0abd.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 334
+    }
+}

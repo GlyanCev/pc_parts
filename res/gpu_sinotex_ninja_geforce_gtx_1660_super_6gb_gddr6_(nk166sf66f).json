@@ -1,0 +1,24 @@
+{
+    "type": "gpu",
+    "title": "Sinotex Ninja GeForce GTX 1660 Super 6GB GDDR6 (NK166SF66F)",
+    "price": 746.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/1/5020360/i8b815ce86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/1/5020360/i9da12fb95.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/1/5020360/i3315ec729.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/1/5020360/i98d1756a6.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "TU116",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 14000,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 450
+    }
+}

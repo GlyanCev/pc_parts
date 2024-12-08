@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4070 (NED4070019K9-1047L)",
+    "price": 2434.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4957807/iee41c2c79.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4957807/i5f3de0f8d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4957807/i8b5597355.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4957807/i978863136.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4957807/i6730dae08.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4957807/ife23bf819.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 750,
+        "width": 269.1
+    }
+}

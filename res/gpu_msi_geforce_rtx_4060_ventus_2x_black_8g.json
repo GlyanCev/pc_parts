@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4060 Ventus 2X Black 8G",
+    "price": 1366.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/0/4862244/i5e8521160.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/0/4862244/i4732d0bf7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/0/4862244/i86a99276f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/0/4862244/i1b2d3f80b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/0/4862244/ifdeb93cd5.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 199
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Sapphire Pure AMD Radeon RX 7800 XT 16GB (11330-03-20G)",
+    "price": 2269.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/f/4852944/i380761124.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/f/4852944/i392def12c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/f/4852944/i9c9cf5ecf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/f/4852944/ic5c0fe67d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/f/4852944/ia6c2df131.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/f/4852944/ibe02e330a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/f/4852944/i56e21866b.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 700,
+        "width": 320
+    }
+}

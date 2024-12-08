@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4060 Ti StormX 8GB GDDR6 (NE6406T019P1-1060F)",
+    "price": 1438.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4751470/iadd520bb7.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4751470/i1d9e674b5.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4751470/i501364be0.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4751470/ie5304aa02.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4751470/i3e638be59.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4751470/i70a16e762.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4751470/ia37d70d9e.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 169.9
+    }
+}

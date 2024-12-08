@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "PowerColor Hellhound Radeon RX 7700 XT 12GB GDDR6 (RX 7700 XT 12G-L/OC)",
+    "price": 1958.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/4/4887634/ibe167b543.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887634/i38cde0526.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887634/i34fee1fd6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887634/i516a96285.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887634/i247dd95a5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887634/i8699939f4.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887634/ib3c71f802.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887634/i71f6b94c3.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 322
+    }
+}

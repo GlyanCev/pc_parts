@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "GigaByte RX 7700XT (GV-R77XTGAMING OC-12GD)",
+    "price": 1936.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/9/4792046/i56acbd280.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4792046/ifc06e0eba.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4792046/i6d5073a67.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4792046/i712582a3e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4792046/i38b83e8d5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4792046/i789b2a5ee.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4792046/i58b20227c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/9/4792046/i8a00cc735.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 18000,
+        "directx_version": 12,
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 700,
+        "width": 302
+    }
+}
