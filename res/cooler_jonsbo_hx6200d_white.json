@@ -1,0 +1,42 @@
+{
+    "type": "cooler",
+    "title": "Jonsbo HX6200D White",
+    "price": 166.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/9/4828550/ic82e44c08.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i7f5461f58.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/ie222bc9e7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/id9d088928.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i17ca45960.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i7b87867ee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/ibaa934461.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i0d3f5c288.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i58a99e518.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/ie1a8a7b9a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/ia2cfdcfb5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i618135669.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i08ca41c6b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/icfcea5108.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i9b2914472.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i85377998e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i8d8132b44.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i1fac30f3f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i35edda669.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i923c40ccf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/idaaef2955.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/id10d73ea6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i3757db14b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i408d339d3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i240c37c09.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i3b5864833.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i736291641.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i62191cbf8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/i6d3aa6a21.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/ic990cf95e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4828550/icd48c34a0.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false
+    }
+}

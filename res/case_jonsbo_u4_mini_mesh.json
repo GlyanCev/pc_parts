@@ -1,0 +1,42 @@
+{
+    "type": "case",
+    "title": "Jonsbo U4 Mini Mesh",
+    "price": 321.97,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/a/4842461/i25303e082.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i67f754b31.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/ie8a50fb39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/icf0a2845f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i796e1fc32.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/ib08b0a49b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i87636d0f8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/ib4d0fcd5c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i26b580560.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i5ead1040e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i70d3adc3f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i8baafa0e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/if66f56b43.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/ifa701cd88.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/iaa5596f5d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/ia2d9dcb22.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i27d4a646d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i214ee7494.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/if4b53bb71.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i154f890d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i52517b822.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i4d6c6e52b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i758fd7e39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4842461/i5eaffac80.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 420,
+        "max_psu_length": 200,
+        "liquid_cooling_support": false
+    }
+}

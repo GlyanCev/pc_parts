@@ -1,0 +1,12 @@
+{
+    "type": "cooler",
+    "title": "Cooler Master A71C",
+    "price": 48.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/f/4432452/i84d8d37b6.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4",
+        "tdp": 95
+    }
+}

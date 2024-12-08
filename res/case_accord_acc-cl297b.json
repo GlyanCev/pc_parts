@@ -1,0 +1,34 @@
+{
+    "type": "case",
+    "title": "Accord ACC-CL297B",
+    "price": 129.02,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/5/4599746/ife2b3d822.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i706127dda.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i38417287d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i2365ba5a2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/idaf305f22.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/if0cfacdd3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/ia8d1e189c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i0e9c2ca7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/if9e5a7976.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/iad83dd0eb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i5e7a26cf4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i1cea80d2c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/iab24f60d0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i881d4fc1f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i376da47c0.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/ibcd56ace4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/5/4599746/i76209f670.jpeg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 300,
+        "liquid_cooling_support": false
+    }
+}

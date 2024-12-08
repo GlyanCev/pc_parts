@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "ExeGate BAA-103 w/o PSU Black",
+    "price": 62.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/2/3463509/i1e6ceaa4e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/2/3463509/ia55fee3cf.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 130,
+        "max_gpu_length": 210,
+        "max_psu_length": 200,
+        "liquid_cooling_support": false
+    }
+}

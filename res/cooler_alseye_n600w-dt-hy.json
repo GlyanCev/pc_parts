@@ -1,0 +1,15 @@
+{
+    "type": "cooler",
+    "title": "ALSEYE N600W-DT-HY",
+    "price": 157.79,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/9/4891926/i0b206a3fe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4891926/ib316f8a4c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4891926/ib6694514f.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 1366, AM4, AM3+, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, AM3, LGA 1151, LGA 1200, LGA 1700, LGA 2011, AM5",
+        "liquid_cooling": false,
+        "tdp": 250
+    }
+}

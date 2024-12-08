@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "Ginzzu A400",
+    "price": 62.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/8/5011403/iae3b127d4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/if90c2f055.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/id5213725d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/icdad3116c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/i13161907e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/i031761b8d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/i02fe6c22a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/iccd731c3c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/i7ab70e885.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/i894fdd6ae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/5011403/i2f586445e.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 145,
+        "max_gpu_length": 260,
+        "liquid_cooling_support": false
+    }
+}

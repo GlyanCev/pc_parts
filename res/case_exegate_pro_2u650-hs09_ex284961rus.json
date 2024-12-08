@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "ExeGate Pro 2U650-HS09 EX284961RUS",
+    "price": 586.37,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/2/4515398/i078074c70.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4515398/i6105e5f15.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4515398/i02740860a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4515398/i30cffaa12.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4515398/if60d4863c.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "серебристый",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "case",
+    "title": "LinkWorld VC-13M171 Black",
+    "price": 87.11,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/e/4251453/i06b9f70d5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4251453/i73f1cadb5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4251453/idb8ec1d13.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/e/4251453/i98687f4b4.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

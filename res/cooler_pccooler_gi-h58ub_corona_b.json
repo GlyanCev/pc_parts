@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "PCcooler GI-H58UB CORONA B",
+    "price": 145.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/b/3439025/i20e231dfe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/3439025/ia90814082.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/3439025/if88ae7ff0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/b/3439025/i5cae69f45.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, LGA 1366, AM4, AM3+, FM2, LGA 1156, LGA 1150, LGA 2066, LGA 1155, FM2+, AM3, LGA 1151, LGA 1200, LGA 2011, LGA 2011-3",
+        "liquid_cooling": false,
+        "tdp": 240
+    }
+}

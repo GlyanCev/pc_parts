@@ -1,0 +1,19 @@
+{
+    "type": "case",
+    "title": "BVK M06B 450W",
+    "price": 103.19,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/0/4735113/ifb1c56ece.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/0/4735113/if67fd96c4.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 140,
+        "max_gpu_length": 260,
+        "liquid_cooling_support": false
+    }
+}

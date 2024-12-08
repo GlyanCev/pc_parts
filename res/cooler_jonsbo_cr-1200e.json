@@ -25,6 +25,7 @@
     ],
     "data": {
         "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
-        "liquid_cooling": false
+        "liquid_cooling": false,
+	"tdp": 95
     }
 }

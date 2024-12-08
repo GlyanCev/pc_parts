@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "Deepcool Tesseract BF Black",
+    "price": 193.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/3/1391355/i42b8763bb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/3/1391355/i146d606a9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/3/1391355/i22aabe90e.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 169,
+        "max_gpu_length": 310,
+        "liquid_cooling_support": true
+    }
+}

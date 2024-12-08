@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "ACCORD B022 w/o PSU Black",
+    "price": 96.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/c/2771653/i72ed58729.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/2771653/ied90f2b0c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/c/2771653/i7fb832bf1.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 300,
+        "liquid_cooling_support": false
+    }
+}

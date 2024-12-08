@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "GameMax Dark Silent",
+    "price": 155.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/d/4856656/i533c3b8f4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/id4331ce6e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/i2dcd18487.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/i37547067b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/i98ac8e7cf.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/i57610a56e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/i1fa676515.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/iab0d926d4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/ib56fc9706.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/i24fccfc66.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/d/4856656/i4c43e9d5d.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": false,
+        "max_cpu_cooler_height": 160,
+        "max_gpu_length": 360,
+        "liquid_cooling_support": false
+    }
+}

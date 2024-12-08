@@ -1,0 +1,12 @@
+{
+    "type": "cooler",
+    "title": "Supermicro SNK-P0047PS",
+    "price": 142.45,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p700000/pc/c/694439/i5822ef8c0.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 2011",
+        "liquid_cooling": false
+    }
+}

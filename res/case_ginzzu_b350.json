@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "Ginzzu B350",
+    "price": 65.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/7/4716913/i1ceb1ba1d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/i15d89dfce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/i06402a092.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/ie60e514d1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/ief0f18399.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/i3c75ef075.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/i57d0fd203.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/i7f577b8ae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/7/4716913/i383649cc9.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 145,
+        "max_gpu_length": 260,
+        "liquid_cooling_support": false
+    }
+}

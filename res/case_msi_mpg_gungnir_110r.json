@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "MSI MPG GUNGNIR 110R",
+    "price": 408.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/4/4280553/i186367af0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4280553/i5a0b48d8e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4280553/i938e4638f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4280553/if8204cc2d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4280553/ia5ee3b72d.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь,стекло",
+        "side_window": false,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 340,
+        "max_psu_length": 250,
+        "liquid_cooling_support": true
+    }
+}

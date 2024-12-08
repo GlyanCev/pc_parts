@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "HAFF Glory Mini Air ",
+    "price": 217.53,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/4/4853757/i54ff8eccb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i25691c6ea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/ia75c22ace.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i5e38570e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i131edbf29.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i599e1313d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i9af73722c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/ic205961ff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i508064439.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i3f9a2f46f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/i33771eb70.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/4/4853757/ibba6c9f23.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": false,
+        "max_cpu_cooler_height": 166,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": true
+    }
+}

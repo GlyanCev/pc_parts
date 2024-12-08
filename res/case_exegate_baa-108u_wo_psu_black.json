@@ -1,0 +1,21 @@
+{
+    "type": "case",
+    "title": "ExeGate BAA-108U w/o PSU Black",
+    "price": 69.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/1/3974773/i23e9d9ef3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/3974773/ie20b2c178.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/1/3974773/idf14d2643.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 130,
+        "max_gpu_length": 240,
+        "max_psu_length": 200,
+        "liquid_cooling_support": false
+    }
+}

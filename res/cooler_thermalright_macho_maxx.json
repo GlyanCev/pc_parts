@@ -1,0 +1,20 @@
+{
+    "type": "cooler",
+    "title": "Thermalright Macho MAXX",
+    "price": 259.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/4/4830882/i6c45f9440.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/i131263880.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/ib54640be3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/iccadbcd13.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/ice16784f3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/i426ef3850.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/i62fd66f12.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/iee64271de.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/4/4830882/ib7d7814dd.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 2066, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, LGA 2011, LGA 2011-3, AM5",
+        "liquid_cooling": false
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "cooler",
+    "title": "Corsair H5 SF",
+    "price": 125.97,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/2/2466807/i5046c9919.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/2466807/ia5a9cc777.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/2466807/icb8b37b2c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/2466807/i35d42c775.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/2/2466807/i442ec043d.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM2, LGA 1356, FM1, FM2, LGA 1156, LGA 1150, LGA 1155, AM3, LGA 1151, LGA 1200",
+        "liquid_cooling": true
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "Chieftec UC-03B-OP",
+    "price": 146.15,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/6/4695458/i1db0cdeac.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/ic9067d4b6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/if4d40a1a7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/i184dbc07a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/i3e9019c35.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/idf7ad0011.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/ie1126c5e0.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/i16802c31b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/id969676e9.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/ic63cf21d5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/iffb1b8df5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/6/4695458/ie31d1e850.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 120,
+        "max_gpu_length": 250,
+        "liquid_cooling_support": false
+    }
+}

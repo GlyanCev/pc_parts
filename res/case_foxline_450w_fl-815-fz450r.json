@@ -1,0 +1,19 @@
+{
+    "type": "case",
+    "title": "Foxline 450W FL-815-FZ450R",
+    "price": 189.51,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/2/4519856/i405b81462.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4519856/i34213e646.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4519856/ie7619c035.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4519856/i9cfbe965a.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

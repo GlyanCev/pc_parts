@@ -1,0 +1,21 @@
+{
+    "type": "cooler",
+    "title": "PCCooler RZ400 BK",
+    "price": 79.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/0/4877506/ibad749136.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/i2bfa652ac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/ie6fd77499.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/i37e0608a8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/i53494dd88.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/i3f28365b2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/i2e27ce22d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/i1dc4b111b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4877506/i665340f6f.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 230
+    }
+}

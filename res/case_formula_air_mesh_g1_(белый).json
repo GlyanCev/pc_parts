@@ -1,0 +1,22 @@
+{
+    "type": "case",
+    "title": "Formula Air Mesh G1 (белый)",
+    "price": 120.42,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/6/4860956/if776c3be0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4860956/i0455722b4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4860956/i05425a756.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4860956/ia9dfd0506.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/6/4860956/iea7a7133c.png"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 152,
+        "max_gpu_length": 256,
+        "liquid_cooling_support": false
+    }
+}

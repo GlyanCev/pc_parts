@@ -8,6 +8,7 @@
     ],
     "data": {
         "supported_sockets": "LGA 1156, LGA 1155",
-        "liquid_cooling": false
+        "liquid_cooling": false,
+	"tdp": 65
     }
 }

@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "GameMax H606 Silent Hill Black",
+    "price": 114.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/9/3349559/i8d103e999.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/id1599cdc6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/i062f668cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/i780b258f1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/i7c2fef5df.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/ie62888204.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/if58ce2b6a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/iafa7ebd39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/3349559/i2ae0d1da4.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 340,
+        "liquid_cooling_support": false
+    }
+}

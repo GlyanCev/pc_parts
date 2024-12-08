@@ -1,0 +1,21 @@
+{
+    "type": "case",
+    "title": "Zalman Z1 Black",
+    "price": 190.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p990000/p0/f/982859/id9ea0f756.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p990000/p0/f/982859/i80634b055.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p990000/p0/f/982859/if14215121.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p990000/p0/f/982859/ic222be83d.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "пластик",
+        "side_window": false,
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 360,
+        "liquid_cooling_support": true
+    }
+}

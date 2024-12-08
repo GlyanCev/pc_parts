@@ -1,0 +1,27 @@
+{
+    "type": "cooler",
+    "title": "AeroCool Rave 4 ARGB",
+    "price": 79.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/9/4816548/i41b6d502f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/id034b963c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/i880140191.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/idda6976ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/i99f5e340d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/i8de5e70f2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/i4b69b458c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/i1273b3e8a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/ia85cb4712.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/if43ded693.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/ie420abf00.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/ie37a50b2e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/i65062dcd2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/if84701069.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4816548/i95a4a4c2e.jpg"
+    ],
+    "data": {
+        "supported_sockets": "LGA 775, AM2, AM2+, FM1, AM4, AM3+, FM2, LGA 1156, LGA 1150, LGA 1155, LGA 1151-v2, AM3, LGA 1151, LGA 1200, AM5",
+        "liquid_cooling": false,
+        "tdp": 130
+    }
+}

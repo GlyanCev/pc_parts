@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "ExeGate CP-603 500W Black",
+    "price": 152.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/e/3738183/i0ffe07bb3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/e/3738183/i1c3d7d4fa.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 145,
+        "max_gpu_length": 210,
+        "max_psu_length": 190,
+        "liquid_cooling_support": false
+    }
+}

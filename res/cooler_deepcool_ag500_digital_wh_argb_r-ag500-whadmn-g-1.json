@@ -1,0 +1,18 @@
+{
+    "type": "cooler",
+    "title": "DeepCool AG500 Digital WH ARGB R-AG500-WHADMN-G-1",
+    "price": 138.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/3/4891966/i704577040.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4891966/i814c988cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4891966/ic22a0fe19.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4891966/i5df671d1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4891966/icc987a8b1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/4891966/i2ef86d54d.jpg"
+    ],
+    "data": {
+        "supported_sockets": "AM4, LGA 1150, LGA 1155, LGA 1151-v2, LGA 1151, LGA 1200, LGA 1700, AM5",
+        "liquid_cooling": false,
+        "tdp": 240
+    }
+}

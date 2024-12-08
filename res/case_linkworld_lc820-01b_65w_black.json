@@ -1,0 +1,16 @@
+{
+    "type": "case",
+    "title": "LinkWorld LC820-01B 65W Black",
+    "price": 152.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p420000/pe/a/416840/i561f92a85.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX",
+        "max_motherboard_size": "mini-ITX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

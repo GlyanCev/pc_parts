@@ -1,0 +1,21 @@
+{
+    "type": "case",
+    "title": "Zalman Z3 Black",
+    "price": 256.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p960000/p3/0/958915/i472a46eff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p3/0/958915/i8e2c218c7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p3/0/958915/ib744bdeef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p3/0/958915/i1bdc785e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/p960000/p3/0/958915/iff4b41a97.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "пластик",
+        "side_window": false,
+        "max_gpu_length": 360,
+        "liquid_cooling_support": true
+    }
+}
