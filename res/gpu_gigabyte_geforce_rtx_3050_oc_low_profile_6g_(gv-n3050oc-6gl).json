@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 3050 OC Low Profile 6G (GV-N3050OC-6GL)",
+    "price": 812.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/f/4903216/i7bea369a9.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4903216/i9e92b3d30.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4903216/ic26b6b76e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4903216/i5efd39242.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4903216/ica4bee7d7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4903216/i6bd4bc98f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/f/4903216/i671a3f63f.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA107",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 14000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 181
+    }
+}

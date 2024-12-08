@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4060 Ti Gaming OC 8G (GV-N406TGAMING OC-8GD)",
+    "price": 1726.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/4/4751396/i6f7959232.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4751396/i7d66cc3df.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4751396/i439afda45.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4751396/i3bb83bbe1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4751396/i5a338c6f1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4751396/if27e467a3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4751396/i1ea819fa9.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4751396/i60b3ba395.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 500,
+        "width": 281
+    }
+}
