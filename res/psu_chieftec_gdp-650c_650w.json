@@ -1,0 +1,17 @@
+{
+    "type": "psu",
+    "title": "Chieftec GDP-650C 650W",
+    "price": 308.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/e/1528425/ib1305255c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/1528425/ifa26c2bd1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/1528425/i2bede25e6.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 650,
+        "width": 150,
+        "height": 87,
+        "depth": 140
+    }
+}

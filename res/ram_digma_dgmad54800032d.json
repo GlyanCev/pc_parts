@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "Digma DGMAD54800032D",
+    "price": 331.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/6/5011861/i7a7f93624.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/6/5011861/i2ce8b7630.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/6/5011861/i9ee746730.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast KF560C36BBE-8",
+    "price": 169.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/0/4947274/i364a090d1.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/0/4947274/i644051cc7.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/0/4947274/i41b7b377d.jpeg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "ram",
+    "title": "Team Group Group T-Force Delta RGB FF4D532G6000HC38ADC01",
+    "price": 488.16,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/5/4856497/i5eed69dca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4856497/i61acce819.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4856497/i9833d3040.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4856497/ifa2faf336.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4856497/ic1b131371.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4856497/i8c04075a2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4856497/i6004069e2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/5/4856497/i2eef0f8f8.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

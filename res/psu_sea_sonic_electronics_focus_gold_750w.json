@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "Sea Sonic Electronics Focus Gold 750W",
+    "price": 363.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/c/3206823/i24da746e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/c/3206823/i87a9153c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/c/3206823/i67766e1d1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/c/3206823/ia0b9b52a3.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "AeroCool Eco 650W",
+    "price": 136.45,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/f/3204989/i2ac46e644.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/3204989/i994681b51.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 650,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

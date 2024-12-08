@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "DeepCool PX1300P",
+    "price": 1221.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/f/4897899/i88982e228.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/i5765b5c1a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/i97b64dd49.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/i9f61904c4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/i5165e39ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/iba5cb2384.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/ib8ef8981c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/i6bb2e3b8b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/f/4897899/i1c7d50e6e.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1300
+    }
+}

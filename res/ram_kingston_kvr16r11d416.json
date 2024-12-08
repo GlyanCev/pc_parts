@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Kingston KVR16R11D4/16",
+    "price": 557.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p720000/p2/1/718677/i8f5e6ab03.jpg"
+    ],
+    "data": {
+        "type": "DDR3",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 1600,
+        "heat_spreader": false
+    }
+}

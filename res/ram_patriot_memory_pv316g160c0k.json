@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PV316G160C0K",
+    "price": 117.68,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p750000/p4/5/742784/i60ca3544e.jpg"
+    ],
+    "data": {
+        "type": "DDR3",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 1600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

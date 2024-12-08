@@ -1,0 +1,17 @@
+{
+    "type": "psu",
+    "title": "AeroCool Aero Bronze 850M 80+ Bronze 850W",
+    "price": 411.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/4/4435439/ia4aba0a75.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4435439/i258278ca5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4435439/i71f34bf19.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4435439/i4eac329cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4435439/ib2f76f912.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/4/4435439/idbbcdf90a.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 850
+    }
+}

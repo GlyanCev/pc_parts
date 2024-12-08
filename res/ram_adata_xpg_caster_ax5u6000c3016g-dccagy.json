@@ -1,0 +1,22 @@
+{
+    "type": "ram",
+    "title": "ADATA XPG Caster AX5U6000C3016G-DCCAGY",
+    "price": 491.14,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/0/4755043/id08032d7c.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4755043/i2ced98580.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4755043/i84fbf642f.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4755043/i833c0d41b.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4755043/i8eff91a3f.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4755043/i38b6ced41.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/4755043/ieb98a5d21.jpeg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

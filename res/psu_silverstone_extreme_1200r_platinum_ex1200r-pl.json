@@ -1,0 +1,29 @@
+{
+    "type": "psu",
+    "title": "SilverStone Extreme 1200R Platinum EX1200R-PL",
+    "price": 1468.02,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/9/4986741/idc231a4b4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/ia2a88d02a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/i947ddfbc7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/icaad8e026.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/if0cbdb354.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/ibc18428f3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/i0cfe1289f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/i6936a204f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/i05a09ef52.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/if5891a196.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/ia3074dbaf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/icd0c21c9b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/i3345742ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/9/4986741/i4717ea8f7.jpg"
+    ],
+    "data": {
+        "form_factor": "SFX-L",
+        "power": 1200,
+        "width": 125,
+        "height": 63.5,
+        "depth": 130,
+        "weight": "1.39 Í„"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "psu",
+    "title": "ASUS ROG Strix 1000W Gold Aura Edition ROG-STRIX-1000G-AURA-GAMING",
+    "price": 1245.49,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/5/4897885/i5256ae5e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i2b8d8e3a3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i8ca4bd067.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/ifab141a97.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i1b681bb9c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i1df7a159a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i17d90d909.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i8ba3ef0ee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i597e1d3d2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/iec8c81e8d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i921e2353b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4897885/i6de60179a.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1000,
+        "width": 150,
+        "height": 86,
+        "depth": 180,
+        "weight": "3.03 Í„"
+    }
+}

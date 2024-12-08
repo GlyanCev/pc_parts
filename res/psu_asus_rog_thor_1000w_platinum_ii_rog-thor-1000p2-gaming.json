@@ -1,0 +1,27 @@
+{
+    "type": "psu",
+    "title": "ASUS ROG Thor 1000W Platinum II ROG-THOR-1000P2-GAMING",
+    "price": 1374.56,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/9/4709290/i6696c1e10.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/ic83c32b71.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i108afb663.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i87d07eb84.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i1a50af7e2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i850474697.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/if56a050ac.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i1deaf9fe3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i14c47eb5e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i43f9834ee.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/ia4331ae1a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/9/4709290/i6cf261e9d.png"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1000,
+        "width": 150,
+        "height": 86,
+        "depth": 190,
+        "weight": "2.37 Í„"
+    }
+}

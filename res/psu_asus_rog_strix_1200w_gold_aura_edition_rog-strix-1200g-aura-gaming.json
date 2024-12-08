@@ -1,0 +1,27 @@
+{
+    "type": "psu",
+    "title": "ASUS ROG Strix 1200W Gold Aura Edition ROG-STRIX-1200G-AURA-GAMING",
+    "price": 1468.02,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/f/4994764/i3b286e4b2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/i9a7d52841.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/ic4467ea2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/ib2c4ac6dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/i8f23b55ea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/i70cdec52b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/icea533146.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/i144ce948d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/i237abe1e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/if214ead36.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/ie4de594cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/4994764/i8a6266c25.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1200,
+        "width": 150,
+        "height": 86,
+        "depth": 180,
+        "weight": "3.23 Í„"
+    }
+}

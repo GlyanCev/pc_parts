@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Signature Line PSD532G5600K",
+    "price": 328.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/f/4816515/i8c341b10e.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 5600,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

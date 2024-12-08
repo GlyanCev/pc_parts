@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "Powerman PM-500ATX-F",
+    "price": 103.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/3155057/i63d246db9.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "1.22 Í„"
+    }
+}

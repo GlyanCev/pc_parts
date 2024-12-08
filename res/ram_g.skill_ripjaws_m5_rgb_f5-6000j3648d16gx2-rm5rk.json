@@ -1,0 +1,20 @@
+{
+    "type": "ram",
+    "title": "G.SKILL Ripjaws M5 RGB F5-6000J3648D16GX2-RM5RK",
+    "price": 387.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/1/5011853/i0182f4d86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/5011853/ib8538dfce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/5011853/i6ab8699dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/5011853/id10a398ba.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/5011853/i07752cd0d.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

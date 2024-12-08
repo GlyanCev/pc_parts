@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "ACCORD ACC-500W-NP 500W",
+    "price": 103.05,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/8/4283133/icab165bf9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/8/4283133/i4d2935f29.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/8/4283133/id9568f38c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/8/4283133/i0c7cd8273.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

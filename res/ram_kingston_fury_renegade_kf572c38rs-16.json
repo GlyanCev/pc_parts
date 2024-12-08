@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Renegade KF572C38RS-16",
+    "price": 399.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/c/4887882/idf169d800.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4887882/i6129735ed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/c/4887882/i98493d970.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 7200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

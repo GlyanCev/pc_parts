@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "Chieftec Smart GPF-400P",
+    "price": 174.69,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/4/4565482/ib1855baed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4565482/i5fafbe7a6.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 400,
+        "width": 86,
+        "height": 65,
+        "depth": 175
+    }
+}

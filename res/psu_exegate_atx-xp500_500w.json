@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "ExeGate ATX-XP500 500W",
+    "price": 62.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/2/1689047/i96c46f1b8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/1689047/iaed03c187.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

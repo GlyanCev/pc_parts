@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "DeepCool PF500",
+    "price": 134.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/1/4621759/i62769bbc9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/i0a17b8989.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/i74b0bd0e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/ie498e9025.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/i285a75ddb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/ibf3052526.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/i96ec2e80c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/iaf2752081.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/1/4621759/i60cb8ef8e.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "ram",
+    "title": "Silicon Power XPower Zenith RGB SP032GXLWU600FDF",
+    "price": 487.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/f/4964528/ib0fdb5bf6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4964528/i3449ad8df.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4964528/ibf4d1525b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4964528/i043753c0e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/f/4964528/i58e8e2798.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "Chieftec Chieftronic PowerUp GPX-750FC",
+    "price": 443.09,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/c/4515774/i9a8f9c035.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4515774/i9d8de21e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4515774/if9d4f5aaa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4515774/i927045b9e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4515774/i8bd5cbe30.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4515774/ibd64cf20f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4515774/i710088e70.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/c/4515774/i48bd00eed.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "2.3 Í„"
+    }
+}

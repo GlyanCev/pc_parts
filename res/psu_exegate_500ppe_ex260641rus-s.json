@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "ExeGate 500PPE EX260641RUS-S",
+    "price": 116.97,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/2/4515809/i4c22107d4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4515809/i5e9b66652.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4515809/i1095e5e5d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/2/4515809/ibebb32d0b.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "1.7 Í„"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "psu",
+    "title": "Chieftec GPE-600S 600W",
+    "price": 213.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/1/2555831/i78beca80e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/1/2555831/iee1aa78b1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/1/2555831/i6f34bf24a.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 600,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

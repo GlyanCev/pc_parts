@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "ExeGate M500 EX292236RUS",
+    "price": 175.44,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/a/4711087/i077408005.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4711087/i5ab901837.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4711087/i6670fde7b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/4711087/i68a89742c.jpg"
+    ],
+    "data": {
+        "form_factor": "SFX",
+        "power": 500,
+        "width": 125,
+        "height": 64,
+        "depth": 100,
+        "weight": "0.9 Í„"
+    }
+}

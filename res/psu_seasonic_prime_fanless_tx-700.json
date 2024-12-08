@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "Seasonic Prime Fanless TX-700",
+    "price": 1170.79,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/9/4280883/i4d63cf64b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4280883/i355f3f248.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4280883/if2cfb20cc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4280883/i1d8ebb499.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 86,
+        "depth": 170
+    }
+}

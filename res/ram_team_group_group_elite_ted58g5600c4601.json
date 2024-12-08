@@ -1,0 +1,20 @@
+{
+    "type": "ram",
+    "title": "Team Group Group Elite TED58G5600C4601",
+    "price": 100.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/6/4980989/i2d7c0b6eb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4980989/i6eaaffcfe.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4980989/iab229d67a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4980989/icd20e2e7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/6/4980989/ie260a551a.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5600,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

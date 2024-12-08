@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "AeroCool Mirage Gold 850W",
+    "price": 378.78,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/6/4778277/i5c8c8fa03.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4778277/i6b3acc424.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4778277/i53abcb5fd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4778277/i2e97e21f8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4778277/i5feeaec4f.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 850
+    }
+}

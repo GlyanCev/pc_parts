@@ -1,0 +1,15 @@
+{
+    "type": "psu",
+    "title": "Ginzzu PC700 700W",
+    "price": 167.11,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/1/3577277/ie626e9727.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/3577277/i1bc88ab01.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/3577277/i82ac1bfe2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/3577277/i1c4aaf0a1.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700
+    }
+}

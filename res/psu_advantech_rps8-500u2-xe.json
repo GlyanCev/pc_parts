@@ -1,0 +1,15 @@
+{
+    "type": "psu",
+    "title": "Advantech RPS8-500U2-XE",
+    "price": 4533.65,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/0/4416171/i794aca0a8.jpg"
+    ],
+    "data": {
+        "form_factor": "2U",
+        "power": 500,
+        "width": 86.6,
+        "height": 85,
+        "depth": 217
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "Chieftec Atmos CPX-850FC",
+    "price": 439.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/9/4924204/i7e9e3a92f.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/9/4924204/i4e6d63a10.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/9/4924204/i9e2ccb4fd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/9/4924204/if7a1aed53.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/9/4924204/i650ce5c34.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/9/4924204/i78e7906d3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/9/4924204/ice7e1f387.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/9/4924204/i9db00ee9b.png"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 850,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "1.52 Í„"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "psu",
+    "title": "Powercase PW500",
+    "price": 121.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/4/4999973/ic9487dd3b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i48c112a06.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i1e79b4c29.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i8b2770d61.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i1893cd231.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i1a9ec82ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i50851a510.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i772135071.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i4f1a240a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i80016be79.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i8861db1c8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/i0de81023a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4999973/ibf49fe4a1.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "1.63 Í„"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "be quiet! Dark Power 13 1000W BN335",
+    "price": 1642.91,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/0/4726018/i8c8da38bb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4726018/ia018a21d4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4726018/i2d9ae681c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4726018/i35bfc3e02.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4726018/i2dc7e6446.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4726018/i1ab0d339f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4726018/i7a6e431db.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4726018/iedb9f0a07.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1000,
+        "width": 150,
+        "height": 86,
+        "depth": 175,
+        "weight": "2.03 Í„"
+    }
+}

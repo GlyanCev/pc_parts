@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "Corsair Vengeance RGB CMH32GX5M2E6000C36",
+    "price": 489.36,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/6/4994068/ia6b973de6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4994068/i9ff1e5087.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4994068/i7358f8039.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4994068/i1118f089b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4994068/i5e4fe1ad3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/6/4994068/i9682867cb.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

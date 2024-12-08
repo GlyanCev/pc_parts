@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "KingSpec KS4800D5P11008G",
+    "price": 100.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/5/4816115/icd8b59eec.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

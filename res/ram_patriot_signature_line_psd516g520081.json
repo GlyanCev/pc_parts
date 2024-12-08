@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Signature Line PSD516G520081",
+    "price": 176.68,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/8/4816509/i9e51d83b3.jpeg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 5200,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

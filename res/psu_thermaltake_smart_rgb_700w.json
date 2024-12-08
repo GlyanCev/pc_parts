@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "Thermaltake Smart RGB 700W",
+    "price": 307.43,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/2/3020989/ie2c0611d3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3020989/i476273548.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3020989/i975cad3a2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3020989/i7efde9f5d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3020989/iea6b239a4.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

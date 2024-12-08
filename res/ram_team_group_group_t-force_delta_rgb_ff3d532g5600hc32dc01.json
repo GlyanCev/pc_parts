@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "Team Group Group T-Force Delta RGB FF3D532G5600HC32DC01",
+    "price": 495.83,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/1/4816896/i209166c5a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4816896/i442bfb030.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4816896/i8ab74ca0e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4816896/i4f9d828f9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4816896/i4a559f65d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/1/4816896/i8a3ac7987.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 5600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

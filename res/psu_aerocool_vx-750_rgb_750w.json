@@ -1,0 +1,21 @@
+{
+    "type": "psu",
+    "title": "AeroCool VX-750 RGB 750W",
+    "price": 193.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/5/3246705/i212e2af4a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/5/3246705/i49b17a2ed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/5/3246705/ic557694f7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/5/3246705/i4eae46fab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/5/3246705/ife02da10e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/5/3246705/i7aaa52b01.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/5/3246705/i296f9971e.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

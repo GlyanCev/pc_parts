@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "be quiet! System Power 10 450W BN326",
+    "price": 197.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/4/4674587/if07a13b32.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4674587/if11cc2485.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4674587/ic83490e2d.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 450,
+        "width": 140,
+        "height": 86,
+        "depth": 150,
+        "weight": "1.74 Í„"
+    }
+}

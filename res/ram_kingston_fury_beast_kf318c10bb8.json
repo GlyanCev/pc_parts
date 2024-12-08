@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast KF318C10BB/8",
+    "price": 200.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/1/4512358/i02284c5dd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/1/4512358/i30ae39a1d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/1/4512358/if0fa16409.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/1/4512358/ife3381610.jpg"
+    ],
+    "data": {
+        "type": "DDR3",
+        "module_count": 1,
+        "clock_frequency": 1866,
+        "heat_spreader": true,
+        "xmp_support": false
+    }
+}

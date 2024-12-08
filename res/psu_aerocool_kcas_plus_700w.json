@@ -1,0 +1,21 @@
+{
+    "type": "psu",
+    "title": "AeroCool KCAS PLUS 700W",
+    "price": 232.62,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/f/3253127/i4c474edb7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/3253127/i24c970cf9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/3253127/i0b8ac83cf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/3253127/i15486ba7b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/3253127/i0f91b459b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/3253127/i2065de652.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/f/3253127/ief869cb04.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 86,
+        "depth": 149
+    }
+}

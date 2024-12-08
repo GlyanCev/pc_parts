@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "Chieftec BDF-750C 750W",
+    "price": 356.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/3/2986151/i4e0af461a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/3/2986151/if949c997d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/3/2986151/i341f3a865.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 150,
+        "height": 87,
+        "depth": 160,
+        "weight": "2.2 Í„"
+    }
+}

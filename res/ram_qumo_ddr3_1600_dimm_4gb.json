@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Qumo DDR3 1600 DIMM 4Gb",
+    "price": 45.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/p660000/p6/b/653432/ie90cae124.jpg"
+    ],
+    "data": {
+        "type": "DDR3",
+        "module_capacity": 4,
+        "module_count": 1,
+        "clock_frequency": 1600,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

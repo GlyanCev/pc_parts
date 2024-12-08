@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "be quiet! Straight Power 12 1500W BN340",
+    "price": 1691.24,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/c/4779907/ic71534076.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4779907/i5a5731a66.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4779907/i268b361fa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4779907/i762c348f9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4779907/i65caa335a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4779907/id4e1733c6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4779907/i0f57e0e54.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/c/4779907/id0cf12ca4.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1500,
+        "width": 150,
+        "height": 86,
+        "depth": 180,
+        "weight": "2.12 Í„"
+    }
+}

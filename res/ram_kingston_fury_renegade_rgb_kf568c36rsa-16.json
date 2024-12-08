@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Renegade RGB KF568C36RSA-16",
+    "price": 368.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/2/4938302/i329f30133.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/2/4938302/i93089f94a.jpeg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 6800,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

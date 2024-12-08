@@ -1,0 +1,22 @@
+{
+    "type": "psu",
+    "title": "be quiet! Straight Power 12 850W BN337",
+    "price": 1208.03,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/8/4779904/ieba1a73b9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/8/4779904/i6a0d62778.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/8/4779904/i45a863076.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/8/4779904/i05507fd78.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/8/4779904/i529ddef5d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/8/4779904/i8c4449dae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/8/4779904/i9ccc64f96.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 850,
+        "width": 150,
+        "height": 86,
+        "depth": 160,
+        "weight": "1.81 Í„"
+    }
+}

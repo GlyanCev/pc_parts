@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast RGB KF556C40BBA-8",
+    "price": 166.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/c/4861700/i3e6748aea.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

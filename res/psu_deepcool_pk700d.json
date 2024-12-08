@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "DeepCool PK700D",
+    "price": 259.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/6/4641157/i3383b48e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4641157/id8b308447.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4641157/i68efc9f2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4641157/i2faf20ae7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4641157/i2f2703a0a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4641157/ic47d7445a.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

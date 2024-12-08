@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "AMD Radeon R5 R5S532G5200U2S",
+    "price": 493.58,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/e/4894077/i312e1da20.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 32,
+        "module_count": 1,
+        "clock_frequency": 5200,
+        "heat_spreader": true,
+        "xmp_support": false
+    }
+}

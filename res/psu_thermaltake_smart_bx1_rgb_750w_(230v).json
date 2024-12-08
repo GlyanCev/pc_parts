@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "Thermaltake Smart BX1 RGB 750W (230V)",
+    "price": 326.39,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/7/3388513/ic6fec7e98.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/3388513/i7671acecc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/3388513/i685921e97.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/3388513/i9435f3c95.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/3388513/icd0263b92.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/7/3388513/ia98469b76.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

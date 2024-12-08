@@ -1,0 +1,20 @@
+{
+    "type": "ram",
+    "title": "Patriot Viper Venom PVV532G600C30K",
+    "price": 387.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/0/4975991/i227149076.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4975991/i7ae00aad3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4975991/i9e9ba4bfb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4975991/ie81dd90b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4975991/i22e672e3c.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}
