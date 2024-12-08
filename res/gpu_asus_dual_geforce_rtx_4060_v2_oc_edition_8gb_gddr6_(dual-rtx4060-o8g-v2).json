@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual GeForce RTX 4060 V2 OC Edition 8GB GDDR6 (DUAL-RTX4060-O8G-V2)",
+    "price": 1407.16,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/0/4946834/i32e6cbf87.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4946834/id73a36a69.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4946834/i42c3734b7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4946834/ic3cefda71.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4946834/if44c00ae0.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4946834/i806fefaa5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4946834/iebfd0ee7e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4946834/i5c055476d.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD107",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 202.2
+    }
+}

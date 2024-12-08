@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 3060 Windforce OC 12G (GV-N3060WF2OC-12GD)",
+    "price": 1176.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/e/4664863/i95adc48ae.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4664863/i51c7cacd8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4664863/i876d22ca7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4664863/i03f30ecb5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4664863/i10cbb49ae.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4664863/i49706ac88.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4664863/ie8a1cdfd3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4664863/i759a9ceeb.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 15000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 198
+    }
+}

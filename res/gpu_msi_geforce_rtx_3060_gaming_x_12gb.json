@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 3060 GAMING X 12GB",
+    "price": 1384.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/1/4439542/i54a675113.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4439542/ifdddf4c71.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4439542/ic963cd79e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4439542/icebea702c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/1/4439542/i91f05bce9.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 6 pin",
+        "recommended_psu": 550,
+        "width": 276
+    }
+}

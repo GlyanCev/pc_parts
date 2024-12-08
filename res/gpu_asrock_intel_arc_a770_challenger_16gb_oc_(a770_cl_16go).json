@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ASRock Intel Arc A770 Challenger 16GB OC (A770 CL 16GO)",
+    "price": 1283.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/b/4852911/i52b3ba2a7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4852911/idce75c89c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4852911/i996dca96b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4852911/i293d2dfb6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4852911/i9be119287.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4852911/ib53c7387d.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "Intel",
+        "video_processor": "ACM-G10",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 16000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "recommended_psu": 650,
+        "width": 271
+    }
+}

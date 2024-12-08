@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 3060 Gaming OC 8G GV-N3060GAMING OC-8GD (rev. 2.0)",
+    "price": 1166.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/d/4852932/id33a1eef3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4852932/iec709ab6d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4852932/i90026f5ee.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4852932/i9f7047f82.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4852932/i0db69d933.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4852932/i2fefdbd9a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4852932/if5cad6484.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA104",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 15000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 192
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Radeon RX 7600 GAMING OC 8G (GV-R76GAMING OC-8GD)",
+    "price": 1159.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/2/4751416/i02930cfd6.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/2/4751416/i2f0083a9c.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/2/4751416/i6b2d59fbe.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/2/4751416/i31ac01599.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/2/4751416/i5a3d6e67a.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/2/4751416/i902f7a806.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 33",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 282
+    }
+}

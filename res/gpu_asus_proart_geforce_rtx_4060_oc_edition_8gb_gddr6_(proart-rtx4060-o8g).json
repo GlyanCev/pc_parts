@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ASUS ProArt GeForce RTX 4060 OC Edition 8GB GDDR6 (PROART-RTX4060-O8G)",
+    "price": 1512.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/5/4852920/id4d6996f5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4852920/i6ef3231dc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4852920/id9f473159.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4852920/if4210fcff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4852920/ibd5edfcc6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4852920/i85b9133ab.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/4852920/i524fa4ab9.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 17000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 300
+    }
+}

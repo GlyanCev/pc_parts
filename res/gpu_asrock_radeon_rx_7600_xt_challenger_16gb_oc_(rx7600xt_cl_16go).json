@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX 7600 XT Challenger 16GB OC (RX7600XT CL 16GO)",
+    "price": 1415.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/3/4894130/ic7055f8df.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4894130/ie9cbbb331.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4894130/i1ece1a3df.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4894130/ia0e640438.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4894130/ifac6d321d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/3/4894130/i7c11e162e.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 33",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 650,
+        "width": 267
+    }
+}
