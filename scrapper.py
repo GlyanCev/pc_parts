@@ -193,7 +193,7 @@ class ProductScraper:
 
     def save_to_json(self, data):
         os.makedirs('res', exist_ok=True)
-        filename = f'res/{self.product_type}_{self.title.lower().replace(" ", "_").replace("/", "")}.json'
+        filename = f'res/{self.product_type}/{self.product_type}_{self.title.lower().replace(" ", "_").replace("/", "")}.json'
         with open(filename, 'w', encoding='windows-1251') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
         print(f'Данные успешно сохранены в {filename}')
