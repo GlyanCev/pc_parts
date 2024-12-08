@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "GIGABYTE GeForce RTX 3070 Ti GAMING OC 8G (GV-N307TGAMING OC-8GD)",
+    "price": 2997.28,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/4/4500540/i984a17a12.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/i2e563f9f4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/ib52231d04.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/id65ad278b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/i1514a6b1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/i75033fd7f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/i1c49eb0a4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/i654ddf377.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4500540/ia422b1e7d.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6X",
+        "memory_size": 8192,
+        "memory_frequency": 19000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 320
+    }
+}

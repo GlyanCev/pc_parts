@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Colorful iGame GeForce RTX 4080 Super Loong Edition OC 16GB-V",
+    "price": 5446.56,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/e/4988907/ib47dec84e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/4988907/i7b251fc1d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/4988907/i87cf041ce.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/4988907/i93dce6677.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/4988907/ia16f6b74b.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 348.5
+    }
+}

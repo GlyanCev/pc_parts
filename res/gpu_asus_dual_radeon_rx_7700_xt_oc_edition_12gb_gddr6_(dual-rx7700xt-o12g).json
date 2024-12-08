@@ -1,0 +1,34 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual Radeon RX 7700 XT OC Edition 12GB GDDR6 (DUAL-RX7700XT-O12G)",
+    "price": 2098.47,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/8/4894133/i7566e55e3.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/ic932de6ab.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/id3900b0f9.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/i2305fc2de.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/i972851969.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/ib8239414d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/i3e686a1f5.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/i9e045c9ee.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/i4e08ae0cc.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/i3d6014f46.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/ib4f710cbf.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/8/4894133/i267e7e977.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 12288,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 279.9
+    }
+}

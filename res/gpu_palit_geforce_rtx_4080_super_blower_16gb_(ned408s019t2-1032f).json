@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4080 Super Blower 16GB (NED408S019T2-1032F)",
+    "price": 5186.93,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/f/5020368/i65a7c6945.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5020368/i16b3ebb7a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5020368/i2e9806d7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/5020368/i4cc18f3e8.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 23000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 268.6
+    }
+}

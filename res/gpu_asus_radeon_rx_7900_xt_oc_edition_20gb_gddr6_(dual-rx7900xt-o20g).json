@@ -1,0 +1,36 @@
+{
+    "type": "gpu",
+    "title": "ASUS Radeon RX 7900 XT OC Edition 20GB GDDR6 (DUAL-RX7900XT-O20G)",
+    "price": 3595.73,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/1/5020350/i89f5addc7.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/ibbe2309c1.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i22c8a2bbb.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i35b1da470.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i676ed67bd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/ibb39f2dde.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i8d32731aa.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/iac3a9d5dd.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/ic5e5b7780.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i3cafc7f8b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i1832f2b9e.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i523f12a90.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/i5bf1b8629.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/1/5020350/iee0467aa4.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 20480,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 323
+    }
+}

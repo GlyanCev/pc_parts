@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ZOTAC GeForce RTX 4060 Ti 16GB AMP (ZT-D40620F-10M)",
+    "price": 2240.75,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/2/4980395/ic1d060e21.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/4980395/ib9ae39bf6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/4980395/i30cfe3b78.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/4980395/i026fed60d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/4980395/ia4fe1a311.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/4980395/i5d7361c1e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/2/4980395/id1d2c53f3.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD106",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 500,
+        "width": 225.5
+    }
+}

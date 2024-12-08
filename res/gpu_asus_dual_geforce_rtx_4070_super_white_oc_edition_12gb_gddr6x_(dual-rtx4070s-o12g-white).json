@@ -1,0 +1,31 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual GeForce RTX 4070 Super White OC Edition 12GB GDDR6X (DUAL-RTX4070S-O12G-WHITE)",
+    "price": 2877.33,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/6/4903208/if362b5c16.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/iae0c1c409.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/if90802f07.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/i8be6cc8a8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/i776258567.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/i52ad5aa8f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/i8d5eb1877.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/i45a9f66ff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/i4e9a4483c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4903208/ib02c44696.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 267.01
+    }
+}

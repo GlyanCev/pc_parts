@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX 7900 XTX Taichi 24GB OC (RX7900XTX TC 24GO)",
+    "price": 4110.12,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/2/4704483/if6caa8ce9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4704483/i810ce83ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4704483/i8c418ce44.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4704483/i5a1ee990d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4704483/i94f97b32c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4704483/i12341b709.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 24576,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin + 8 pin",
+        "recommended_psu": 1000,
+        "width": 345
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "NVIDIA RTX A2000 6GB (900-5G192-2501-000)",
+    "price": 2609.58,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/3/4699971/i8dd37dc55.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4699971/i775992817.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4699971/id558dc7c8.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4699971/id98ea9733.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4699971/i68cb74be5.jpeg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "GA106",
+        "memory_type": "GDDR6",
+        "memory_size": 6144,
+        "memory_frequency": 6000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": false,
+        "recommended_psu": 300,
+        "width": 168
+    }
+}

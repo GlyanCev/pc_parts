@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4070 Super JetStream OC 12GB (NED407ST19K9-1043J)",
+    "price": 2370.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/e/4887628/ic03f089c7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4887628/i16ad79385.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4887628/ib4bf5cd31.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4887628/i963faf447.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4887628/i45ce8ce53.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4887628/ic6e2a3993.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4887628/i46174c96c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4887628/i45e0c2105.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 328.9
+    }
+}

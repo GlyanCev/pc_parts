@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "ASUS DUAL GeForce RTX 4060 Ti Evo OC Edition 8GB GDDR6 (DUAL-RTX4060TI-O8G-EVO)",
+    "price": 1812.65,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/0/4957813/i1dab4e323.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/ifcb80f87b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/iae1c65464.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/i4a6f2505e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/ib5ade3b39.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/i351a8e9db.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/i7279c950a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/i44f8ee418.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/i685db129f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/i808d96f16.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/0/4957813/i88ca5750e.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": false,
+        "recommended_psu": 650,
+        "width": 227.2
+    }
+}

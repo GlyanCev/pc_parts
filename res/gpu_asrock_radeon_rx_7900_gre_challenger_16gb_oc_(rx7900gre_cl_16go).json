@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ASRock Radeon RX 7900 GRE Challenger 16GB OC (RX7900GRE CL 16GO)",
+    "price": 2415.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/9/4946817/id2a403b86.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4946817/i2a99cc960.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4946817/i1c033cc16.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4946817/i04632a5b0.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4946817/idcacf8e2a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/9/4946817/i5d945ecad.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 269
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Radeon RX 7900 XT Gaming 20G (GV-R79XTGAMING-20GD)",
+    "price": 4338.19,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/4/4932596/ib7f2c5dde.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4932596/ibedba7f04.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4932596/i6fd1f36c1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4932596/i6a1b6ec85.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4932596/i478050098.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4932596/ida87269e2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4932596/i4d0ff8a34.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/4/4932596/i255032e17.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 20480,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 800,
+        "width": 331
+    }
+}

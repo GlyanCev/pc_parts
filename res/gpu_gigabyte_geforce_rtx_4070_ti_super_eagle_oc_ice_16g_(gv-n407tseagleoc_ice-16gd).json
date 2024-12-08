@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX 4070 Ti Super Eagle OC Ice 16G (GV-N407TSEAGLEOC ICE-16GD)",
+    "price": 4503.64,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/7/4903224/i5625e735d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/ic750b01a0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/i74034b9f2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/ia55ecd619.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/iee6cb2932.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/id7c594e5c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/id79db11a0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/i403d06082.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4903224/i7381f9695.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 261
+    }
+}

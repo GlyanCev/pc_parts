@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4070 Ventus 2X E 12G OC",
+    "price": 2818.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/6/4856590/i29e8bec43.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4856590/i014f0afa7.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4856590/i565fd1feb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4856590/idf3923492.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/6/4856590/iefb5448c9.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 242
+    }
+}

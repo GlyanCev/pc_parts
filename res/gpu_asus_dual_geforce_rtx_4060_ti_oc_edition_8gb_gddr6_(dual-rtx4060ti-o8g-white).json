@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "ASUS Dual GeForce RTX 4060 Ti OC Edition 8GB GDDR6 (DUAL-RTX4060TI-O8G-WHITE)",
+    "price": 1955.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/8/4761167/i1199645c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4761167/icb8c16be3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4761167/ib035ebaed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4761167/i597039428.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4761167/i3cc0e0c00.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4761167/i414bf7c6d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4761167/idf24d1620.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": false,
+        "recommended_psu": 650,
+        "width": 227.2
+    }
+}

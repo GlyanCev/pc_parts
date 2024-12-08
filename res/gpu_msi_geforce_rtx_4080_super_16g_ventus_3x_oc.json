@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4080 Super 16G Ventus 3X OC",
+    "price": 5090.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/b/4932623/i0dcbe6d2b.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/b/4932623/ib3ca7af05.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/b/4932623/iba3375901.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/b/4932623/i0d8bdee2c.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/b/4932623/i047d8e276.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 322
+    }
+}

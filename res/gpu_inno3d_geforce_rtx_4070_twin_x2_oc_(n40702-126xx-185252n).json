@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "Inno3D GeForce RTX 4070 Twin X2 OC (N40702-126XX-185252N)",
+    "price": 2767.16,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/0/4792041/i6b01fb134.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4792041/i42db213a6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4792041/ib28f5f080.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 600,
+        "width": 250
+    }
+}

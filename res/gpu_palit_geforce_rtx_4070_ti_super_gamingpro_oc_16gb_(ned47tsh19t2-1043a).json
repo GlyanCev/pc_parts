@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4070 Ti Super GamingPro OC 16GB (NED47TSH19T2-1043A)",
+    "price": 3761.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/d/4887668/i29028ab4a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4887668/id7f2e97f3.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4887668/ic7a38b2c2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4887668/ie5be53f0c.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4887668/i6abf34cd2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4887668/ie7b5ce7ef.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4887668/i313252634.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/d/4887668/ib86e3956b.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 328.9
+    }
+}

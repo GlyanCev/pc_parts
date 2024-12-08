@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Radeon RX 7900 XTX Gaming OC (GV-R79XTXGAMING OC-24GD)",
+    "price": 3588.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/f/4708996/i4c6333fed.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4708996/icb9c89912.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4708996/ia8ea081aa.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4708996/i7177569f6.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4708996/ia6f0a9286.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4708996/ib43541745.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4708996/i96330e8fd.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/f/4708996/i292772231.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 31",
+        "memory_type": "GDDR6",
+        "memory_size": 24576,
+        "memory_frequency": 20000,
+        "ray_tracing": true,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 850,
+        "width": 331
+    }
+}

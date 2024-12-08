@@ -1,0 +1,19 @@
+{
+    "type": "gpu",
+    "title": "INNO3D GeForce RTX 3070 Ti X3 OC 8GB (N307T3-086XX-1820VA45)",
+    "price": 4288.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/5/4502799/i685f403b4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/5/4502799/i011bbf97a.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "memory_type": "GDDR6X",
+        "memory_size": 8192,
+        "memory_frequency": 1188,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 300
+    }
+}

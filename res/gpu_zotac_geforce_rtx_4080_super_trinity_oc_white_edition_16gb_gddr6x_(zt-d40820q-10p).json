@@ -1,0 +1,28 @@
+{
+    "type": "gpu",
+    "title": "ZOTAC GeForce RTX 4080 Super Trinity OC White Edition 16GB GDDR6X (ZT-D40820Q-10P)",
+    "price": 4924.89,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/d/4946928/i9d26640ae.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4946928/i0dc311a2a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4946928/ibf5737787.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4946928/iebdc95f5f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4946928/id38fd40e8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4946928/if1f4547f5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/d/4946928/i0f126c7a4.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 306.8
+    }
+}

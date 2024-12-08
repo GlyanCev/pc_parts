@@ -1,0 +1,30 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte GeForce RTX­­ 4070 Windforce 2X OC V2 12G (GV-N4070WF2OCV2-12GD)",
+    "price": 2590.41,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/b/5020357/i58cc748e1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/5020357/i6dafa4638.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/5020357/i816d6ae4a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/5020357/i36f3e44f1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/5020357/i1b0fb3602.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/5020357/i7dcbd97ef.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/5020357/ic2b209abe.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/b/5020357/ic9f565b59.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 650,
+        "width": 201
+    }
+}

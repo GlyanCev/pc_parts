@@ -1,0 +1,25 @@
+{
+    "type": "gpu",
+    "title": "Inno3D GeForce RTX 4060 Ti 8GB Twin X2 OC (N406T2-08D6X-171153N)",
+    "price": 1812.99,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/1/4792038/i4c66687cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4792038/ic1449f94b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/1/4792038/i33028ae8d.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 8x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD102",
+        "memory_type": "GDDR6",
+        "memory_size": 8192,
+        "memory_frequency": 18000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 550,
+        "width": 250
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "gpu",
+    "title": "Palit GeForce RTX 4080 JetStream (NED4080019T2-1032J)",
+    "price": 4051.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/6/4751475/ie107d4d76.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/i551c81f29.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/i24a2082c4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/ia82038574.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/ie634f7a28.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/i1dd368e25.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/icad9efa25.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/ic37ab48c4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/6/4751475/i36a023430.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 328.9
+    }
+}

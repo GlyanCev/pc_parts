@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Gainward GeForce RTX 4080 Super Phoenix (NED408S019T2-1032X)",
+    "price": 4924.89,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/0/4946889/iad0d3f6fb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4946889/i2ac7d3107.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4946889/i2533fed29.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4946889/i50f0961cb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4946889/ieb294a22e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4946889/i02964bc66.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4946889/i79f63a773.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4946889/i3138c0733.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 850,
+        "width": 328.9
+    }
+}

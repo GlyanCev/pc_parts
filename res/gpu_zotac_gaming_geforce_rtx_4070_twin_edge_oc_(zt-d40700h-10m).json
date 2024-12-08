@@ -1,0 +1,27 @@
+{
+    "type": "gpu",
+    "title": "ZOTAC Gaming GeForce RTX 4070 Twin Edge OC (ZT-D40700H-10M)",
+    "price": 2558.16,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/4/4908326/i264de212d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4908326/i6bd5a8600.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4908326/if5094b615.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4908326/i112288eee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4908326/ia885d7aeb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4908326/i78fc51adc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/4/4908326/i4a0e176a4.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 19000,
+        "ray_tracing": true,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin",
+        "recommended_psu": 600,
+        "width": 225.5
+    }
+}

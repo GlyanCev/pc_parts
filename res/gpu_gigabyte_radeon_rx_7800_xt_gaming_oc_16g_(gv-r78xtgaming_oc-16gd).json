@@ -1,0 +1,29 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Radeon RX 7800 XT Gaming OC 16G (GV-R78XTGAMING OC-16GD)",
+    "price": 2190.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/2/4809062/i256931d27.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4809062/ie9ab5ef76.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4809062/if6ca1ef4f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4809062/i739d191d8.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4809062/idd5fdf84d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4809062/ic99fb82b1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/2/4809062/if24482453.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 700,
+        "width": 302
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "gpu",
+    "title": "Gigabyte Aorus GeForce RTX 4070 Ti Elite (GV-N407TAORUS E-12GD)",
+    "price": 3834.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/1/4699862/i3d7d715e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/i352160484.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/i7f6dafbc1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/i16acea366.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/i4c585eb24.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/i8165ace42.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/i1a45ce2de.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/iee6b7bd0a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/1/4699862/i56ca1bea6.jpg"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 342
+    }
+}

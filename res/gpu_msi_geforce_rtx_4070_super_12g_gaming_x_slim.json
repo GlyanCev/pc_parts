@@ -1,0 +1,26 @@
+{
+    "type": "gpu",
+    "title": "MSI GeForce RTX 4070 Super 12G Gaming X Slim",
+    "price": 3132.04,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/e/4894303/i6b2755854.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4894303/i85c7ee8a8.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4894303/i2d1657664.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4894303/i9b01a81fb.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/e/4894303/i150eac561.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD104",
+        "memory_type": "GDDR6X",
+        "memory_size": 12288,
+        "memory_frequency": 21000,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 650,
+        "width": 307
+    }
+}

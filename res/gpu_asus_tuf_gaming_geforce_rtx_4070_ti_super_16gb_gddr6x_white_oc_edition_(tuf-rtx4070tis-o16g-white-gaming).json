@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS TUF Gaming GeForce RTX 4070 Ti Super 16GB GDDR6X White OC Edition (TUF-RTX4070TIS-O16G-WHITE-GAMING)",
+    "price": 4445.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/4/4946885/i85417499a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/if4b059971.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/ib14da353a.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/i393f06e48.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/ia357e7974.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/i8aa798a3d.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/i9739f47ef.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/if2c02b459.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/i0fca5b8ae.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/ibc4fd8734.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/4/4946885/ifa85f1eea.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "NVIDIA",
+        "video_processor": "AD103",
+        "memory_type": "GDDR6X",
+        "memory_size": 16384,
+        "memory_frequency": 22400,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "additional_power_required": true,
+        "additional_power_connector": "16 pin",
+        "recommended_psu": 750,
+        "width": 305
+    }
+}

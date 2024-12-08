@@ -1,0 +1,32 @@
+{
+    "type": "gpu",
+    "title": "ASUS TUF Gaming Radeon RX 7800 XT OC Edition 16GB GDDR6 (TUF-RX7800XT-O16G-GAMING)",
+    "price": 2434.67,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/5/4862224/ie6d46e052.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/icc87b4166.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/idd2e77b41.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/i3e4a42f8e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/i8216af07f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/i25b400779.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/id76b1a285.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/i3edd4bed2.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/i6501634e1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/5/4862224/i7f2d9c8a0.png"
+    ],
+    "data": {
+        "connection_type": "PCI-E 16x",
+        "manufacturer": "AMD/ATI",
+        "video_processor": "Navi 32",
+        "memory_type": "GDDR6",
+        "memory_size": 16384,
+        "memory_frequency": 19500,
+        "ray_tracing": true,
+        "directx_version": "12 Ultimate",
+        "opengl_version": 4.6,
+        "additional_power_required": true,
+        "additional_power_connector": "8 pin + 8 pin",
+        "recommended_psu": 750,
+        "width": 319.8
+    }
+}
