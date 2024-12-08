@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast RGB KF556C36BBEA-8",
+    "price": 173.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/a/4947218/i6fe6703ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4947218/i8408bcb42.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4947218/i3f7ed909a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4947218/ic133ace38.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4947218/i75a8b2283.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4947218/i20a150848.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

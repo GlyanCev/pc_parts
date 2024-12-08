@@ -1,0 +1,19 @@
+{
+    "type": "ram",
+    "title": "Apacer NOX AH5U32G52C522MBAA-2",
+    "price": 352.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/0/5027846/i425b297ee.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/5027846/i7287e9510.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/5027846/ib352619e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/5027846/i656079f75.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 5200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

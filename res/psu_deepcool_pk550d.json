@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "DeepCool PK550D",
+    "price": 193.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/8/4641160/i871b42f02.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4641160/ic265401e6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4641160/if917135a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4641160/i494473376.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4641160/i8f276fcb5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/8/4641160/ic6f22671e.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 550,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "AZZA PSAZ-850G",
+    "price": 439.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/3/4976898/i02c1bfaea.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/3/4976898/i0c5bb2cbb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/3/4976898/i294de9ba9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/3/4976898/i96d0fb663.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 850,
+        "width": 160,
+        "height": 86,
+        "depth": 150
+    }
+}

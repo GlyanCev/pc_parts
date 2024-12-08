@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Apacer AU08GHB48CTDBGH",
+    "price": 114.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/1/4812708/ic5ebd2ea5.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

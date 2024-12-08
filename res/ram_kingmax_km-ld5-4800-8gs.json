@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Kingmax KM-LD5-4800-8GS",
+    "price": 124.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/b/4932529/i645922d41.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "AeroCool Cylon 600W",
+    "price": 203.68,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/4/3492213/i843e84845.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/ib41d91ed6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i2250924d9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i254e53ed3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i686e6cbaf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/if1d9a73ed.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i5eb44393a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i5f9320fb4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i115d0b9b6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i8a4da5389.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i367bbc707.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/4/3492213/i0973cd293.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 600
+    }
+}

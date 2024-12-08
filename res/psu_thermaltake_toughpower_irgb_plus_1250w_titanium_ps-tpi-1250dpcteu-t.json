@@ -1,0 +1,21 @@
+{
+    "type": "psu",
+    "title": "Thermaltake Toughpower iRGB PLUS 1250W Titanium PS-TPI-1250DPCTEU-T",
+    "price": 1706.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/a/4896414/i4a1379fc3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4896414/i8d47c2faf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4896414/i361d17802.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4896414/ia71d66b8a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4896414/icb44618a2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4896414/ib7a1a4f3d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/a/4896414/i4a967e958.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1250,
+        "width": 150,
+        "height": 86,
+        "depth": 200
+    }
+}

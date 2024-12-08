@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "Cooler Master Elite NEX W500 MPW-5001-ACBW-BEU",
+    "price": 197.84,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/f/4990540/i77ce636e3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4990540/iefe9fb438.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4990540/i513326252.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4990540/i4464ba7e8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4990540/i5dd28bb28.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/f/4990540/icdf0d9d39.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

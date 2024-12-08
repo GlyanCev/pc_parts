@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "1stPlayer NGDP Gold 750W HA-750BA4",
+    "price": 370.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/3/4898044/id61d9f24d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/i6ca916024.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/ib4688c025.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/i888734250.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/i3561aa0f0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/i4d7d06041.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/i8ceb2bc6f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/i1cdfc4971.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/3/4898044/i1046e38fa.png"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "psu",
+    "title": "Gigabyte Aorus P1200W 80+ Platinum Modular GP-AP1200PM",
+    "price": 1175.26,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp9/4/4544766/ica4301520.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4544766/ie9274a450.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4544766/ie292747c0.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4544766/i533d187f1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4544766/i0a4739f19.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4544766/ia99a65378.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4544766/ia962160ae.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp9/4/4544766/i73a69227d.png"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1200,
+        "width": 150,
+        "height": 86,
+        "depth": 160
+    }
+}

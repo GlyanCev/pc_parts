@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast KF548C38BB-8",
+    "price": 138.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/2/4816191/if202af47b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4816191/if8ebce03e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/2/4816191/i8b73f40f4.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

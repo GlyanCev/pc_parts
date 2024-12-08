@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast KF552C40BB-8",
+    "price": 169.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/0/4816193/ic52083476.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/0/4816193/ic908920d4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/0/4816193/i92164bbff.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

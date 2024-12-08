@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "AeroCool Cylon 500W",
+    "price": 129.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/5/3492215/ied06a2b0b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/iafbbeb76f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/ie5c842017.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i5912d12e6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i8d560aa98.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i7bc57fb93.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i0c2b9c9e1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/ic15c5dba8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i2815395aa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i9b6763c86.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i366c2a227.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/5/3492215/i0afc0ab64.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500
+    }
+}

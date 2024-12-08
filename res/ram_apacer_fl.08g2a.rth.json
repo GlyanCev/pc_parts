@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "Apacer FL.08G2A.RTH",
+    "price": 98.62,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/2/5009194/i99ee239db.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

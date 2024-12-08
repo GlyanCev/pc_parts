@@ -1,0 +1,29 @@
+{
+    "type": "ram",
+    "title": "Patriot Viper Xtreme 5 PVX532G76C36K",
+    "price": 501.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/7/4887902/i8b45a27f4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i31d6d7100.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i375bd4730.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i1fd172ee0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i414f6ef51.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i342876eac.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i69ef90b80.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/ic53a663a9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/iaee60a87d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/ie1ecef1e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i0b2595b72.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/idfeaae3e8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i1ff86d0bf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/7/4887902/i9d8737237.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 7600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

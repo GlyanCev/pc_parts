@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "Deepcool DA500 500W",
+    "price": 200.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/e/1232841/i6d497ead6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/1232841/i0314c399b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/1232841/ia16335159.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/e/1232841/i1f534818e.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

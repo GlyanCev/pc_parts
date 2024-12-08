@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "Chieftec BBS-600S 600W",
+    "price": 276.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/5/3757073/ib1560c9b9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/5/3757073/if0ee174a5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/5/3757073/i62bf28d3e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppd/5/3757073/i8401c6b73.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 600,
+        "width": 150,
+        "height": 87,
+        "depth": 140,
+        "weight": "1.67 Í„"
+    }
+}

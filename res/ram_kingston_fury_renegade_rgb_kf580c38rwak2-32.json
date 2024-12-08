@@ -1,0 +1,19 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Renegade RGB KF580C38RWAK2-32",
+    "price": 1114.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/7/4980958/i9fbdb1e0c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4980958/i9bd1810cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4980958/ibbd19632a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/7/4980958/ifd3304c7d.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 8000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "ADATA AD5U48008G-S",
+    "price": 117.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/9/4723477/i3ba03322b.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/9/4723477/i5b3de2a8a.png"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

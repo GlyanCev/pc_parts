@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "ADATA AD5U56008G-S",
+    "price": 121.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/8/4723478/iaa7300bd7.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5600,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

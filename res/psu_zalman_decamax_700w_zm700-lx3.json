@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "Zalman Decamax 700W ZM700-LX3",
+    "price": 206.83,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/5/4990537/id7f02f081.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "1.6 Í„"
+    }
+}

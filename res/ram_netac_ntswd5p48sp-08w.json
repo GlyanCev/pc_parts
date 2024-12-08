@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Netac NTSWD5P48SP-08W",
+    "price": 112.23,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/4/4887884/i1aa1c7354.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887884/i44760641f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4887884/ib2592b68a.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

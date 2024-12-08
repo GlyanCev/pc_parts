@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Patriot Memory PSD316G1600KH",
+    "price": 124.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/b/1189665/i1b76675ae.jpg"
+    ],
+    "data": {
+        "type": "DDR3",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 1600,
+        "heat_spreader": true,
+        "xmp_support": false
+    }
+}

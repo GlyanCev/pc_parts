@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "AeroCool VX Plus 550W",
+    "price": 114.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/2/3306565/i21e67cda5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3306565/ia686411c1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3306565/ib254722de.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3306565/i380c56d04.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3306565/i6564e664d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/2/3306565/ib5144f85a.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 550,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

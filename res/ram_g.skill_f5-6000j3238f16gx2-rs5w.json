@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "G.SKILL F5-6000J3238F16GX2-RS5W",
+    "price": 397.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/d/4815945/i5ed99824e.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4815945/ia4d7089ea.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/d/4815945/i789d90fbd.png"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

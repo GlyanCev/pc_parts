@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "Zalman ZM700-LX 700W",
+    "price": 204.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/f/1348709/ia99683184.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/1348709/i4b00b5242.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/1348709/ib67b5a2ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp2/f/1348709/i9f59e90ee.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 86,
+        "depth": 157,
+        "weight": "2.2 Í„"
+    }
+}

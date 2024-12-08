@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "Zalman ZM700-LXII 700W",
+    "price": 190.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppd/2/4022531/ibf333935b.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 700,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "2.08 Í„"
+    }
+}

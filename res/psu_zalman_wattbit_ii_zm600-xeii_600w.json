@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "Zalman Wattbit II ZM600-XEII 600W",
+    "price": 162.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/e/4417101/i2425509bb.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 600,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "1.6 Í„"
+    }
+}

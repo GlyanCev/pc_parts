@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast RGB KF552C36BBEAK2-16",
+    "price": 328.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/f/4816211/ia94d5f564.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 2,
+        "clock_frequency": 5200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

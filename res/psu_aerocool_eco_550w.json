@@ -1,0 +1,16 @@
+{
+    "type": "psu",
+    "title": "AeroCool Eco 550W",
+    "price": 107.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/3/3204987/i3a77206da.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/3/3204987/ieb9fa497b.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 550,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

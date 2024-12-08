@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "Chieftec Proton BDF-500S OEM",
+    "price": 200.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/b/4910229/i77cb06d1a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/i589660a1c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/i0eaa6ae16.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/i842f79e02.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/i878575a0a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/id160c473e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/i109bd509e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/i5d9fb1635.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/b/4910229/i4482e711a.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 87,
+        "depth": 140
+    }
+}

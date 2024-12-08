@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "DeepCool PK800D",
+    "price": 276.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/b/4652765/if18bd240c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/ie03dc92e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/i83dd90866.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/i75d6305e5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/if4e30d063.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/ifa5fe3a2c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/i72d444714.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/ib98ac1304.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4652765/ib26a10c8d.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 800,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

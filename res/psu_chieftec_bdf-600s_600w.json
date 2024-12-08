@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "Chieftec BDF-600S 600W",
+    "price": 207.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/4/2986149/icf6e7acdd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/4/2986149/i6d56068f0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/4/2986149/id7397c7e0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/4/2986149/ice2c17d3f.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 600,
+        "width": 150,
+        "height": 87,
+        "depth": 140
+    }
+}

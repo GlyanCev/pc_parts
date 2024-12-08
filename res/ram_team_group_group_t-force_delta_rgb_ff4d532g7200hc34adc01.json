@@ -1,0 +1,23 @@
+{
+    "type": "ram",
+    "title": "Team Group Group T-Force Delta RGB FF4D532G7200HC34ADC01",
+    "price": 515.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/4/4856501/id104ff691.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4856501/i4001e3b17.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4856501/i136789337.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4856501/i2b2140f8f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4856501/i1fa4bf0aa.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4856501/id5a7bace0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4856501/ib8342f3ca.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/4/4856501/i383a79e81.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 7200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

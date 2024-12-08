@@ -1,0 +1,19 @@
+{
+    "type": "ram",
+    "title": "ADATA XPG Lancer AX5U5600C3632G-DCLABK",
+    "price": 1108.89,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/1/4783154/i4ec0a2548.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4783154/i24e895692.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4783154/i09d9ebf8c.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/1/4783154/iea1674c34.jpeg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 5600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

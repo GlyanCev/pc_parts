@@ -1,0 +1,29 @@
+{
+    "type": "psu",
+    "title": "ASUS TUF Gaming 750W Gold TUF-GAMING-750G",
+    "price": 939.07,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/3/4999977/i82f74bec2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i351992df9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i3ccb8264b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i583db1dcf.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i824a7f9e9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i57298f649.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i25b583114.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i831342f39.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i9a828574c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i403c137a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i896815178.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/ib486419cd.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i1e6fc7ba3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/3/4999977/i46070744d.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 150,
+        "height": 150,
+        "depth": 86,
+        "weight": "2.38 Í„"
+    }
+}

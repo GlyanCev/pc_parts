@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Renegade KF564C32RS-16",
+    "price": 325.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/d/4853084/i08dab0a4f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4853084/i2c606198f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/d/4853084/ifb7efe9d1.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 6400,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

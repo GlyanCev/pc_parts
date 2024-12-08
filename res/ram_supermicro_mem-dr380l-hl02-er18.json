@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Supermicro MEM-DR380L-HL02-ER18",
+    "price": 819.32,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/6/4415589/i6584bba73.jpg"
+    ],
+    "data": {
+        "type": "DDR3",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 1866,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

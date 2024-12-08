@@ -1,0 +1,15 @@
+{
+    "type": "ram",
+    "title": "KingSpec KS5600D5P13516G",
+    "price": 169.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/3/5013052/ifb12885e1.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_count": 1,
+        "clock_frequency": 5600,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

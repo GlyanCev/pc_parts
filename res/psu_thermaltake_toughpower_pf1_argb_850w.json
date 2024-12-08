@@ -1,0 +1,17 @@
+{
+    "type": "psu",
+    "title": "Thermaltake Toughpower PF1 ARGB 850W",
+    "price": 947.01,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/7/4260963/i5ce21f93b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4260963/i17a391f24.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/7/4260963/ib27629eb7.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 850,
+        "width": 150,
+        "height": 86,
+        "depth": 180
+    }
+}

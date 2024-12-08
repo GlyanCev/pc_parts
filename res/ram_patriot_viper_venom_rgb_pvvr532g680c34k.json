@@ -1,0 +1,20 @@
+{
+    "type": "ram",
+    "title": "Patriot Viper Venom RGB PVVR532G680C34K",
+    "price": 499.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/5/4816674/i3e5f74052.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4816674/i466f354b4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4816674/i1fc23949e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4816674/i5f1600f2d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/5/4816674/i2d403b0de.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6800,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

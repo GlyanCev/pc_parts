@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "AZZA PSAZ-750W",
+    "price": 207.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/0/4983907/ib538eec02.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4983907/i0734717fc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4983907/i5986d6a0d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/0/4983907/id77628e41.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 750,
+        "width": 165,
+        "height": 86,
+        "depth": 150
+    }
+}

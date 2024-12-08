@@ -1,0 +1,21 @@
+{
+    "type": "ram",
+    "title": "ADATA XPG Lancer RGB AX5U6000C3016G-DCLARWH",
+    "price": 483.52,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/6/4783175/i442c975c3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4783175/if622b70ec.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4783175/ida45abf23.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4783175/i23b3bc20c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4783175/ie95cd8648.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/6/4783175/if250ab912.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "psu",
+    "title": "AeroCool VX Plus 500W",
+    "price": 120.73,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/3/3306563/i9cd21a3d3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/3/3306563/i9572f2e6f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/3/3306563/i882388385.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/3/3306563/i93bb0d03a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/3/3306563/i1aa7bc73d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/3/3306563/ia28e89081.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

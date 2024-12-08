@@ -1,0 +1,21 @@
+{
+    "type": "psu",
+    "title": "AeroCool KCAS PLUS 600W",
+    "price": 190.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/a/3253133/i6660d93a3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/3253133/idc5cae305.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/3253133/i3f87b4267.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/3253133/i3a6e8f45b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/3253133/i83bec9ec4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/3253133/ib8195ab0e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp5/a/3253133/i4321386bf.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 600,
+        "width": 150,
+        "height": 86,
+        "depth": 149
+    }
+}

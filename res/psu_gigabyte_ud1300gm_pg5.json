@@ -1,0 +1,21 @@
+{
+    "type": "psu",
+    "title": "Gigabyte UD1300GM PG5",
+    "price": 1117.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/4/4797246/iaba6fd27d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/4/4797246/ic1b82e0b3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/4/4797246/i98fc35fc8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/4/4797246/i64c0c1956.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/4/4797246/i250aa2408.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/4/4797246/i9a4b839cb.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/4/4797246/ib08b24c6e.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1300,
+        "width": 160,
+        "height": 86,
+        "depth": 150
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "ram",
+    "title": "G.SKILL Trident Z5 F5-6600J3440G16GX2-TZ5RS",
+    "price": 480.9,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/b/4815987/ib0610fd71.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4815987/i8e6c1a73d.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4815987/id01841186.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4815987/i276e6da16.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4815987/i9cd8cad45.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4815987/i495a94272.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/b/4815987/i902e0c724.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 2,
+        "clock_frequency": 6600,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

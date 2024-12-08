@@ -1,0 +1,18 @@
+{
+    "type": "ram",
+    "title": "Kingston FURY Beast KF552C36BBE-8",
+    "price": 162.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/8/4957695/i074dcde6a.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4957695/i4f5bdeb50.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/8/4957695/i406ff70e1.jpeg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5200,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

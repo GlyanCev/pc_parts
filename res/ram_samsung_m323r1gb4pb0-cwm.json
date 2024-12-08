@@ -1,0 +1,16 @@
+{
+    "type": "ram",
+    "title": "Samsung M323R1GB4PB0-CWM",
+    "price": 121.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/b/4947245/id2a749b88.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5600,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

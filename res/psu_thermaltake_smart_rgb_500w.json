@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "Thermaltake Smart RGB 500W",
+    "price": 190.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/e/3020987/ibd12da7c9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/3020987/iefe1697c3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/3020987/i961cce98d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/3020987/iab59e6823.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/e/3020987/i99772f89c.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 500,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

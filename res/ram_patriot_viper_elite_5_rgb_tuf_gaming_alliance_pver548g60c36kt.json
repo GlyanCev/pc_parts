@@ -1,0 +1,23 @@
+{
+    "type": "ram",
+    "title": "Patriot Viper Elite 5 RGB TUF Gaming Alliance PVER548G60C36KT",
+    "price": 740.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/d/4947275/ic6b7b4e82.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4947275/i34aab8618.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4947275/i5926dced4.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4947275/i8af96d82e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4947275/if14525364.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4947275/if04c3166c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4947275/id77956c43.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4947275/if5e1100ce.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 24,
+        "module_count": 2,
+        "clock_frequency": 6000,
+        "heat_spreader": true,
+        "xmp_support": true
+    }
+}

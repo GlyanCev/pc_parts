@@ -1,0 +1,17 @@
+{
+    "type": "psu",
+    "title": "Zalman GigaMax(GVII) 650W",
+    "price": 200.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/b/4022547/i930ee5200.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/b/4022547/i0e48082d6.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 650,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "2.01 Í„"
+    }
+}

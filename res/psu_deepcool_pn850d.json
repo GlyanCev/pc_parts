@@ -1,0 +1,23 @@
+{
+    "type": "psu",
+    "title": "DeepCool PN850D",
+    "price": 391.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/0/4924211/i5daf80d23.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i13e338f49.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i0f888e990.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i9de3b165a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i13962d8b9.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i83980346a.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i6afde12e4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i8f4a83130.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/0/4924211/i633f7f1b2.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 850,
+        "width": 150,
+        "height": 86,
+        "depth": 140
+    }
+}

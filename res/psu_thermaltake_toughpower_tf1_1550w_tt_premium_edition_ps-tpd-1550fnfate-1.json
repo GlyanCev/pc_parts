@@ -1,0 +1,21 @@
+{
+    "type": "psu",
+    "title": "Thermaltake Toughpower TF1 1550W TT Premium Edition PS-TPD-1550FNFATE-1",
+    "price": 1521.57,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/5/4565205/i1d5984def.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4565205/i96b137b69.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4565205/ied4a1ce85.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4565205/i44dc3ccf9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4565205/ieb7e87c17.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/5/4565205/if46352598.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1550,
+        "width": 150,
+        "height": 86,
+        "depth": 180,
+        "weight": "2.4 Í„"
+    }
+}

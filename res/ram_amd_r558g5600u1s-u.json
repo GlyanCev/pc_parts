@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "AMD R558G5600U1S-U",
+    "price": 125.71,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp7/6/4894086/ic7d9bdd58.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp7/6/4894086/i57b6f7d06.jpg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 8,
+        "module_count": 1,
+        "clock_frequency": 5600,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}

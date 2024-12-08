@@ -1,0 +1,17 @@
+{
+    "type": "ram",
+    "title": "ADATA AD5U480016G-S",
+    "price": 176.19,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/8/4755033/i94cdb7f00.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/8/4755033/ibd5633496.jpeg"
+    ],
+    "data": {
+        "type": "DDR5",
+        "module_capacity": 16,
+        "module_count": 1,
+        "clock_frequency": 4800,
+        "heat_spreader": false,
+        "xmp_support": false
+    }
+}
