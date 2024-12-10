@@ -8,6 +8,7 @@
     "data": {
         "socket": "SP3",
         "memory_type": "DDR4 DIMM",
+	"max_memory": 512,
         "memory_slots": 8,
         "max_memory_frequency": 3200,
         "chipset_name": "встроен в процессор",

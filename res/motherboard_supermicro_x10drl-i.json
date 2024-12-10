@@ -9,6 +9,7 @@
         "socket": "LGA2011-3",
         "max_memory_frequency": 2133,
         "memory_type": "DDR4 DIMM",
+        "max_memory": 512,
         "memory_slots": 8,
         "dual_channel": false,
         "chipset_name": "Intel C612",

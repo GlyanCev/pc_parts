@@ -11,6 +11,7 @@
     "data": {
         "socket": "LGA2066",
         "memory_type": "DDR4 DIMM",
+	"max_memory": 256,
         "memory_slots": 8,
         "max_memory_frequency": 2666,
         "dual_channel": false,

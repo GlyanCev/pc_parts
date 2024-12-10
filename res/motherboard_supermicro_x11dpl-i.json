@@ -8,6 +8,7 @@
     "data": {
         "socket": "LGA3647",
         "memory_type": "DDR4 DIMM",
+	"max_memory": 512,
         "memory_slots": 8,
         "max_memory_frequency": 2666,
         "chipset_name": "Intel C621",
