@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "In Win PE689BL 650W 6188705",
+    "price": 674.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/4/4866617/i60d820db6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4866617/i74f8f78ed.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4866617/i87dd19c03.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4866617/if0e91c7d0.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4866617/i0b9451283.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4866617/i3a54d13e6.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/4/4866617/if2e2cb1bc.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX, SSI CEB",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 172,
+        "max_gpu_length": 290,
+        "liquid_cooling_support": false
+    }
+}

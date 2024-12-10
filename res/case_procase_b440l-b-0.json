@@ -1,0 +1,18 @@
+{
+    "type": "case",
+    "title": "Procase B440L-B-0",
+    "price": 339.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/a/2602263/i81e3642ac.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_gpu_length": 345,
+        "liquid_cooling_support": false
+    }
+}

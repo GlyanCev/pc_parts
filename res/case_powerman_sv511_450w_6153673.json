@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "Powerman SV511 450W 6153673",
+    "price": 172.18,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/c/4653847/i2b81788de.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/c/4653847/ib727c275c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/c/4653847/i1324cbe10.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/c/4653847/i8d3f548de.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppe/c/4653847/i18a0e5936.jpeg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

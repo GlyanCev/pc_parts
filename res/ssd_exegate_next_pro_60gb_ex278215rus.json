@@ -1,0 +1,16 @@
+{
+    "type": "ssd",
+    "title": "ExeGate Next Pro 60GB EX278215RUS",
+    "price": 31.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppb/8/4516814/ie5a6d0764.jpeg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4516814/i9001d60c9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppb/8/4516814/i090a9da49.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 60,
+        "write_speed": 400,
+        "read_speed": 450
+    }
+}

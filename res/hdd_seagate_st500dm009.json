@@ -1,0 +1,15 @@
+{
+    "type": "hdd",
+    "title": "Seagate ST500DM009",
+    "price": 108.68,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp5/e/2644935/i33053826e.jpg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 500,
+        "rpm": 7200,
+        "write_speed": 156,
+        "read_speed": 210
+    }
+}

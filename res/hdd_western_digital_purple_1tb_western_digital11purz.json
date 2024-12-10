@@ -1,0 +1,14 @@
+{
+    "type": "hdd",
+    "title": "Western Digital Purple 1TB Western Digital11PURZ",
+    "price": 204.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/8/4863616/i3e91c1bd0.jpg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 1000,
+        "rpm": 5400,
+        "read_speed": 110
+    }
+}

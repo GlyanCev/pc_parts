@@ -1,0 +1,21 @@
+{
+    "type": "psu",
+    "title": "1stPlayer PS-650FK 650W",
+    "price": 155.7,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/7/4502820/i5315b576d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4502820/ic749e198e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4502820/ia33316f7d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4502820/i56e1960c2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4502820/i2a5cbd8d2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/7/4502820/i6d7bbec47.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 650,
+        "width": 150,
+        "height": 86,
+        "depth": 140,
+        "weight": "1.9 Í„"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "ExeGate BA-309 EX286412RUS",
+    "price": 95.47,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/2/4515038/ia70cf599d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/2/4515038/i031e9cc68.jpg"
+    ],
+    "data": {
+        "motherboard_format": "mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "max_cpu_cooler_height": 135,
+        "max_gpu_length": 320,
+        "max_psu_length": 180,
+        "liquid_cooling_support": false
+    }
+}

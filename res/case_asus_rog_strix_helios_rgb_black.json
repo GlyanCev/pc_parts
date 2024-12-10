@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "ASUS ROG Strix Helios RGB Black",
+    "price": 1634.75,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/0/3710635/i50fbd4676.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/3710635/i7e117a171.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/3710635/ibfd80add0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/3710635/ib491ab0b9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/0/3710635/i57c18deed.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 190,
+        "max_gpu_length": 450,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

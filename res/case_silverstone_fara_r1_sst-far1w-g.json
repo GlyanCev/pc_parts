@@ -1,0 +1,33 @@
+{
+    "type": "case",
+    "title": "SilverStone Fara R1 SST-FAR1W-G",
+    "price": 293.95,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/0/4567874/ic4f744754.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/ibd1cfa8b7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/i38d48c155.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/ia4b43fbcc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/idec07a6a7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/iadaca1b5a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/ic6e20da97.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/ic462fd85f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/iaaf1c68ef.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/i6d1318c58.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/i2fc4a2c26.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/idd0b46042.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/i1efde9e92.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/0/4567874/ibefc6d9cd.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 165,
+        "max_gpu_length": 322,
+        "max_psu_length": 160,
+        "liquid_cooling_support": true
+    }
+}

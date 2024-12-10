@@ -1,0 +1,20 @@
+{
+    "type": "case",
+    "title": "Foxline 450W FL-302-FZ450",
+    "price": 138.4,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/d/4539587/i682336046.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4539587/i0ef335630.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4539587/ic9fa5ea19.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4539587/ib85d2f094.png",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/d/4539587/ie1acd4c65.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": false,
+        "liquid_cooling_support": false
+    }
+}

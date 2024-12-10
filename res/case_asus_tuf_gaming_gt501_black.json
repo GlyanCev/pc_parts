@@ -1,0 +1,29 @@
+{
+    "type": "case",
+    "title": "ASUS TUF Gaming GT501 Black",
+    "price": 1056.63,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/8/3474585/i128c9b5f7.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/i14d3d23b0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/i960adf915.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/ifeb3b202c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/i01c2510be.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/ia34c6789d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/i745c532d9.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/i76165bc7c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/i135c786bc.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/8/3474585/ib3f6f43eb.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 420,
+        "max_psu_length": 240,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "ssd",
+    "title": "Colorful SL300 128GB",
+    "price": 36.96,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/8/3272833/idbe8f6525.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/3272833/i7475c4f2a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/3272833/i785bd7bc3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/8/3272833/ic83f02d75.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 128,
+        "write_speed": 450,
+        "read_speed": 500
+    }
+}

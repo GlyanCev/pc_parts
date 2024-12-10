@@ -1,0 +1,15 @@
+{
+    "type": "ssd",
+    "title": "Western Digital Red SN700 2TB Western DigitalS200T1R0C",
+    "price": 828.16,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp2/e/4559451/i6b59f0743.png"
+    ],
+    "data": {
+        "form_factor": "M.2",
+        "capacity": 2000,
+        "write_speed": 2900,
+        "read_speed": 3400,
+        "pci_e_type": "PCI-E 3.0 x4"
+    }
+}

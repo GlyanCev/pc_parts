@@ -1,0 +1,31 @@
+{
+    "type": "case",
+    "title": "Zalman M4 white",
+    "price": 249.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/d/4842458/ide7ebf31f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/i8803e0801.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ie89e90fe1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ib4948de2b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ia60a2f747.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/i1c1b473b6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ia32df2096.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ic6b8c55e8.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ib25abc9c0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ic691858e6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/ia48503622.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/d/4842458/id023f86ce.jpg"
+    ],
+    "data": {
+        "motherboard_format": "Mini-ITX,mATX",
+        "max_motherboard_size": "micro-ATX",
+        "case_color": "белый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 157,
+        "max_gpu_length": 320,
+        "max_psu_length": 140,
+        "liquid_cooling_support": true
+    }
+}

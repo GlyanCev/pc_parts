@@ -1,0 +1,20 @@
+{
+    "type": "ssd",
+    "title": "Samsung 2000 GB MZ-77E2T0BW",
+    "price": 595.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/c/4413619/i93c772e1b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4413619/i441c15348.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4413619/id43e80a4d.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4413619/i3f42c965c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4413619/i176abd17f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4413619/i3c1b48792.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/c/4413619/ib2f5ba002.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 2000,
+        "write_speed": 530,
+        "read_speed": 560
+    }
+}

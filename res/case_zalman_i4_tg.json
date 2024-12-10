@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "Zalman i4 TG",
+    "price": 204.1,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp8/9/4808206/i274bb6472.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/ie08ff166c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/ic434e01ff.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/id0634e010.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/i417301aa5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/i9efd14c90.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/i84e5f934e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/i473580310.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp8/9/4808206/i28935b92b.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 320,
+        "max_psu_length": 140,
+        "liquid_cooling_support": true
+    }
+}

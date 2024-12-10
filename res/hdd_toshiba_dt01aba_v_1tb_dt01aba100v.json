@@ -1,0 +1,13 @@
+{
+    "type": "hdd",
+    "title": "Toshiba DT01ABA V 1TB DT01ABA100V",
+    "price": 197.2,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/0/4994897/i072fa8f06.jpg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 1000,
+        "rpm": 5700
+    }
+}

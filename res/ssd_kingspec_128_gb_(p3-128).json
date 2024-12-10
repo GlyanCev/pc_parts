@@ -1,0 +1,17 @@
+{
+    "type": "ssd",
+    "title": "KingSpec 128 GB (P3-128)",
+    "price": 37.28,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/6/4256357/ief2cebbf0.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/6/4256357/i0cc4b930f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/6/4256357/i13a79f169.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp1/6/4256357/i8d0bef9ee.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 128,
+        "write_speed": 320,
+        "read_speed": 450
+    }
+}

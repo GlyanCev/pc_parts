@@ -9,7 +9,7 @@
     ],
     "data": {
         "type": "DDR4",
-        "module_capacity": 4,
+        "module_capacity": 16,
         "module_count": 4,
         "clock_frequency": 2666,
         "heat_spreader": true,

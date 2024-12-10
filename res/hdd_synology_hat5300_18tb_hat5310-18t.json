@@ -1,0 +1,13 @@
+{
+    "type": "hdd",
+    "title": "Synology HAT5300 18TB HAT5310-18T",
+    "price": 3540.71,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/3/4665693/i387e62889.jpeg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 18000,
+        "rpm": 7200
+    }
+}

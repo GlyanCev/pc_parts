@@ -1,0 +1,18 @@
+{
+    "type": "ssd",
+    "title": "Netac SA500 120GB NT01SA500-120-S3X",
+    "price": 34.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp4/c/4641022/i94aea6d4b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/c/4641022/id3ac8b780.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/c/4641022/i5ee62b868.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/c/4641022/i87e604360.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp4/c/4641022/i7a4f34d4c.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 120,
+        "write_speed": 400,
+        "read_speed": 500
+    }
+}

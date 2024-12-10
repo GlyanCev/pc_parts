@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "AeroCool Cylon Black",
+    "price": 181.0,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/e/3103993/i3ee4a4749.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/e/3103993/i862a4b78b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/e/3103993/i994afb971.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/e/3103993/ib7d757c34.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/e/3103993/i802c48b4a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/e/3103993/i9a4d9f9d2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/e/3103993/idd38d292f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp0/e/3103993/ia8028a5e2.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь, пластик",
+        "side_window": true,
+        "window_material": "акрил",
+        "max_cpu_cooler_height": 155,
+        "max_gpu_length": 371,
+        "liquid_cooling_support": true
+    }
+}

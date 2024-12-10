@@ -1,0 +1,13 @@
+{
+    "type": "ssd",
+    "title": "Samsung PM1653a 30.72TB MZILG30THBLA-00A07",
+    "price": 25925.8,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppa/c/4796674/ief95062f5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppa/c/4796674/i53063e81f.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 30720
+    }
+}

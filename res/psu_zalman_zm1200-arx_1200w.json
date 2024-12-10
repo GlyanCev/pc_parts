@@ -1,0 +1,19 @@
+{
+    "type": "psu",
+    "title": "Zalman ZM1200-ARX 1200W",
+    "price": 896.74,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppc/3/2711789/i62c2cee2c.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/2711789/i5733a1458.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/2711789/ia36a1aec3.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppc/3/2711789/icb8fae57f.jpg"
+    ],
+    "data": {
+        "form_factor": "ATX",
+        "power": 1200,
+        "width": 150,
+        "height": 86,
+        "depth": 180,
+        "weight": "3.1 Í„"
+    }
+}

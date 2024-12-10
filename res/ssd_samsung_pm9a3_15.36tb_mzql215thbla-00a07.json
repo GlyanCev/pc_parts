@@ -1,0 +1,14 @@
+{
+    "type": "ssd",
+    "title": "Samsung PM9A3 15.36TB MZQL215THBLA-00A07",
+    "price": 8420.88,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp1/9/4668313/i64fc134c2.jpeg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 15360,
+        "write_speed": 4000,
+        "read_speed": 6700
+    }
+}

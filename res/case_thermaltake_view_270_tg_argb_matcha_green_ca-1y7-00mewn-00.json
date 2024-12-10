@@ -1,0 +1,26 @@
+{
+    "type": "case",
+    "title": "Thermaltake View 270 TG ARGB Matcha Green CA-1Y7-00MEWN-00",
+    "price": 387.5,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/6/4979737/i9b84089de.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/6/4979737/i23752f838.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/6/4979737/if4d84737f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/6/4979737/i58a905473.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/6/4979737/id9aca7f5f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/6/4979737/i407175fa5.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/6/4979737/ic6a9dc262.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "зеленый",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 180,
+        "max_gpu_length": 420,
+        "max_psu_length": 220,
+        "liquid_cooling_support": true
+    }
+}

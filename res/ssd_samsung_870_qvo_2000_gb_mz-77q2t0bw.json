@@ -1,0 +1,18 @@
+{
+    "type": "ssd",
+    "title": "Samsung 870 QVO 2000 GB MZ-77Q2T0BW",
+    "price": 598.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/e/4414343/i514ce2e72.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4414343/i8e73eeed6.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4414343/ic7bad702b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4414343/i79acd0d3a.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/e/4414343/ib13285b8b.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 2000,
+        "write_speed": 530,
+        "read_speed": 560
+    }
+}

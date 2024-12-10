@@ -1,0 +1,18 @@
+{
+    "type": "psu",
+    "title": "Supermicro PWS-2K21A-BR 2200W",
+    "price": 3478.53,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/0/4281217/i768fc9aa2.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4281217/idfb7fa5a1.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/0/4281217/ie805b33a6.jpg"
+    ],
+    "data": {
+        "form_factor": "2U",
+        "power": 2200,
+        "width": 106.5,
+        "height": 84,
+        "depth": 245.3,
+        "weight": "2.344 Í„"
+    }
+}

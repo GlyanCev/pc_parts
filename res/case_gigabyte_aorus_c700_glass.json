@@ -1,0 +1,28 @@
+{
+    "type": "case",
+    "title": "Gigabyte Aorus C700 Glass",
+    "price": 1469.53,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/a/4514971/i95f8b7f78.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/if0527fa60.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/i2156d8ee4.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/i62b8303b1.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/i9f43f37eb.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/i59cf91e7f.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/i3965c6554.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/i0b6270fde.png",
+        "https://static.1k.by/images/productsimages/ip/125/pp3/a/4514971/i993f0e19c.png"
+    ],
+    "data": {
+        "motherboard_format": "ATX,Mini-ITX,EATX,mATX",
+        "max_motherboard_size": "eATX",
+        "case_color": "черный",
+        "case_material": "сталь",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 198,
+        "max_gpu_length": 490,
+        "max_psu_length": 200,
+        "liquid_cooling_support": true
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "ssd",
+    "title": "Transcend 245S 2TB TS2TMTE245S",
+    "price": 857.24,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppe/f/5011737/i799ada597.jpg"
+    ],
+    "data": {
+        "form_factor": "M.2",
+        "capacity": 2000,
+        "write_speed": 4600,
+        "read_speed": 5300,
+        "pci_e_type": "PCI-E 4.0 x4"
+    }
+}

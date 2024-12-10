@@ -1,0 +1,24 @@
+{
+    "type": "case",
+    "title": "Ginzzu CL200 Black",
+    "price": 145.3,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/ppf/6/4004395/i347256376.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4004395/i3e3c6e651.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4004395/ia87320f7f.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4004395/i390a2c08b.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4004395/ifef781347.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/ppf/6/4004395/i75c29b1bc.jpg"
+    ],
+    "data": {
+        "motherboard_format": "ATX,mATX",
+        "max_motherboard_size": "ATX",
+        "case_color": "черный",
+        "case_material": "сталь,стекло",
+        "side_window": true,
+        "window_material": "закаленное стекло",
+        "max_cpu_cooler_height": 170,
+        "max_gpu_length": 330,
+        "liquid_cooling_support": true
+    }
+}

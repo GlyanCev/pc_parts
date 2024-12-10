@@ -1,0 +1,15 @@
+{
+    "type": "ssd",
+    "title": "Kingston SNV2S 1TB SNV2S/1000G",
+    "price": 207.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/4/4662046/id267b182b.jpg"
+    ],
+    "data": {
+        "form_factor": "M.2",
+        "capacity": 1000,
+        "write_speed": 2100,
+        "read_speed": 3500,
+        "pci_e_type": "PCI-E 4.0 x4"
+    }
+}

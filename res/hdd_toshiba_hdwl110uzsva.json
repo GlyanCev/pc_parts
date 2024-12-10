@@ -1,0 +1,13 @@
+{
+    "type": "hdd",
+    "title": "Toshiba HDWL110UZSVA",
+    "price": 207.6,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp3/6/3253791/id74ea3ed9.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 1000,
+        "rpm": 5400
+    }
+}

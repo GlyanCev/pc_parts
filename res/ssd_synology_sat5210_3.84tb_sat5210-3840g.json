@@ -1,0 +1,14 @@
+{
+    "type": "ssd",
+    "title": "Synology SAT5210 3.84TB SAT5210-3840G",
+    "price": 6458.54,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp0/3/4567664/i49ddd9f01.jpg"
+    ],
+    "data": {
+        "form_factor": "2.5''",
+        "capacity": 3840,
+        "write_speed": 500,
+        "read_speed": 530
+    }
+}

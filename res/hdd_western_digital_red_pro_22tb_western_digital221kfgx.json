@@ -1,0 +1,15 @@
+{
+    "type": "hdd",
+    "title": "Western Digital Red Pro 22TB Western Digital221KFGX",
+    "price": 2391.91,
+    "image_urls": [
+        "https://static.1k.by/images/products/ip/125/pp6/4/4899691/ieaf385e4e.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4899691/i244add144.jpg",
+        "https://static.1k.by/images/productsimages/ip/125/pp6/4/4899691/ib5bda0c27.jpg"
+    ],
+    "data": {
+        "form_factor": "3.5''",
+        "capacity": 22000,
+        "rpm": 7200
+    }
+}
